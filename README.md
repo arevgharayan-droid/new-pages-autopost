@@ -1,6 +1,6 @@
 # New pages autopost
 
-A separate autoposting system for 60 Facebook pages. It is completely independent of INTERES WORLD:
+A separate autoposting system for 58 Facebook pages. It is completely independent of INTERES WORLD:
 its own repository, Meta business portfolio, system users, page tokens, WordPress site, queues and schedule.
 
 Each release = a post with a photo on every page of a group + an article on the website + the article link
@@ -13,12 +13,13 @@ in the first comment. Releases run at 12:00, 15:00, 18:00, 21:00 and 00:00 (Yere
 | IT-1 | IT | 11 |
 | IT-2 | IT2 | 11 |
 | EN-1 | EN | 10 |
-| EN-2 | EN2 | 10 |
+| EN-2 | EN2 | 8 |
 | FR | FR | 11 |
 | DE | DE | 4 |
 | PT+ES | PT | 3 |
 
-Pages are listed in `config/pages.yaml`. Links for each group go to `queue/<key>.txt`.
+Pages are listed in `config/pages.yaml`. Beyond the Mask and Heartfelt Lessons stay in INTERES WORLD
+and are not part of this system. Links for each group go to `queue/<key>.txt`.
 
 ## Status
 
@@ -27,7 +28,7 @@ Pages are listed in `config/pages.yaml`. Links for each group go to `queue/<key>
 
 ## Still to connect
 
-1. Meta: new business portfolio, the 60 pages added, system users with "Content" and "Community activity"
+1. Meta: new business portfolio, the 58 pages added, system users with "Content" and "Community activity"
    rights, a Meta app → secrets `FB_APP_ID`, `FB_APP_SECRET`, `FB_USER_TOKEN` (`_2`, `_3`).
 2. Run workflow "2 · Подключить Facebook" → real page IDs replace the `pending-NN` placeholders.
 3. WordPress site → `site.url` in `config/settings.yaml` + secret `WP_API_KEY` (Make Connector)

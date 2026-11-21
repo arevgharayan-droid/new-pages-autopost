@@ -1,8 +1,9 @@
-# Страницы Facebook отдельной системы (60 страниц, список от 22.11.2026).
+# Страницы Facebook отдельной системы (58 страниц, список от 22.11.2026).
+# Beyond the Mask и Heartfelt Lessons убраны 22.11.2026: они остаются в INTERES WORLD (EN-1).
 # page_id пока не известны: «pending-NN» заменятся настоящими после подключения Facebook
 # (workflow «2 · Подключить Facebook» покажет ID и названия всех доступных страниц).
 # link — ссылка на страницу из списка владелицы.
-# Группы (одна история на группу в каждом выпуске): IT-1 11 · IT-2 11 · EN-1 10 · EN-2 10 · FR 11 · DE 4 · PT+ES 3 (7 историй на выпуск).
+# Группы (одна история на группу в каждом выпуске): IT-1 11 · IT-2 11 · EN-1 10 · EN-2 8 · FR 11 · DE 4 · PT+ES 3 (7 историй на выпуск).
 
 languages:
   FR:
@@ -46,7 +47,7 @@ languages:
       - {page_id: "pending-33", name: "Emozioni del Quotidiano", link: "https://www.facebook.com/share/1FKoatkgNY/", group: IT2}
   EN:
     name: English
-    pages:   # 20
+    pages:   # 18
       - {page_id: "pending-34", name: "Moments Behind Faces", link: "https://www.facebook.com/share/1FYAqeHnsA/"}
       - {page_id: "pending-35", name: "Life Through Their Eyes", link: "https://www.facebook.com/share/1AKAMRpktY/"}
       - {page_id: "pending-36", name: "The Turning Point", link: "https://www.facebook.com/share/19qwSoavwU/"}
@@ -57,8 +58,6 @@ languages:
       - {page_id: "pending-41", name: "The Door She Closed", link: "https://www.facebook.com/share/1DtVBfZHEM/"}
       - {page_id: "pending-42", name: "Little Legends", link: "https://www.facebook.com/share/1d4imSTDTf/"}
       - {page_id: "pending-43", name: "Viral Cuties", link: "https://www.facebook.com/share/1B2fe3yMvz/"}
-      - {page_id: "pending-44", name: "Heartfelt Lessons", link: "https://www.facebook.com/share/1ca6GUYJUA/", group: EN2}
-      - {page_id: "pending-45", name: "Beyond the Mask", link: "https://www.facebook.com/share/1CfyHG2ZSk/", group: EN2}
       - {page_id: "pending-46", name: "Stories Behind Tears", link: "https://www.facebook.com/share/1BTaR8JjVf/", group: EN2}
       - {page_id: "pending-47", name: "The Life Edit", link: "https://www.facebook.com/share/1EqXZeCKAf/", group: EN2}
       - {page_id: "pending-48", name: "Stories We Feel", link: "https://www.facebook.com/share/1Fh8hnibPP/", group: EN2}
