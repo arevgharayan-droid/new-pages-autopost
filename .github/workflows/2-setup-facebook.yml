@@ -1,0 +1,36 @@
+name: "2 · Подключить Facebook (один раз)"
+
+on:
+  workflow_dispatch: {}
+
+concurrency:
+  group: autopost
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  setup:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Получить бессрочные токены 34 страниц и сохранить в зашифрованном виде
+        env:
+          FB_APP_ID: ${{ secrets.FB_APP_ID }}
+          FB_APP_SECRET: ${{ secrets.FB_APP_SECRET }}
+          FB_USER_TOKEN: ${{ secrets.FB_USER_TOKEN }}
+          FB_USER_TOKEN_2: ${{ secrets.FB_USER_TOKEN_2 }}
+          FB_USER_TOKEN_3: ${{ secrets.FB_USER_TOKEN_3 }}
+        run: python -m autopost setup-facebook
+      - name: Сохранить
+        if: always()
+        run: bash scripts/commit-state.sh "facebook — зашифрованные токены страниц"

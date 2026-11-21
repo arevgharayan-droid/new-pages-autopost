@@ -1,0 +1,49 @@
+name: "3 · Закрытый тест (без публичной публикации)"
+
+on:
+  workflow_dispatch:
+    inputs:
+      source:
+        description: "Ссылка на пост-источник (пусто — взять следующую историю автоматически)"
+        required: false
+        default: ""
+      page:
+        description: "page_id тестовой страницы (пусто — из settings.yaml)"
+        required: false
+        default: ""
+
+concurrency:
+  group: autopost
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  private-test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Тексты Claude на 4 языка + черновик WordPress + отложенный пост FB (оба удаляются)
+        env:
+          FB_APP_SECRET: ${{ secrets.FB_APP_SECRET }}
+          WP_USER: ${{ secrets.WP_USER }}
+          WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
+          WP_API_KEY: ${{ secrets.WP_API_KEY }}
+          WP_API_KEY_HETAQRQIR: ${{ secrets.WP_API_KEY_HETAQRQIR }}
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SOURCE: ${{ inputs.source }}
+          PAGE: ${{ inputs.page }}
+        run: python -m autopost private-test --source "$SOURCE" --page "$PAGE"
+      - name: Сохранить тексты и отчёт
+        if: always()
+        run: bash scripts/commit-state.sh "закрытый тест — тексты и отчёт"

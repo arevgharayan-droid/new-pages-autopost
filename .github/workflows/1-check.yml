@@ -1,0 +1,39 @@
+name: "1 · Проверка подключений (ничего не публикует)"
+
+on:
+  workflow_dispatch: {}
+
+concurrency:
+  group: autopost
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Проверка Facebook, WordPress, Claude и источника историй
+        env:
+          FB_APP_ID: ${{ secrets.FB_APP_ID }}
+          FB_APP_SECRET: ${{ secrets.FB_APP_SECRET }}
+          WP_USER: ${{ secrets.WP_USER }}
+          WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
+          WP_API_KEY: ${{ secrets.WP_API_KEY }}
+          WP_API_KEY_HETAQRQIR: ${{ secrets.WP_API_KEY_HETAQRQIR }}
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m autopost check
+      - name: Сохранить отчёт
+        if: always()
+        run: bash scripts/commit-state.sh "проверка подключений — отчёт"

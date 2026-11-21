@@ -1,0 +1,35 @@
+name: "6 · Включить или выключить расписание"
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "on — включить автопостинг, off — выключить"
+        required: true
+        type: choice
+        options: ["on", "off"]
+
+concurrency:
+  group: autopost
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  switch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - env:
+          MODE: ${{ inputs.mode }}
+        run: python -m autopost set-schedule "$MODE"
+      - run: bash scripts/commit-state.sh "расписание — ${{ inputs.mode }}"

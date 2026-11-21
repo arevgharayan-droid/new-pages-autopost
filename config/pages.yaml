@@ -1,0 +1,87 @@
+# Страницы Facebook отдельной системы (60 страниц, список от 22.11.2026).
+# page_id пока не известны: «pending-NN» заменятся настоящими после подключения Facebook
+# (workflow «2 · Подключить Facebook» покажет ID и названия всех доступных страниц).
+# link — ссылка на страницу из списка владелицы.
+# Группы (одна история на группу в каждом выпуске): IT-1 11 · IT-2 11 · EN-1 10 · EN-2 10 · FR 11 · DE 4 · PT+ES 3 (7 историй на выпуск).
+
+languages:
+  FR:
+    name: French
+    pages:   # 11
+      - {page_id: "pending-01", name: "Néo Rêve", link: "https://www.facebook.com/share/1FcLKJDe8D/"}
+      - {page_id: "pending-02", name: "Monde Virtuel", link: "https://www.facebook.com/share/19UeFPUC2J/"}
+      - {page_id: "pending-03", name: "Les Vies Cachées", link: "https://www.facebook.com/share/1CCNCr3ehM/"}
+      - {page_id: "pending-04", name: "Les Vérités du Cœur", link: "https://www.facebook.com/profile.php?id=61594342787888"}
+      - {page_id: "pending-05", name: "La Page des Vies", link: "https://www.facebook.com/share/19PRNNaTzF/"}
+      - {page_id: "pending-06", name: "Vies en Écho", link: "https://www.facebook.com/share/19ELqvG7a9/"}
+      - {page_id: "pending-07", name: "La Vie qui Passe", link: "https://www.facebook.com/share/1gGsg3EFfs/"}
+      - {page_id: "pending-08", name: "Vies à Découvrir", link: "https://www.facebook.com/share/14eSoTqc3LY/"}
+      - {page_id: "pending-09", name: "Le Côté Caché de la Vie", link: "https://www.facebook.com/share/1EWxGVPydo/"}
+      - {page_id: "pending-10", name: "Émotions Sans Fin", link: "https://www.facebook.com/share/1CE5nT2zDs/"}
+      - {page_id: "pending-11", name: "Ces vies qu'on n'oublie", link: "https://www.facebook.com/share/19s4mi2frz/"}
+  IT:
+    name: Italian
+    pages:   # 22
+      - {page_id: "pending-12", name: "Nel Cuore dei Segreti", link: "https://www.facebook.com/share/1FPiavSh6M/"}
+      - {page_id: "pending-13", name: "Storie che Toccano", link: "https://www.facebook.com/share/18wT3RwzgP/"}
+      - {page_id: "pending-14", name: "Emozioni in Vista", link: "https://www.facebook.com/share/1Drr56xdLG/"}
+      - {page_id: "pending-15", name: "Cuore e realtà", link: "https://www.facebook.com/share/1JTDT6vCRS/"}
+      - {page_id: "pending-16", name: "Vita senza maschere", link: "https://www.facebook.com/share/1EDMVmcqWN/"}
+      - {page_id: "pending-17", name: "Dove parla il cuore", link: "https://www.facebook.com/share/1CZTVRYbtD/"}
+      - {page_id: "pending-18", name: "Quao la Vita Cambia", link: "https://www.facebook.com/share/18u7v4qs6U/"}
+      - {page_id: "pending-19", name: "Segreti di Mezzanotte", link: "https://www.facebook.com/share/1BRibsGZEp/"}
+      - {page_id: "pending-20", name: "Storie Dietro gli Occhi", link: "https://www.facebook.com/share/19wVWeEzrL/"}
+      - {page_id: "pending-21", name: "Il Lato Nascosto della Vita", link: "https://www.facebook.com/share/19anxGNmru/"}
+      - {page_id: "pending-22", name: "Quando la Vita Cambia", link: "https://www.facebook.com/share/1MpBqbtxAy/"}
+      - {page_id: "pending-23", name: "Segreti di Famiglia", link: "https://www.facebook.com/share/1ENPsV5AR5/", group: IT2}
+      - {page_id: "pending-24", name: "Lacrime e Verità", link: "https://www.facebook.com/share/1DyAAkqEd4/", group: IT2}
+      - {page_id: "pending-25", name: "Voci dal Passato", link: "https://www.facebook.com/share/1KdWWXB2TX/", group: IT2}
+      - {page_id: "pending-26", name: "Lacrime a Tavola", link: "https://www.facebook.com/share/1Kwt8Xh6yM/", group: IT2}
+      - {page_id: "pending-27", name: "Momenti da Ricordare", link: "https://www.facebook.com/share/1HjMSq75Hm/", group: IT2}
+      - {page_id: "pending-28", name: "Attimi di Verità", link: "https://www.facebook.com/share/14vtXH9oLkA/", group: IT2}
+      - {page_id: "pending-29", name: "Le Storie dell'Anima", link: "https://www.facebook.com/share/1EF7F1KV1E/", group: IT2}
+      - {page_id: "pending-30", name: "Racconti del Cuore", link: "https://www.facebook.com/share/1FPHwfmaLJ/", group: IT2}
+      - {page_id: "pending-31", name: "Mondo Parallelo", link: "https://www.facebook.com/share/1SpjmAwtja/", group: IT2}
+      - {page_id: "pending-32", name: "Cuori in Rovina", link: "https://www.facebook.com/share/1Fz7Hytjkb/", group: IT2}
+      - {page_id: "pending-33", name: "Emozioni del Quotidiano", link: "https://www.facebook.com/share/1FKoatkgNY/", group: IT2}
+  EN:
+    name: English
+    pages:   # 20
+      - {page_id: "pending-34", name: "Moments Behind Faces", link: "https://www.facebook.com/share/1FYAqeHnsA/"}
+      - {page_id: "pending-35", name: "Life Through Their Eyes", link: "https://www.facebook.com/share/1AKAMRpktY/"}
+      - {page_id: "pending-36", name: "The Turning Point", link: "https://www.facebook.com/share/19qwSoavwU/"}
+      - {page_id: "pending-37", name: "Blur Reality", link: "https://www.facebook.com/share/1CQkhEptnX/"}
+      - {page_id: "pending-38", name: "Whispers After Midnight", link: "https://www.facebook.com/share/18tvhSFrgX/"}
+      - {page_id: "pending-39", name: "Promises in Ashes", link: "https://www.facebook.com/share/1DJ9QkeViQ/"}
+      - {page_id: "pending-40", name: "Truths Left Behind", link: "https://www.facebook.com/share/1MFk1XAHkT/"}
+      - {page_id: "pending-41", name: "The Door She Closed", link: "https://www.facebook.com/share/1DtVBfZHEM/"}
+      - {page_id: "pending-42", name: "Little Legends", link: "https://www.facebook.com/share/1d4imSTDTf/"}
+      - {page_id: "pending-43", name: "Viral Cuties", link: "https://www.facebook.com/share/1B2fe3yMvz/"}
+      - {page_id: "pending-44", name: "Heartfelt Lessons", link: "https://www.facebook.com/share/1ca6GUYJUA/", group: EN2}
+      - {page_id: "pending-45", name: "Beyond the Mask", link: "https://www.facebook.com/share/1CfyHG2ZSk/", group: EN2}
+      - {page_id: "pending-46", name: "Stories Behind Tears", link: "https://www.facebook.com/share/1BTaR8JjVf/", group: EN2}
+      - {page_id: "pending-47", name: "The Life Edit", link: "https://www.facebook.com/share/1EqXZeCKAf/", group: EN2}
+      - {page_id: "pending-48", name: "Stories We Feel", link: "https://www.facebook.com/share/1Fh8hnibPP/", group: EN2}
+      - {page_id: "pending-49", name: "The Hidden Side of Life", link: "https://www.facebook.com/share/18MqMmgQr9/", group: EN2}
+      - {page_id: "pending-50", name: "Real Life Window", link: "https://www.facebook.com/share/1CAv1F2UWL/", group: EN2}
+      - {page_id: "pending-51", name: "Visual Dose", link: "https://www.facebook.com/profile.php?id=61591660556178", group: EN2}
+      - {page_id: "pending-52", name: "Hub Viral Story World", link: "https://www.facebook.com/share/1JH7zfpNCS/", group: EN2}
+      - {page_id: "pending-53", name: "Hidden Truths", link: "https://www.facebook.com/share/1dQKZX2rQM/", group: EN2}
+  DE:
+    name: German
+    pages:   # 4
+      - {page_id: "pending-54", name: "Der Moment zählt", link: "https://www.facebook.com/share/1C4iAsGZbT/"}
+      - {page_id: "pending-55", name: "Spuren des Lebens", link: "https://www.facebook.com/share/1ByGPQdaZb/"}
+      - {page_id: "pending-56", name: "Das Leben Erzählt", link: "https://www.facebook.com/share/1CApTW3XGY/"}
+      - {page_id: "pending-57", name: "Nah am Leben", link: "https://www.facebook.com/share/1DaXj8U6S6/"}
+  PT:
+    name: Portuguese
+    pages:   # 2
+      - {page_id: "pending-58", name: "Histórias que ficam no coração", link: "https://www.facebook.com/share/189oi3GeJ4/", group: PT}
+      - {page_id: "pending-59", name: "Segredos que a Vida Guarda", link: "https://www.facebook.com/profile.php?id=61595420035345", group: PT}
+  ES:
+    name: Spanish
+    pages:   # 1
+      - {page_id: "pending-60", name: "Historias que quedan en el corazón", link: "https://www.facebook.com/share/18dyJK7cc3/", group: PT}
+
+fallback_source_page_id: ""

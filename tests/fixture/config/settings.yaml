@@ -1,0 +1,121 @@
+# Главные настройки автопостинга INTERES WORLD.
+# Меняйте значения справа от двоеточия. Ключи и пароли сюда НЕ пишутся —
+# они хранятся только в GitHub → Settings → Secrets and variables → Actions.
+
+timezone: Asia/Yerevan
+
+# false — расписание выключено (ничего не публикуется само).
+# Включается после успешного публичного теста.
+schedule_enabled: true
+
+# Часы публикаций по Еревану: с 12:00 дня до 00:00 ночи, каждые 3 часа.
+# После изменения выполните: python -m autopost render-workflow
+slots: ["12:00", "15:00", "18:00", "21:00", "00:00"]
+
+timing:
+  # За сколько минут до выхода готовить историю (тексты, статьи, отложенные посты).
+  # 24 часа: GitHub запускает расписание с пропусками, а отложенные посты выходят сами точно в час.
+  prepare_ahead_minutes: 1440
+  # Facebook принимает отложенный пост минимум за 10 минут; берём с запасом.
+  min_schedule_lead_minutes: 15
+  # Если подготовка не успела к часу публикации — можно выпустить с опозданием,
+  # но не позже этого окна (минуты). Иначе слот пропускается.
+  late_publish_window_minutes: 240
+  # Новая ссылка попадает в выпуск, час которого уже прошёл, только в первые 30 минут;
+  # позже — в следующий выпуск (опоздание до 240 минут — только для уже взятой истории).
+  new_story_late_minutes: 30
+  # Хранить подробное состояние слотов (дней).
+  keep_state_days: 14
+
+# Пауза между записями в Facebook (посты и комментарии), секунд — общая на все группы.
+# С 13.11.2026: после ограничения 368 («ограничиваем частоту») — без всплесков, ровным потоком.
+fb_pacing_seconds: 5
+# Свой темп для системного пользователя (секунды между его записями): у старого autopost лимит Facebook
+# намного строже — 15.11 в 00:00 он получил отказ после 16 записей за 2 минуты.
+fb_pacing_by_user:
+  autopost: 45
+
+site:
+  # С 09.11.2026 (21:00) два сайта: по умолчанию — hetaqrqir.com, группа RU (RU + TR + PT) — peakproductions.co
+  # (см. group_sites). До этого: interes-world.com, затем peakproductions.co.
+  url: https://hetaqrqir.com
+  # Ссылка в первом комментарии.
+  comment_link_format: "https://hetaqrqir.com/?p={wp_id}"
+  # application_password — пароль приложения WordPress (секреты WP_USER + WP_APP_PASSWORD);
+  # make_connector — ключ плагина Make Connector. На обоих сайтах хостинг вырезает заголовок авторизации
+  # (проверка 09.11: rest_not_logged_in даже для несуществующего логина), поэтому — ключ Make Connector.
+  wp_auth: make_connector
+  key_secret: WP_API_KEY_HETAQRQIR
+  # future — статья выходит на сайте в тот же час, что и пост; publish — сразу.
+  wp_status_mode: future
+  # Ставить фото ещё и как «изображение записи». В Make не ставилось.
+  wp_featured_image: false
+  # Необязательно: ID рубрик WordPress по языкам, например FR: [12]
+  wp_categories: {}
+
+# Свой сайт для отдельных групп (поверх блока site). Ключ: группа; поля — как в site, плюс имена секретов:
+# key_secret (ключ Make Connector), user_secret / password_secret (пароль приложения).
+# Выпуск, подготовленный на одном сайте, на нём и заканчивается, даже если сайт группы поменяли.
+group_sites:
+  RU:
+    url: https://peakproductions.co
+    comment_link_format: "https://peakproductions.co/?p={wp_id}"
+    wp_auth: make_connector
+    key_secret: WP_API_KEY
+  # С 17.11.2026 (выпуск 01:30): Mix (UK + ES + RO + AR) — тоже peakproductions.co, по просьбе владелицы.
+  MIX:
+    url: https://peakproductions.co
+    comment_link_format: "https://peakproductions.co/?p={wp_id}"
+    wp_auth: make_connector
+    key_secret: WP_API_KEY
+
+# Формат публикации:
+#   classic — вся история в посте, в первом комментарии только ссылка на статью;
+#   parts   — как у Georgia Daily Stories / One też czują: пост = заголовок + часть 1 (обрыв) + «продолжение в первом
+#             комментарии 👇»; комментарий = «ЧАСТЬ 2» + часть 2 + «напишите „Да“» + «ЧАСТЬ 3» + ссылка;
+#             статья = вся история (часть 1, ЧАСТЬ 2, ЧАСТЬ 3 с развязкой). Применяется к ещё не подготовленным выпускам.
+post_format: classic
+# Свой формат для отдельных групп: post_format_by_group: {RU: parts, ...}. С 20.11.2026 23:24 (просьба владелицы)
+# все группы — прежний формат (classic); новый «по частям» был у RU+TR+PT и Mix 17–20.11.
+post_format_by_group: {}
+
+claude:
+  # auto — подписка Max (CLAUDE_CODE_OAUTH_TOKEN), при сбое — API (если задан ANTHROPIC_API_KEY)
+  # subscription — только подписка; api — только API; mock — тестовые тексты без Claude
+  backend: auto
+  model: claude-sonnet-5-5
+  max_tokens: 8000
+  # Сколько раз перегенерировать текст, если он не прошёл проверку.
+  max_attempts: 3
+
+sources:
+  # Порядок, в котором ищутся новые истории для очередного слота.
+  order: [manual, google_sheet, auto]
+  # Очередь ссылок: одна ссылка на строку, сверху вниз, по одной на каждый час публикации.
+  # Ссылки сюда добавляет Claude, когда вы присылаете их в чат.
+  manual_file: queue/links.txt
+  # Таблица из Make (лист FB_QUEUE, колонка A — ссылка на пост). Нужен доступ
+  # «Все, у кого есть ссылка — читатель». Как в Make: берутся только строки, добавленные после подключения.
+  google_sheet:
+    enabled: false        # сейчас ссылки присылаются в чат Claude и попадают в queue/links.txt
+    spreadsheet_id: "1VH_i-2L4TpojtJiUAjOdFTpl_9Ai6uEXMf1izRXHLvU"
+    sheet: FB_QUEUE
+  # Авто-режим: новые посты с фото, опубликованные вручную на ваших страницах.
+  auto:
+    enabled: false        # истории не берутся со страниц сами — только из присланных ссылок
+    pages: all            # all = все 34 страницы, или список page_id
+    lookback_hours: 72
+    min_text_chars: 300
+    require_photo: true
+  # Не публиковать историю повторно на той странице, откуда она взята.
+  skip_source_page: true
+
+facebook:
+  graph_version: v26.0
+  # Старый системный пользователь autopost отключён 16.11.2026: все страницы — у autopost2/3/4.
+  # Чтобы снова брать у него страницы, которых нет у новых, раскомментируйте:
+  # extra_token_files: [state/page_tokens_autopost1.enc]
+
+# Тестовая страница для закрытого и публичного теста (page_id из config/pages.yaml).
+# Пусто — будет выбрана первая страница NL «Het is interessant».
+test_page_id: "975714512286925"   # Heartfelt Lessons (EN)

@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.env
+*.secret
+.DS_Store
+state/.state-*.json

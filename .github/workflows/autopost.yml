@@ -1,0 +1,50 @@
+name: "5 · Автопостинг по расписанию"
+
+on:
+  schedule:
+    # >>> cron (генерируется: python -m autopost render-workflow)
+    # Часы публикаций (Asia/Yerevan): 00:00, 12:00, 15:00, 18:00, 21:00
+    - cron: "7 8,11,14,17,20,21,22 * * *"
+    - cron: "22 8,11,14,17,20 * * *"
+    - cron: "37 8,11,14,17,20 * * *"
+    - cron: "52 8,11,14,17,20 * * *"
+    # <<< cron
+  workflow_dispatch: {}
+
+concurrency:
+  group: autopost
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          ref: ${{ github.ref_name }}
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Свежее состояние
+        run: git pull -q --ff-only origin "${{ github.ref_name }}" || true
+      - name: Публикация
+        timeout-minutes: 45
+        env:
+          AUTOPOST_CHECKPOINT: "1"
+          FB_APP_SECRET: ${{ secrets.FB_APP_SECRET }}
+          WP_USER: ${{ secrets.WP_USER }}
+          WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
+          WP_API_KEY: ${{ secrets.WP_API_KEY }}
+          WP_API_KEY_HETAQRQIR: ${{ secrets.WP_API_KEY_HETAQRQIR }}
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python -m autopost tick
+      - name: Сохранить состояние и результаты
+        if: always()
+        run: bash scripts/commit-state.sh "автопостинг — состояние после запуска"
