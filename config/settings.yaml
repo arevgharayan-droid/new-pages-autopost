@@ -94,4 +94,4 @@ facebook:
   graph_version: v26.0
 
 # Тестовая страница для закрытого и публичного теста (page_id из config/pages.yaml).
-test_page_id: "pending-01"   # заменить на настоящую страницу после подключения Facebook
+test_page_id: "1299659449898366"   # Les Vies Cachées (FR)
