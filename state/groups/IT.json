@@ -1,6 +1,7 @@
 {
  "enabled_since": "2026-11-24T02:25:41+04:00",
  "output_fps": {
+  "5d20e2265371c71c0d77": "2026-11-23T22:29:12+00:00",
   "d8e9da0361d392fa44fa": "2026-11-23T22:26:30+00:00"
  },
  "outputs": {
@@ -194,7 +195,72 @@
    }
   },
   "2026-11-24 18:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ha firmato il divorzio e ha chiuso i bonifici alla suocera: quando il marito è arrivato con l'amante incinta, ad aspettarlo davanti alla villa c'era una sorpresa",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38423,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-24T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/915852464_122235473576325870_9034847536427442780_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=JXLoVSUMPdUQ7kNvwFha34H&_nc_oc=Adrdho1gypMs8pjNofH7oyes4OefbGPlXEJN9H7B_2JapvjGd2ij7DOk_FfEFkHn-rw&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=1NRAFG_0jhrfH2HrD4D5ew&_nc_tpa=Q5bMBQLi_4iqu0xoGNDGPozZPJXOYtPT2cZwkInquypAcEMivI98dyq79XIg0BrpBNfnmRn6uz-0vgpjbw&oh=00_AQSUi8b4nsbQGNb4jX-nnpyI5DQjSvB9KHvHIzB9dphBcQ&oe=6B0A9F52",
@@ -206,7 +272,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261124-1800-it.jpg"
    },
    "source_key": "post:100064230806326_1566120312205647",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -235,7 +301,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-24 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064502274900_1609858591174201": {
    "fingerprint": "69c7df5f6794c7dca6de",
