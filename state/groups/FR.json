@@ -2,6 +2,8 @@
  "enabled_since": "2026-11-24T02:25:41+04:00",
  "output_fps": {
   "0b45e94ffd52b857ad44": "2026-11-23T22:26:29+00:00",
+  "452e1226246abc6505e7": "2026-11-23T22:31:50+00:00",
+  "9b1df66560b8b791db40": "2026-11-23T22:31:50+00:00",
   "a886046a118d27ee18d9": "2026-11-23T22:26:29+00:00",
   "edbbf741c2eef7d053e7": "2026-11-23T22:29:12+00:00",
   "f893205d1bb3e51b05cd": "2026-11-23T22:29:12+00:00"
@@ -423,7 +425,79 @@
    }
   },
   "2026-11-24 21:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Elle a transformé ma Lamborghini à 500 000 € en voiture de princesse, puis m'a tendu une lettre de sa maman disparue",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38430,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Minha filha de 4 anos transformou minha Lamborghini de 500 mil euros em carro de princesa, e o que ela me entregou em seguida me deixou sem chão",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38431,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-24T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/916765586_122136757286734695_5021592886622974588_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=pSipZWA2pJIQ7kNvwHe5y13&_nc_oc=AdoqpQfje0q1vCHH3PLIgh_O2eF5EDtCwQHSanPxLdjaoWlia8nSvoXtxs2HpF3Vlzs&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=0_OUMzGUlCQ8NeU14DUn_Q&_nc_tpa=Q5bMBQJawzgQS_D7obqtRcMcF4DMBt0DOI6BI4esQs06Q7enTePDUj8D9_0-NIvyZOunPrLRuaofwXS3aA&oh=00_AQRURJmR0kFO9UJzyGaJQ7unulZQq9lbxnw5Tb-8XWjbiA&oe=6B0AA816",
@@ -435,7 +509,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261124-2100-fr.jpg"
    },
    "source_key": "post:61572040865912_122136757316734695",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -484,7 +558,7 @@
    "origin": "manual",
    "page_id": "61572040865912",
    "slot": "2026-11-24 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61590164133438_122132547609338804": {
    "fingerprint": "31f275f7e960fb881fda",
