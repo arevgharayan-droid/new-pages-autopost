@@ -84,7 +84,9 @@
      "pages": {},
      "title": "My Brother Died, My Fiancé Asked What to Do With the Orphaned Boy Before Paying for Our Wedding",
      "warnings": [],
-     "wp_error": "POST posts: <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!"
+     "wp_error": null,
+     "wp_id": 38438,
+     "wp_status": "future"
     },
     "ES": {
      "pages": {},
@@ -127,6 +129,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-24T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/921118851_1180624711693875_967008555130451056_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=u9OP7bDZrAUQ7kNvwGtCFd2&_nc_oc=AdplmlD5HImeDJ4egouEqzHb2tyfqpWuFKSY6RZKvsiJxjK3POABKn9JU1SQ2NyAUTg&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=99TbEAVYabO1orDIvoCp9g&_nc_tpa=Q5bMBQIsEIcTLs1dbXTx3QQmGShsI_P65cmOVnaApP_faDuIDKi_-3PCklajQyC6WmQJoUzgXvXoOiA2xg&oh=00_AQR1IG3FSee-QEGoEsjYxfpyIQEDIoh5xwreMXCKDt1wzQ&oe=6B0A80C0",
@@ -138,7 +141,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261124-1200-en.jpg"
    },
    "source_key": "post:100092390714530_1180624781693868",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -724,7 +727,7 @@
    "origin": "manual",
    "page_id": "100092390714530",
    "slot": "2026-11-24 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61575232821594_122215619948841094": {
    "fingerprint": "4131bf92a366f1045dc4",
