@@ -21,7 +21,7 @@ added from the Susi Ghevondyan profile (La Vie qui Passe, Verità Mai Confessate
 The other pages of the New Pages portfolio are in the portfolio but not automated.
 
 Pages are listed in `config/pages.yaml`; links for each group go to `queue/<key>.txt`.
-Articles are published on **1tari.ru**.
+Articles are published on **1tari.ru** (via the Make Connector plugin).
 
 ## Status
 
@@ -33,8 +33,8 @@ Articles are published on **1tari.ru**.
 1. Meta: an app and system users in the New Pages portfolio with "Content" and "Community activity"
    rights on the 30 pages → secrets `FB_APP_ID`, `FB_APP_SECRET`, `FB_USER_TOKEN` (`_2`, `_3`).
 2. Run workflow "2 · Подключить Facebook" → real page IDs replace the `pending-NN` placeholders.
-3. WordPress 1tari.ru → secrets `WP_USER` + `WP_APP_PASSWORD` (application password;
-   the site has no Make Connector plugin).
+3. WordPress 1tari.ru → secret `WP_API_KEY` (Make Connector plugin key). The application password
+   does not work there: the hosting strips the Authorization header.
 4. Claude → secret `ANTHROPIC_API_KEY` or `CLAUDE_CODE_OAUTH_TOKEN`.
 5. Private test, public test on one page, then turn the schedule on.
 
