@@ -1,6 +1,7 @@
 {
  "enabled_since": "2026-11-24T02:25:41+04:00",
  "output_fps": {
+  "7a0505ae27605e9f4fe2": "2026-11-23T22:28:28+00:00",
   "d3e5a2eaa928b2fde220": "2026-11-23T22:26:14+00:00"
  },
  "outputs": {
@@ -220,7 +221,74 @@
    }
   },
   "2026-11-24 18:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Mother Died in Iraq, But at My Wedding a Man in a Crimson Dress Handed Me an Envelope She Left Behind",
+     "warnings": [
+      "длина текста FB 644 слов (исходник 764, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 38419,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-24T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/910134205_122215581560841094_424465171299005793_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=scNyv_X3iUYQ7kNvwFC04CZ&_nc_oc=AdpXnnM8DCEbfj1MG10QE4qhq1MoyNGfhy0pVh8K6aD4QFh1d-dZaeJKkuiBMyxxtmc&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=2HVvlQXiTEMRWpNxKj3e3g&_nc_tpa=Q5bMBQJP27DyokAeWBlqmKLTevPx1tqklmdeakeSvXbnqBD-oN0ZFJACYyjIMkFxKkEO-8drvh86CDAKEw&oh=00_AQTgWEiOAo3xd6IlbWoog2VX7lS_Ppkey3666ALtd0LNlw&oe=6B0A8299",
@@ -232,7 +300,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261124-1800-en.jpg"
    },
    "source_key": "post:61575232821594_122215619948841094",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -277,7 +345,7 @@
    "origin": "manual",
    "page_id": "61575232821594",
    "slot": "2026-11-24 18:00",
-   "status": "reserved"
+   "status": "used"
   }
  },
  "tests": {},
