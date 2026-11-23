@@ -35,13 +35,14 @@ fb_pacing_seconds: 5
 fb_pacing_by_user: {}
 
 site:
-  # Отдельный сайт для этих страниц. Адрес пришлёт владелица; доступ (ключ) она внесёт сама в GitHub Secrets.
-  url: https://NEW-SITE.example
-  comment_link_format: "https://NEW-SITE.example/?p={wp_id}"
+  # Сайт статей этой системы — 1tari.ru (выбор владелицы 23.11.2026). Доступ она внесёт сама в GitHub Secrets.
+  url: https://1tari.ru
+  comment_link_format: "https://1tari.ru/?p={wp_id}"
   # make_connector — ключ плагина Make Connector (секрет WP_API_KEY);
   # application_password — пароль приложения WordPress (секреты WP_USER + WP_APP_PASSWORD).
-  wp_auth: make_connector
-  key_secret: WP_API_KEY
+  # На 1tari.ru нет плагина Make Connector (проверено 23.11) — пароль приложения WordPress:
+  # секреты WP_USER (логин) + WP_APP_PASSWORD. Если хостинг вырежет авторизацию — поставить плагин Make Connector.
+  wp_auth: application_password
   wp_status_mode: future
   wp_featured_image: false
   wp_categories: {}

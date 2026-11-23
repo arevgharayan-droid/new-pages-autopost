@@ -1,47 +1,54 @@
-# Страницы отдельной системы (портфолио Meta «New Pages», профиль Anahit Markosyan).
-# С 23.11.2026: только страницы Anahit Markosyan из списка владелицы от 22.11 (22 шт.)
-# плюс Ce que ressent le cœur и Des histoires qui restent — всего 24.
-# Страницы с других профилей (36 из первого списка) пока не подключаются.
+# Страницы отдельной системы (портфолио Meta «New Pages»). С 23.11.2026 (23:55): 30 страниц —
+# 22 страницы Anahit Markosyan из списка владелицы от 22.11,
+# + 4 её страницы из ссылок для Susi (Ce que ressent le cœur, Des histoires qui restent, Histoires à Travers la Vie, La vie, en vrai),
+# + 4 страницы, добавленные с профиля Susi Ghevondyan 23.11 (La Vie qui Passe, Verità Mai Confessate, The Life Edit, Além das Aparências).
+# Остальные страницы New Pages пока не подключаются. 14 страниц Susi Meta разрешит добавить в портфолио после 30.11, 23:06.
 # page_id «pending-NN» заменятся настоящими после «2 · Подключить Facebook»; profile_id — из адреса страницы.
 # «Storie che Toccanо» — в названии на Facebook последняя буква кириллическая «о».
-# Группы (одна история на группу в каждом выпуске): IT 7 · EN 10 · FR+PT 7 — 3 ссылки на выпуск.
+# Группы (одна история на группу в каждом выпуске): IT 8 · EN 11 · FR+PT 11 — 3 ссылки на выпуск.
 
 languages:
   FR:
     name: French
-    pages:   # 6
+    pages:   # 9
       - {page_id: "pending-01", name: "Néo Rêve", profile_id: "61591691094952"}
       - {page_id: "pending-02", name: "Monde Virtuel", profile_id: "61591052596903"}
       - {page_id: "1299659449898366", name: "Les Vies Cachées", profile_id: "61593694155739"}
       - {page_id: "1359229170603183", name: "Les Vérités du Cœur", profile_id: "61594342787888"}
       - {page_id: "pending-05", name: "Ce que ressent le cœur", profile_id: "61560755782010"}
       - {page_id: "pending-06", name: "Des histoires qui restent", profile_id: "61567232927388"}
+      - {page_id: "1235065833020810", name: "Histoires à Travers la Vie", profile_id: "61591871163932"}
+      - {page_id: "pending-08", name: "La vie, en vrai", profile_id: "61569006782423"}
+      - {page_id: "pending-09", name: "La Vie qui Passe", profile_id: "61591590075015"}
   IT:
     name: Italian
-    pages:   # 7
-      - {page_id: "pending-07", name: "Nel Cuore dei Segreti", profile_id: "61594728091417"}
-      - {page_id: "pending-08", name: "Storie che Toccanо", profile_id: "61563680941653"}
-      - {page_id: "pending-09", name: "Emozioni in Vista", profile_id: "61592948811008"}
-      - {page_id: "pending-10", name: "Cuore e realtà", profile_id: "61567597586107"}
-      - {page_id: "pending-11", name: "Vita senza maschere", profile_id: "61572138317052"}
-      - {page_id: "pending-12", name: "Dove parla il cuore", profile_id: "61568857410961"}
+    pages:   # 8
+      - {page_id: "pending-10", name: "Nel Cuore dei Segreti", profile_id: "61594728091417"}
+      - {page_id: "pending-11", name: "Storie che Toccanо", profile_id: "61563680941653"}
+      - {page_id: "pending-12", name: "Emozioni in Vista", profile_id: "61592948811008"}
+      - {page_id: "pending-13", name: "Cuore e realtà", profile_id: "61567597586107"}
+      - {page_id: "pending-14", name: "Vita senza maschere", profile_id: "61572138317052"}
+      - {page_id: "pending-15", name: "Dove parla il cuore", profile_id: "61568857410961"}
       - {page_id: "1217618344768420", name: "Momenti da Ricordare", profile_id: "61591681452260"}
+      - {page_id: "pending-17", name: "Verità Mai Confessate", profile_id: "61595290214515"}
   EN:
     name: English
-    pages:   # 10
-      - {page_id: "pending-14", name: "Moments Behind Faces", profile_id: "61592586624706"}
-      - {page_id: "pending-15", name: "Life Through Their Eyes", profile_id: "61592417413406"}
-      - {page_id: "pending-16", name: "The Turning Point", profile_id: "61591231877377"}
-      - {page_id: "pending-17", name: "Blur Reality", profile_id: "61591177907458"}
-      - {page_id: "pending-18", name: "Whispers After Midnight", profile_id: "61590779446547"}
-      - {page_id: "pending-19", name: "Promises in Ashes", profile_id: "61590921100015"}
-      - {page_id: "pending-20", name: "Truths Left Behind", profile_id: "61591102022320"}
-      - {page_id: "pending-21", name: "The Door She Closed", profile_id: "61590664457503"}
-      - {page_id: "pending-22", name: "Little Legends", profile_id: "61590440282677"}
-      - {page_id: "pending-23", name: "Viral Cuties", profile_id: "61590170474326"}
+    pages:   # 11
+      - {page_id: "pending-18", name: "Moments Behind Faces", profile_id: "61592586624706"}
+      - {page_id: "pending-19", name: "Life Through Their Eyes", profile_id: "61592417413406"}
+      - {page_id: "pending-20", name: "The Turning Point", profile_id: "61591231877377"}
+      - {page_id: "pending-21", name: "Blur Reality", profile_id: "61591177907458"}
+      - {page_id: "pending-22", name: "Whispers After Midnight", profile_id: "61590779446547"}
+      - {page_id: "pending-23", name: "Promises in Ashes", profile_id: "61590921100015"}
+      - {page_id: "pending-24", name: "Truths Left Behind", profile_id: "61591102022320"}
+      - {page_id: "pending-25", name: "The Door She Closed", profile_id: "61590664457503"}
+      - {page_id: "pending-26", name: "Little Legends", profile_id: "61590440282677"}
+      - {page_id: "pending-27", name: "Viral Cuties", profile_id: "61590170474326"}
+      - {page_id: "pending-28", name: "The Life Edit", profile_id: "61591498847380"}
   PT:
     name: Portuguese
-    pages:   # 1
-      - {page_id: "pending-24", name: "Segredos que a Vida Guarda", profile_id: "61595420035345", group: FR}
+    pages:   # 2
+      - {page_id: "pending-29", name: "Segredos que a Vida Guarda", profile_id: "61595420035345", group: FR}
+      - {page_id: "pending-30", name: "Além das Aparências", profile_id: "61595603060359", group: FR}
 
 fallback_source_page_id: ""
