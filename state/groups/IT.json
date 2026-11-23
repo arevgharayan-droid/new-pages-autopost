@@ -2,6 +2,7 @@
  "enabled_since": "2026-11-24T02:25:41+04:00",
  "output_fps": {
   "5d20e2265371c71c0d77": "2026-11-23T22:29:12+00:00",
+  "a1d3380c7d9769b0a98e": "2026-11-23T22:31:37+00:00",
   "d8e9da0361d392fa44fa": "2026-11-23T22:26:30+00:00"
  },
  "outputs": {
@@ -363,7 +364,72 @@
    }
   },
   "2026-11-24 21:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Entrò al ballo con le ali da fata e tutti risero di lei, ma bastarono sette parole della piccola Emma per far crollare in lacrime il miliardario davanti a 300 invitati",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38429,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-24T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/916954904_122136789356734695_6717121861176152203_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=lQjaY6ahgxcQ7kNvwGkYfil&_nc_oc=Adq_L9y4nT4N1KSw_LJSoP0XlYwLqFihXpdbkr673ooMjJmIRsyXJysOq8IywJpC-k4&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=0hUW0zfdS9HPvCBUizXorQ&_nc_tpa=Q5bMBQLmlJQo9G_ypNkxtqxelRpLZ-j4PHh7UDZ513IGRuAFo4sZPjztJr7O-5eh49-vKxXq0Djwd7-8Ag&oh=00_AQTLtLuCYtFU7JFarkYNBK9fkNM3_a_qP9ak2gpTF91rgg&oe=6B0A8FAA",
@@ -375,7 +441,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261124-2100-it.jpg"
    },
    "source_key": "post:61572040865912_122136789386734695",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -432,7 +498,7 @@
    "origin": "manual",
    "page_id": "61572040865912",
    "slot": "2026-11-24 21:00",
-   "status": "reserved"
+   "status": "used"
   }
  },
  "tests": {},
