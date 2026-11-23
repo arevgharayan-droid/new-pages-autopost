@@ -11,8 +11,8 @@
 »; The Door She Closed → сейчас «The Door She Closed
 
 »
+- ✅ WordPress 1tari.ru: вход выполнен как «admin»
 - ✅ Источник историй: найдена следующая история — пока новых нет (опубликуйте историю с фото на любой из страниц или добавьте ссылку в очередь)
 - ❌ Секрет Claude (CLAUDE_CODE_OAUTH_TOKEN или ANTHROPIC_API_KEY) НЕ задан
 - ❌ Facebook: проблемы со страницами: Les Vérités du Cœur — нет токена; La Vie qui Passe — нет токена; Verità Mai Confessate — нет токена; Promises in Ashes — нет токена; The Life Edit — нет токена; Segredos que a Vida Guarda — нет токена
-- ❌ WordPress 1tari.ru: GET users/me: Provided API key is invalid
 - ❌ Claude: не задан ни CLAUDE_CODE_OAUTH_TOKEN, ни ANTHROPIC_API_KEY
