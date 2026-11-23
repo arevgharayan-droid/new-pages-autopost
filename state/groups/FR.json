@@ -1,7 +1,9 @@
 {
  "enabled_since": "2026-11-24T02:25:41+04:00",
  "output_fps": {
+  "08c14585c20aa9e5619b": "2026-11-23T22:35:47+00:00",
   "0b45e94ffd52b857ad44": "2026-11-23T22:26:29+00:00",
+  "1bdc9e2073351aa7f1ba": "2026-11-23T22:35:47+00:00",
   "452e1226246abc6505e7": "2026-11-23T22:31:50+00:00",
   "9b1df66560b8b791db40": "2026-11-23T22:31:50+00:00",
   "a886046a118d27ee18d9": "2026-11-23T22:26:29+00:00",
@@ -60,7 +62,79 @@
  },
  "slots": {
   "2026-11-24 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Il m'a jeté 30 dollars en me chassant enceinte de jumeaux ; dix ans plus tard, il disait à la télé regretter de ne jamais avoir eu d'enfants",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38435,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ele me jogou 30 dólares grávida de gêmeos e mandou eu sumir. Dez anos depois, ouvi na TV: \"Meu maior arrependimento é não ter filhos",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38436,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-24T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/914173507_1607391858087541_5413599319166537720_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=T9XXib2HmhMQ7kNvwGMoslt&_nc_oc=AdoiNvhOHQX3v9ImTCWgF0NQXy1dnlh8lyWEAOfNJsVWAW3jux11zNRorHQTi0lXSi0&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=O98g7G2Q6Pxs3g0q4Cc3RA&_nc_tpa=Q5bMBQJ2gz243KdawNZ4F-UBeI2SSsOa27KchylHicniexNt1MgnW1b_70el69Y7-L60WR43g2Nsh-radA&oh=00_AQR_O2HWsgV4ixLdV3TyP-caXIcIcju0PUWnOvZj4JlIbg&oe=6B0A7F00",
@@ -72,7 +146,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261124-1200-fr.jpg"
    },
    "source_key": "post:100064502274900_1611672740992786",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -659,7 +733,7 @@
    "origin": "manual",
    "page_id": "100064502274900",
    "slot": "2026-11-24 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61572040865912_122136757316734695": {
    "fingerprint": "169875f1c8e2d49d4ded",
