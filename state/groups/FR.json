@@ -278,7 +278,10 @@
      "generated": true,
      "pages": {},
      "title": "A sua herança vai finalmente resolver os problemas da minha família\", sussurrou meu marido diante do caixão do meu pai, mas ele não sabia o que o telefone de flip guardava",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38424,
+     "wp_status": "future"
     },
     "RO": {
      "pages": {},
@@ -297,6 +300,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-24T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/912375053_122132490021338804_1848392801494166536_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tYofiXRGZ_AQ7kNvwElmKxs&_nc_oc=Adob1VWHcn10YNOx9AuPewdJ_cI5-xu0wxO_ehUFo1HtWDsWMb1eDN4PA6gmJ8uDyaw&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=eEjmdT8xRBa4KV2OolZpwQ&_nc_tpa=Q5bMBQKUfc9qrtOmZeziglaKfpV0I274YCFFYeROXcRB7-lusF3qPn5obqBezCQf5rpmSClAr4nSguT7qw&oh=00_AQQY2zu81X3Q64fYHQe5WKe7nq1IOCSNeW6S3pUPmTKgsg&oe=6B0A7A38",
@@ -308,7 +312,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261124-1800-fr.jpg"
    },
    "source_key": "post:61590164133438_122132547609338804",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -353,7 +357,7 @@
    "origin": "manual",
    "page_id": "61590164133438",
    "slot": "2026-11-24 18:00",
-   "status": "reserved"
+   "status": "used"
   }
  },
  "tests": {},
