@@ -111,3 +111,6 @@
 {"slot": "2026-11-24 12:00", "lang": "PT", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-23T22:35:47+00:00", "group": "FR"}
 {"slot": "2026-11-24 12:00", "lang": "FR", "action": "wp_post", "id": 38435, "status": "future", "t": "2026-11-23T22:35:50+00:00", "group": "FR"}
 {"slot": "2026-11-24 12:00", "lang": "PT", "action": "wp_post", "id": 38436, "status": "future", "t": "2026-11-23T22:35:51+00:00", "group": "FR"}
+{"slot": "2026-11-24 15:00", "lang": "IT", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-23T22:35:54+00:00", "group": "IT"}
+{"slot": "2026-11-24 12:00", "lang": "FR", "page": "1173998629131613", "action": "fb_schedule", "photo_id": "122151818151389703", "post_id": "1173998629131613_122151818181389703", "t": "2026-11-23T22:35:55+00:00", "group": "FR"}
+{"slot": "2026-11-24 15:00", "lang": "IT", "action": "wp_post", "id": 38437, "status": "future", "t": "2026-11-23T22:35:55+00:00", "group": "IT"}
