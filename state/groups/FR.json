@@ -80,7 +80,10 @@
      "title": "Meu marido apareceu no casamento do nosso filho usando o meu vestido de noiva, e o que havia no envelope deixou a noiva pálida",
      "warnings": [
       "длина текста FB 594 слов (исходник 705, цель ±10%)"
-     ]
+     ],
+     "wp_error": null,
+     "wp_id": 38416,
+     "wp_status": "future"
     },
     "RO": {
      "pages": {},
@@ -99,6 +102,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-24T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-2.xx.fbcdn.net/v/t39.30808-6/911422696_1606208128205914_3786019455780065063_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=np3UQgw9bnUQ7kNvwHqusQU&_nc_oc=AdoU9-G9A8NtDFjhOexaxfKojJBlE9eitadToNdlar6uXni9ZjPuJNCmHq7gfz9KCA4&_nc_zt=23&_nc_ht=scontent-sea5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=fDqIz1MHyZqmi974oNYuew&_nc_tpa=Q5bMBQJSrHCIC-Md3MIZorh2QMXX1QRYZNmGbsAtPzy1_OvVqKqMAVubKHSCn7TB8cd4OflSV5yEwFLxgA&oh=00_AQSHFeVKc-TlSlC7bPUqOKZh9MXykrnZvXeXWFnA6mrjow&oe=6B0AA70C",
@@ -110,7 +114,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261124-1500-fr.jpg"
    },
    "source_key": "post:100064502274900_1607502711409789",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -135,7 +139,7 @@
    "origin": "manual",
    "page_id": "100064502274900",
    "slot": "2026-11-24 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064502274900_1611672740992786": {
    "fingerprint": "8c037384db2a1ca31f07",
