@@ -86,7 +86,7 @@ def cmd_check(cfg, args) -> int:
         (ok if good else bad).append(text)
 
     probs = config_mod.check_expected_counts(cfg)
-    res(not probs, f"Конфигурация: {config_mod.describe(cfg)}; все 34 страницы из Make на месте" if not probs
+    res(not probs, f"Конфигурация: {config_mod.describe(cfg)}; все страницы на месте" if not probs
         else "Конфигурация: " + "; ".join(probs))
     res(True, f"Часы публикаций ({cfg.tz}): {', '.join(cfg.slots)} · расписание "
               f"{'ВКЛЮЧЕНО' if cfg.settings.get('schedule_enabled') else 'выключено'}")
@@ -186,8 +186,8 @@ def cmd_setup_facebook(cfg, args) -> int:
     if rep["scopes"] and not need.issubset(rep["scopes"]):
         lines.append("❌ Не хватает разрешений: " + ", ".join(sorted(need - set(rep["scopes"]))))
     if rep["missing"]:
-        lines.append("❌ Нет доступа к страницам (добавьте их в портфолио Interes World и назначьте системному "
-                     "пользователю autopost): "
+        lines.append("❌ Нет доступа к страницам (добавьте их в портфолио New Pages и назначьте системному "
+                     "пользователю newpages1): "
                      + "; ".join(p.name for p in rep["missing"]))
     if rep["no_rights"]:
         lines.append("❌ Недостаточно прав на страницах: " + "; ".join(f"{p.name} ({', '.join(t)})" for p, t in rep["no_rights"]))
