@@ -1,1 +1,5 @@
 {"slot": "2026-11-24 12:00", "action": "wp_media", "id": 38411, "t": "2026-11-23T22:25:46+00:00", "group": "IT"}
+{"slot": "2026-11-24 15:00", "action": "wp_media", "id": 38412, "t": "2026-11-23T22:25:51+00:00", "group": "FR"}
+{"slot": "2026-11-24 15:00", "action": "wp_media", "id": 38413, "t": "2026-11-23T22:25:51+00:00", "group": "EN"}
+{"slot": "2026-11-24 15:00", "lang": "EN", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-23T22:26:14+00:00", "group": "EN"}
+{"slot": "2026-11-24 15:00", "lang": "EN", "action": "wp_post", "id": 38414, "status": "future", "t": "2026-11-23T22:26:15+00:00", "group": "EN"}
