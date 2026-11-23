@@ -3,7 +3,12 @@
  "output_fps": {
   "d3e5a2eaa928b2fde220": "2026-11-23T22:26:14+00:00"
  },
- "outputs": {},
+ "outputs": {
+  "1205426852659213_122126468847413913": "2026-11-23T22:26:26+00:00",
+  "122126468817413913": "2026-11-23T22:26:26+00:00",
+  "122126867289419554": "2026-11-23T22:26:20+00:00",
+  "1332465683280302_122126867319419554": "2026-11-23T22:26:20+00:00"
+ },
  "slots": {
   "2026-11-24 12:00": {
    "langs": {},
@@ -42,7 +47,32 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1103608806180416": {
+       "attempts": 1,
+       "last_attempt": "2026-11-24T02:26:29+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      },
+      "1205426852659213": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-24T02:26:23+04:00",
+       "mode": "schedule",
+       "photo_id": "122126468817413913",
+       "post_id": "1205426852659213_122126468847413913",
+       "status": "scheduled"
+      },
+      "1332465683280302": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-24T02:26:17+04:00",
+       "mode": "schedule",
+       "photo_id": "122126867289419554",
+       "post_id": "1332465683280302_122126867319419554",
+       "status": "scheduled"
+      }
+     },
      "title": "I Came Home After 10 Years to Give My Parents a Peaceful Life, But Found Them Freezing in a Broken House and My Brother Hiding a Box of Letters I Never Wrote",
      "warnings": [],
      "wp_error": null,

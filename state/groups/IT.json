@@ -1,10 +1,77 @@
 {
  "enabled_since": "2026-11-24T02:25:41+04:00",
- "output_fps": {},
+ "output_fps": {
+  "d8e9da0361d392fa44fa": "2026-11-23T22:26:30+00:00"
+ },
  "outputs": {},
  "slots": {
   "2026-11-24 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Vai in camera tua, vecchia!»: mio genero mi trattò come una bambina nella casa da 418.000 dollari che avevo pagato io, e mia figlia non disse nulla",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38417,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-24T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sea5-1.xx.fbcdn.net/v/t39.30808-6/914586376_122236349570328214_7372956848827859248_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=hwkNeDNXzhUQ7kNvwF8kfO8&_nc_oc=AdrZYiU85O6gDDyqJ8vf3bEkBIJfwfRBVxDqeAT-8rMBB2yCDybRqVUsFMkXCALaa_0&_nc_zt=23&_nc_ht=scontent-sea5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=S9WIYHUAwuaKo_ucfK4Ndg&_nc_tpa=Q5bMBQKXTplGHSAzJo-8yRIBKT2BpMcSx_pBAdDg-jmUkGu2oSAke5ET-D6jP1aFDAR2MXy3xDy_XEyLSw&oh=00_AQS0lQ3vi9Zq5g0_UBTKj-SsVds-YMPi7kOqu8WiNeY1Kg&oe=6B0AA579",
@@ -16,7 +83,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261124-1200-it.jpg"
    },
    "source_key": "post:100064502274900_1612697387556988",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -37,7 +104,7 @@
    "origin": "manual",
    "page_id": "100064502274900",
    "slot": "2026-11-24 12:00",
-   "status": "reserved"
+   "status": "used"
   }
  },
  "tests": {},
