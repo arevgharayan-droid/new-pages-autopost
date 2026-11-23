@@ -26,7 +26,9 @@ Articles are published on **1tari.ru** (via the Make Connector plugin).
 ## Status
 
 - Code copied from the main system; tests pass on a fixed test page set (`tests/fixture/config`).
-- Schedule is **off** (`schedule_enabled: false`) until everything below is connected.
+- 24.11.2026: Facebook (24 of 30 pages), 1tari.ru and Claude connected; private and public tests passed.
+- Schedule is **on**. Releases need links in `queue/IT.txt`, `queue/EN.txt`, `queue/FR.txt`.
+- 6 pages still have no token (Meta refused to assign them to newpages1, "try again later").
 
 ## Still to connect
 
