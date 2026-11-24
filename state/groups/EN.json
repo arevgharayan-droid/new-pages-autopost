@@ -199,12 +199,13 @@
       "1332465683280302": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122126868669419554_1695846428831220",
        "error": null,
        "last_attempt": "2026-11-24T02:40:08+04:00",
        "mode": "schedule",
        "photo_id": "122126868639419554",
        "post_id": "1332465683280302_122126868669419554",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "My Brother Died, My Fiancé Asked What to Do With the Orphaned Boy Before Paying for Our Wedding",
@@ -267,7 +268,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261124-1200-en.jpg"
    },
    "source_key": "post:100092390714530_1180624781693868",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
