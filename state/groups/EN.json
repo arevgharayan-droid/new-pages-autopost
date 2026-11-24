@@ -1002,12 +1002,13 @@
       "1332465683280302": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122126999601419554_3715589045270701",
        "error": null,
        "last_attempt": "2026-11-24T23:18:36+04:00",
        "mode": "schedule",
        "photo_id": "122126999571419554",
        "post_id": "1332465683280302_122126999601419554",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "She Walked Into a Billionaire's Ball Wearing Fairy Wings and Everyone Laughed, Until Her Seven Words Brought Him to His Knees",
@@ -1070,7 +1071,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261125-0000-en.jpg"
    },
    "source_key": "post:61572040865912_122136789386734695",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
