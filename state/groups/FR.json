@@ -815,12 +815,14 @@
       },
       "1493487907172332": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122115799935520102_1899012357761489",
        "error": null,
        "last_attempt": "2026-11-24T02:33:07+04:00",
        "mode": "schedule",
        "photo_id": "122115799905520102",
        "post_id": "1493487907172332_122115799935520102",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Minha filha de 4 anos transformou minha Lamborghini de 500 mil euros em carro de princesa, e o que ela me entregou em seguida me deixou sem chão",
@@ -859,7 +861,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261124-2100-fr.jpg"
    },
    "source_key": "post:61572040865912_122136757316734695",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
