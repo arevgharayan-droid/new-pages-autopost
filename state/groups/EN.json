@@ -383,12 +383,13 @@
       "1230681516788381": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122136976641372596_1453822146957364",
        "error": null,
        "last_attempt": "2026-11-24T02:26:35+04:00",
        "mode": "schedule",
        "photo_id": "122136976611372596",
        "post_id": "1230681516788381_122136976641372596",
-       "status": "published"
+       "status": "done"
       },
       "1332465683280302": {
        "attempts": 1,
