@@ -72,7 +72,7 @@
   "1299659449898366_122128223871456471": "2026-11-23T22:32:24+00:00",
   "1299659449898366_122128224615456471": "2026-11-24T10:04:23+00:00",
   "1493487907172332_122115799059520102": "2026-11-24T11:09:30+00:00",
-  "1493487907172332_122115799497520102": "2026-11-23T22:31:14+00:00",
+  "1493487907172332_122115799497520102": "2026-11-24T14:11:03+00:00",
   "1493487907172332_122115799935520102": "2026-11-23T22:33:11+00:00",
   "1493487907172332_122115800757520102": "2026-11-24T10:04:42+00:00"
  },
@@ -574,12 +574,14 @@
       },
       "1299659449898366": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128223433456471_1143483721711491",
        "error": null,
        "last_attempt": "2026-11-24T02:29:55+04:00",
        "mode": "schedule",
        "photo_id": "122128223403456471",
        "post_id": "1299659449898366_122128223433456471",
-       "status": "published"
+       "status": "done"
       },
       "1359229170603183": {
        "attempts": 0,
@@ -616,18 +618,21 @@
       },
       "1493487907172332": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122115799497520102_1794507204962992",
        "error": null,
        "last_attempt": "2026-11-24T02:31:11+04:00",
        "mode": "schedule",
        "photo_id": "122115799461520102",
        "post_id": "1493487907172332_122115799497520102",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "A sua herança vai finalmente resolver os problemas da minha família\", sussurrou meu marido diante do caixão do meu pai, mas ele não sabia o que o telefone de flip guardava",
      "warnings": [],
      "wp_error": null,
      "wp_id": 38424,
+     "wp_live": true,
      "wp_status": "future"
     },
     "RO": {
@@ -659,7 +664,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261124-1800-fr.jpg"
    },
    "source_key": "post:61590164133438_122132547609338804",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
