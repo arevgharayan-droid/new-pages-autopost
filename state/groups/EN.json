@@ -77,7 +77,7 @@
   "1230681516788381_122136978471372596": "2026-11-24T10:04:30+00:00",
   "1332465683280302_122126867319419554": "2026-11-24T11:09:50+00:00",
   "1332465683280302_122126867553419554": "2026-11-24T14:11:18+00:00",
-  "1332465683280302_122126867805419554": "2026-11-23T22:30:16+00:00",
+  "1332465683280302_122126867805419554": "2026-11-24T17:09:46+00:00",
   "1332465683280302_122126868669419554": "2026-11-24T10:04:46+00:00"
  },
  "slots": {
@@ -774,21 +774,25 @@
       },
       "1230681516788381": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122136977259372596_990391927018404",
        "error": null,
        "last_attempt": "2026-11-24T02:31:05+04:00",
        "mode": "schedule",
        "photo_id": "122136977223372596",
        "post_id": "1230681516788381_122136977259372596",
-       "status": "published"
+       "status": "done"
       },
       "1332465683280302": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126867805419554_1830982354849321",
        "error": null,
        "last_attempt": "2026-11-24T02:30:12+04:00",
        "mode": "schedule",
        "photo_id": "122126867775419554",
        "post_id": "1332465683280302_122126867805419554",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "She Fell Asleep in the Wrong Mercedes After a 24-Hour Shift, and the Man Who Threw Her Out Was Waiting in Room 407",
@@ -853,7 +857,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261124-2100-en.jpg"
    },
    "source_key": "post:100064502274900_1609858591174201",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
