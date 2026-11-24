@@ -74,7 +74,7 @@
   "1493487907172332_122115799059520102": "2026-11-23T22:28:34+00:00",
   "1493487907172332_122115799497520102": "2026-11-23T22:31:14+00:00",
   "1493487907172332_122115799935520102": "2026-11-23T22:33:11+00:00",
-  "1493487907172332_122115800757520102": "2026-11-23T22:37:11+00:00"
+  "1493487907172332_122115800757520102": "2026-11-24T10:04:42+00:00"
  },
  "slots": {
   "2026-11-24 12:00": {
@@ -177,12 +177,13 @@
       "1299659449898366": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122128224615456471_1453790480190853",
        "error": null,
        "last_attempt": "2026-11-24T02:36:09+04:00",
        "mode": "schedule",
        "photo_id": "122128224585456471",
        "post_id": "1299659449898366_122128224615456471",
-       "status": "published"
+       "status": "done"
       },
       "1359229170603183": {
        "attempts": 0,
@@ -219,18 +220,21 @@
       },
       "1493487907172332": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122115800757520102_1778600976552553",
        "error": null,
        "last_attempt": "2026-11-24T02:37:08+04:00",
        "mode": "schedule",
        "photo_id": "122115800709520102",
        "post_id": "1493487907172332_122115800757520102",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "Ele me jogou 30 dólares grávida de gêmeos e mandou eu sumir. Dez anos depois, ouvi na TV: \"Meu maior arrependimento é não ter filhos",
      "warnings": [],
      "wp_error": null,
      "wp_id": 38436,
+     "wp_live": true,
      "wp_status": "future"
     },
     "RO": {
@@ -262,7 +266,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261124-1200-fr.jpg"
    },
    "source_key": "post:100064502274900_1611672740992786",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
