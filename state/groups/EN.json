@@ -393,12 +393,14 @@
       },
       "1332465683280302": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126867319419554_1034454722240266",
        "error": null,
        "last_attempt": "2026-11-24T02:26:17+04:00",
        "mode": "schedule",
        "photo_id": "122126867289419554",
        "post_id": "1332465683280302_122126867319419554",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "I Came Home After 10 Years to Give My Parents a Peaceful Life, But Found Them Freezing in a Broken House and My Brother Hiding a Box of Letters I Never Wrote",
@@ -461,7 +463,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261124-1500-en.jpg"
    },
    "source_key": "post:100078010841607_1095648843045467",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
