@@ -792,6 +792,29 @@ def cmd_ops(cfg, args, req=None) -> int:
                 out.append(f"- {pid}: ❌ {e.short()}")
         summary("\n".join(out) + "\n", "previews/raw-post.md", cfg)
         return 0
+    if cmd == "post-info":
+        # проверить, как Facebook видит наш пост (опубликован ли, скрыт ли, кому виден) — только чтение
+        graph = Graph(cfg.graph_version)
+        tokens = load_tokens(cfg)
+        out = ["## Наши посты глазами Facebook", ""]
+        for it in a.get("items") or []:
+            pid, post = it.get("page", ""), it.get("post", "")
+            tok = tokens.get(pid)
+            row = {}
+            for f in ("is_published", "is_hidden", "privacy", "timeline_visibility", "status_type",
+                      "created_time", "permalink_url", "is_eligible_for_promotion", "feed_targeting"):
+                try:
+                    row[f] = graph.get(post, tok, fields=f).get(f)
+                except FacebookError as e:
+                    row[f] = f"❌ {e.short()[:80]}"
+            try:
+                pub = graph.get(f"{pid}/published_posts", tok, fields="id,created_time", limit=8).get("data") or []
+                row["published_posts_top"] = [x.get("id") for x in pub]
+            except FacebookError as e:
+                row["published_posts_top"] = f"❌ {e.short()[:80]}"
+            out.append(f"- {pid} / {post}: ```{json.dumps(row, ensure_ascii=False)[:1500]}```")
+        summary("\n".join(out) + "\n", "previews/post-info.md", cfg)
+        return 0
     if cmd == "comment-split":
         return cmd_comment_split(cfg, a.get("group", ""), a.get("slot", ""), a.get("lang", ""), a.get("page", ""))
     if cmd == "comment-fix":
