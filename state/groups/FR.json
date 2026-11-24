@@ -1030,12 +1030,14 @@
       },
       "1493487907172332": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116085331520102_1642286973581835",
        "error": null,
        "last_attempt": "2026-11-24T23:16:42+04:00",
        "mode": "schedule",
        "photo_id": "122116085301520102",
        "post_id": "1493487907172332_122116085331520102",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Ela entrou no baile com asas de fada e todos riram, mas sete palavras da menina de 6 anos fizeram o bilionário cair de joelhos",
@@ -1074,7 +1076,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261125-0000-fr.jpg"
    },
    "source_key": "post:1035164619687310_122141002586737943",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
