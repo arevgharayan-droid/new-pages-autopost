@@ -419,12 +419,14 @@
       },
       "1493487907172332": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122115799059520102_1827147954994935",
        "error": null,
        "last_attempt": "2026-11-24T02:28:28+04:00",
        "mode": "schedule",
        "photo_id": "122115799029520102",
        "post_id": "1493487907172332_122115799059520102",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Meu marido apareceu no casamento do nosso filho usando o meu vestido de noiva, e o que havia no envelope deixou a noiva pálida",
@@ -465,7 +467,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261124-1500-fr.jpg"
    },
    "source_key": "post:100064502274900_1607502711409789",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
