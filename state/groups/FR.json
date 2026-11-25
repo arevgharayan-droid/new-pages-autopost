@@ -1980,12 +1980,14 @@
       },
       "1493487907172332": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116365159520102_2319135078849557",
        "error": null,
        "last_attempt": "2026-11-25T19:09:29+04:00",
        "mode": "schedule",
        "photo_id": "122116365129520102",
        "post_id": "1493487907172332_122116365159520102",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Aos 65 anos, fui sacar os 3.000 dólares que meu ex-marido me deixou ao me abandonar, mas a gerente do banco apareceu com um envelope lacrado com o meu nome",
@@ -2024,7 +2026,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261125-1930-fr.jpg"
    },
    "source_key": "post:100064502274900_1614648984028495",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
