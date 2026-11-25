@@ -1345,12 +1345,14 @@
      "pages": {
       "1062496713623518": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122134427493339015_2254123795520626",
        "error": null,
        "last_attempt": "2026-11-25T15:42:40+04:00",
        "mode": "immediate",
        "photo_id": "122134427469339015",
        "post_id": "1062496713623518_122134427493339015",
-       "status": "published"
+       "status": "done"
       },
       "1103608806180416": {
        "attempts": 1,
@@ -1376,21 +1378,25 @@
       },
       "1126049690596224": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122160202545348009_1397369165612999",
        "error": null,
        "last_attempt": "2026-11-25T15:42:22+04:00",
        "mode": "immediate",
        "photo_id": "122160202521348009",
        "post_id": "1126049690596224_122160202545348009",
-       "status": "published"
+       "status": "done"
       },
       "1136304276242298": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122145882525383294_2382621022491342",
        "error": null,
        "last_attempt": "2026-11-25T15:42:56+04:00",
        "mode": "immediate",
        "photo_id": "122145882489383294",
        "post_id": "1136304276242298_122145882525383294",
-       "status": "published"
+       "status": "done"
       },
       "1204255429433483": {
        "attempts": 1,
@@ -1519,7 +1525,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261125-1539-en.jpg"
    },
    "source_key": "post:100078010841607_1095648843045467",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
