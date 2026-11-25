@@ -7,6 +7,7 @@
   "651cf77e21288ee162d4": "2026-11-25T07:42:15+00:00",
   "73076a33b78969917157": "2026-11-25T11:40:45+00:00",
   "a1d3380c7d9769b0a98e": "2026-11-23T22:31:37+00:00",
+  "cd26b8fa1ce322592f40": "2026-11-25T17:14:49+00:00",
   "d8e9da0361d392fa44fa": "2026-11-23T22:26:30+00:00",
   "dc1e717f202c135c30d1": "2026-11-23T22:35:54+00:00"
  },
@@ -1508,7 +1509,72 @@
    }
   },
   "2026-11-25 21:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Sono il boss più temuto della costa Est, ma quando sono tornato a casa alle 3:26 mia moglie era sparita: sul letto c'erano solo la sua fede, la pistola e un biglietto",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38504,
+     "wp_status": "publish"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-25T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/922547618_1682766306560117_7504983375943608283_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=lx_O-NRYvIEQ7kNvwHQKfnQ&_nc_oc=AdpY5L5kkF9V8QWk4osIhn5vNiinD-ir6SKY12dY5GKpj6E6XWw-ce27NR0P8nQuK8w&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=oV7er-EamUOWuhFDYry9dg&_nc_tpa=Q5bMBQLoUqPikAosvaGrW-cuk77ABLuS2oZq8G3OL7QmxyXVj7BoNjYxsLrDssXXQfeVzLJDKqOWAUVLYw&oh=00_AQS1TvsGoDTtVsP7LLqAHbZGcjrEMu6MNphPe_UOVseDIA&oe=6B0CD942",
@@ -1520,7 +1586,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261125-2100-it.jpg"
    },
    "source_key": "post:100044802900629_1682766399893441",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -1604,7 +1670,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-25 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100044802900629_1683865129783568": {
    "fingerprint": "9e22fae900404f376873",
