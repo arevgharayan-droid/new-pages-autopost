@@ -2,11 +2,13 @@
  "enabled_since": "2026-11-24T02:25:41+04:00",
  "output_fps": {
   "08c14585c20aa9e5619b": "2026-11-23T22:35:47+00:00",
+  "095605cbc0e2696e59e9": "2026-11-25T11:40:40+00:00",
   "0b45e94ffd52b857ad44": "2026-11-23T22:26:29+00:00",
   "142f82c264502c252399": "2026-11-25T07:42:06+00:00",
   "1bdc9e2073351aa7f1ba": "2026-11-23T22:35:47+00:00",
   "452e1226246abc6505e7": "2026-11-23T22:31:50+00:00",
   "57d223b1c83684235f0d": "2026-11-24T19:15:45+00:00",
+  "8018da255f19a4840354": "2026-11-25T11:40:40+00:00",
   "9b1df66560b8b791db40": "2026-11-23T22:31:50+00:00",
   "a886046a118d27ee18d9": "2026-11-23T22:26:29+00:00",
   "aeb719ad1a91a2304dcb": "2026-11-24T19:15:45+00:00",
@@ -1308,7 +1310,79 @@
   },
   "2026-11-25 15:39": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mon mari est entré au mariage de notre fils dans ma vieille robe de mariée, et la mariée a pâli en voyant son enveloppe",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38481,
+     "wp_status": "publish"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Meu marido entrou no casamento do nosso filho usando meu vestido de noiva, e o que a noiva fez em um hotel na quinta-feira passada mudou tudo",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38482,
+     "wp_status": "publish"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-25T15:39:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/911422696_1606208128205914_3786019455780065063_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=np3UQgw9bnUQ7kNvwEHXB_y&_nc_oc=Adotnp4KYN102NcO67RzsJy_MHZCZWO1e9R3gPFf5f4-F02653KmF0zxsyXJwAinWFE&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=nAcl2zD6XUin5j_0EVKnkg&_nc_tpa=Q5bMBQJEzYHQNUhhuZ0JGuPGDNrDcDDABOaNvvYM813DN2Kt2CBbuWYA-yKoweZBOpR8P43E3a_slDSp7w&oh=00_AQTysmST1PZNww7vuOLVAKlBSx4XRxIUQleXJSxSqybMIQ&oe=6B0CA14C",
@@ -1320,7 +1394,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261125-1539-fr.jpg"
    },
    "source_key": "post:100064502274900_1607502711409789",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -1381,7 +1455,7 @@
    "origin": "manual",
    "page_id": "100064502274900",
    "slot": "2026-11-25 15:39",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064502274900_1607502711409789#2026-11-24 15:00": {
    "fingerprint": "ca41a00782ca47e5e3b9",
