@@ -1,1 +1,1 @@
-{"id": "repeat-now-2511-1538", "cmd": "retry-links", "args": {"items": [{"group": "IT", "link": "https://www.facebook.com/share/1J1bbud5FR/"}, {"group": "EN", "link": "https://www.facebook.com/share/1FZzu3juLZ/"}, {"group": "FR", "link": "https://www.facebook.com/share/1Cw759dN3g/"}], "now": true}}
+{"id": "start-2511-1930", "cmd": "start-now", "args": {"at": "2026-11-25 19:30", "groups": ["IT", "EN", "FR"]}}
