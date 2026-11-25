@@ -5,6 +5,7 @@
   "08c14585c20aa9e5619b": "2026-11-23T22:35:47+00:00",
   "095605cbc0e2696e59e9": "2026-11-25T11:40:40+00:00",
   "0b45e94ffd52b857ad44": "2026-11-23T22:26:29+00:00",
+  "1411cae2748e3f4db997": "2026-11-25T17:15:45+00:00",
   "142f82c264502c252399": "2026-11-25T07:42:06+00:00",
   "1bdc9e2073351aa7f1ba": "2026-11-23T22:35:47+00:00",
   "1d2d078220d7489dc249": "2026-11-25T15:07:49+00:00",
@@ -2035,7 +2036,84 @@
    }
   },
   "2026-11-25 21:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "La veille de mon opération du cœur, j'ai surpris mon mari trinquer à ma mort et à mes 350 millions de dollars, puis une phrase sur l'accident de mes parents m'a glacée",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38505,
+     "wp_status": "publish"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "gen_attempts": 1,
+     "gen_error": "PT: не удалось получить корректный текст за 3 попытки: заголовок пустой или длиннее 200 символов",
+     "pages": {
+      "1419259861265391": {
+       "attempts": 0,
+       "error": "PT: не удалось получить корректный текст за 3 попытки: заголовок пустой или длиннее 200 символов",
+       "status": "failed_final"
+      },
+      "1493487907172332": {
+       "attempts": 0,
+       "error": "PT: не удалось получить корректный текст за 3 попытки: заголовок пустой или длиннее 200 символов",
+       "status": "failed_final"
+      }
+     }
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-25T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/915666985_1570603371757341_1589164296940894180_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=z5TXE9DQ6kMQ7kNvwGzDWVT&_nc_oc=AdpiTEaO6CPOOMVFbSSoEooVFhEuos6kEFAs9OytHBY3qCdUwcDUddLsTnY6V75uze4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=wYyN3emkASoMhk1BCCNbwg&_nc_tpa=Q5bMBQJ5GPQAzkeY36xjRygQXv2opLjUmMdLcVBcWDlqxFrtInPMxG7YcWeEWX-_CYv6zrMalTna3vAMPQ&oh=00_AQQXnr8B8fPGwRTiwC46Dph0wY05dffOwfWRxs029d_sqA&oe=6B0CF57D",
@@ -2047,7 +2125,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261125-2100-fr.jpg"
    },
    "source_key": "post:100064230806326_1570604038423941",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -2126,7 +2204,7 @@
    "origin": "manual",
    "page_id": "100064230806326",
    "slot": "2026-11-25 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064502274900_1607502711409789": {
    "fingerprint": "ca41a00782ca47e5e3b9",
