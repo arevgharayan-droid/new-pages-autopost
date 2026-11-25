@@ -1382,12 +1382,14 @@
       },
       "1123353334205600": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122150008545386335_1885551406133783",
        "error": null,
        "last_attempt": "2026-11-25T15:43:06+04:00",
        "mode": "immediate",
        "photo_id": "122150008515386335",
        "post_id": "1123353334205600_122150008545386335",
-       "status": "published"
+       "status": "done"
       },
       "1148197895034656": {
        "attempts": 1,
@@ -1482,27 +1484,32 @@
      "pages": {
       "1419259861265391": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122117600403514001_1518874913438340",
        "error": null,
        "last_attempt": "2026-11-25T15:43:23+04:00",
        "mode": "immediate",
        "photo_id": "122117600373514001",
        "post_id": "1419259861265391_122117600403514001",
-       "status": "published"
+       "status": "done"
       },
       "1493487907172332": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116323639520102_1158965657102501",
        "error": null,
        "last_attempt": "2026-11-25T15:43:40+04:00",
        "mode": "immediate",
        "photo_id": "122116323615520102",
        "post_id": "1493487907172332_122116323639520102",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Meu marido entrou no casamento do nosso filho usando meu vestido de noiva, e o que a noiva fez em um hotel na quinta-feira passada mudou tudo",
      "warnings": [],
      "wp_error": null,
      "wp_id": 38482,
+     "wp_live": true,
      "wp_status": "publish"
     },
     "RO": {
@@ -1534,7 +1541,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261125-1539-fr.jpg"
    },
    "source_key": "post:100064502274900_1607502711409789",
-   "status": "prepared",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
