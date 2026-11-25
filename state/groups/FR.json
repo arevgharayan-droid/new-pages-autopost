@@ -2285,7 +2285,23 @@
   "2026-11-26 00:00": {
    "langs": {},
    "slot_iso": "2026-11-26T00:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/920315135_1609324557894271_6770213937690795466_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=hHBB2n1ABkkQ7kNvwEmpygR&_nc_oc=Adr03W5dHg7AT_erxM6s3Bpfkbnn5ej9OfONsrihKvHDeZmDsssDLTpW0zXfUPdL5CM&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=uxMsEofefKWKQpaup-awgg&_nc_tpa=Q5bMBQJflVsM4AE-DfnbTYafW20hd0XZU6wS19XkfKGtNnHQgFVjIPY4ArQ7uRt8jnUgh-RNupybnsQ4hw&oh=00_AQQzkE9XDVnRqlOfr0oIihlClRxpGTOWhDVS1T7v6iU5QQ&oe=6B0D1007",
+    "link": "https://www.facebook.com/share/1GFcoRJrow/",
+    "origin": "manual",
+    "page_id": "100064502274900",
+    "text": "At 39 weeks pregnant, I was rushed into an emergency C-section after internal bleeding while my husband was at a rooftop bar buying a diamond bracelet for his 29-year-old assistant. When he finally showed up the next morning expecting a massive promotion, his billionaire boss was holding our newborn daughter - and the first words out of his mouth ruined my husband's entire life.\n\nAt thirty-nine weeks pregnant, I lay bleeding in Mercy General Hospital while my husband, Marcus Vance, ignored my calls to toast his mistress at a glittering rooftop lounge.\n\n\"My husband still isn't answering any of my calls,\" I whispered as another violent contraction tore through me.\n\nNurse Sarah squeezed my hand. \"Right now, we need to focus entirely on keeping you and your baby safe, Natalie.\"\n\nAt 7:42 PM, my phone lit up - not with a call from Marcus, but with an Instagram photo of him with his arm around Olivia Brooks, his twenty-nine-year-old executive assistant, a diamond bracelet sparkling on her wrist. The caption read: Celebrating our beautiful future together.\n\nSeconds later, Olivia texted me directly. \"Marcus always says you make everything unnecessarily dramatic. Please do not ruin our special night with your constant phone calls.\"\n\nI didn't reply. I took a screenshot and sent everything straight to my private attorney, Victoria Hayes, who immediately wrote back, \"Everything has been securely documented for the court. Put your phone away and focus completely on bringing your daughter into the world.\"\n\nMinutes later, my blood pressure plummeted from severe internal bleeding, and doctors rushed me into an emergency cesarean delivery. At 9:16 PM, our daughter finally cried.\n\nWhen I was wheeled into recovery, the elusive billionaire founder of Ashford Holdings - the very firm where Marcus was vice president of acquisitions—was waiting outside my door. Arthur Ashford stepped toward my bed with tears in his eyes.\n\n\"Natalie, my darling girl,\" he whispered. \"I got here as fast as my plane could land.\"\n\nI reached for his hand. \"Dad.\"\n\nHis expression instantly hardened. \"Where on earth is your husband while you are recovering from major surgery?\"\n\nI showed him the Instagram photo. Without a word, my father dialed corporate security. \"Have corporate security immediately preserve every digital and financial record concerning Marcus Vance. Also, notify our senior legal counsel that I expect an emergency meeting first thing tomorrow morning.\"\n\nHe hung up and looked down at me. \"Sweetheart, does Marcus still genuinely believe that I have no idea you are my daughter?\"\n\nI nodded weakly. My father gave a cold, humorless smile. \"Then tomorrow morning is going to be a very educational experience for him.\"\n\nComment \"YES\" now and don't forget to LIKE — PART 2 + FULL ENDING is unbelievable!",
+    "wp_media_id": 38507,
+    "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261126-0000-fr.jpg"
+   },
+   "source_key": "post:100064502274900_1612067557619971",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://1tari.ru/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://1tari.ru",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-26 12:00": {
    "langs": {},
@@ -2346,6 +2362,10 @@
    "link": "https://www.facebook.com/share/19gu1oqHxi/",
    "resolved": "https://www.facebook.com/100064230806326/posts/1570604038423941/?rdid=ulESJFSLGx224x3w&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F19gu1oqHxi%2F"
   },
+  "link:cf0d160e6a8c08dcb31d": {
+   "link": "https://www.facebook.com/share/1GFcoRJrow/",
+   "resolved": "https://www.facebook.com/100064502274900/posts/1612067557619971/?rdid=6xtSA691KswE6aA3&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1GFcoRJrow%2F"
+  },
   "post:100064230806326_1570604038423941": {
    "fingerprint": "73a837777ff1db733fe5",
    "link": "https://www.facebook.com/share/19gu1oqHxi/",
@@ -2377,6 +2397,14 @@
    "page_id": "100064502274900",
    "slot": "2026-11-24 12:00",
    "status": "used"
+  },
+  "post:100064502274900_1612067557619971": {
+   "fingerprint": "9eae8656ce5f67725a56",
+   "link": "https://www.facebook.com/share/1GFcoRJrow/",
+   "origin": "manual",
+   "page_id": "100064502274900",
+   "slot": "2026-11-26 00:00",
+   "status": "reserved"
   },
   "post:100064502274900_1614648984028495": {
    "fingerprint": "ee7ffb545c2cdbab26ca",
