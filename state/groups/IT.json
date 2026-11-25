@@ -928,7 +928,23 @@
   "2026-11-25 12:00": {
    "langs": {},
    "slot_iso": "2026-11-25T12:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/913848760_122144996523203244_7041862926423802264_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=S3bvystY16MQ7kNvwE1alkc&_nc_oc=AdptFaq0FpMTQBBCxFFKw_wdFIzAnwc2vW_iFZYK8-AoDB98Rqa9PoxO0t-G8wF1tCo&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=8mAkSZub4INystTSn9rLbQ&_nc_tpa=Q5bMBQKSK-5tAqCSn4Fh7oUNOVP0I-cTDwa67710ZhCtz4FZRwP_Bs01z8U5nvYtX21qAlMF8gOEYfrXGQ&oh=00_AQQNJ5PXKsIvGR9-JfxeREsWz5izKN9XVHKvVZ263UsuCw&oe=6B0C669B",
+    "link": "https://www.facebook.com/share/1D9GgYb5RV/",
+    "origin": "manual",
+    "page_id": "61586097333334",
+    "text": "At Six, I Promised My Best Friend We’d Go to Prom Together. Twelve Years Later, My Mother Revealed a Secret That Changed Everything.\n\nWhen I was six years old, I made a pinkie promise to my best friend, Noah, that we would attend prom together someday.\n\nNoah had Down syndrome, but to me, he was simply the funniest, kindest, most loyal boy I’d ever known.\n\nWe became inseparable in first grade, bonding over our hatred of raisins and our obsession with dinosaurs.\n\nOne afternoon, a classmate cruelly told Noah that nobody would ever want to marry him.\n\nI immediately defended him.\n\n“Someone will love Noah!”\n\nHe looked at me hopefully.\n\n“Would you?”\n\nAt six, I had no idea how important my answer would become.\n\n“Maybe,” I said. “But first, we have to go to prom.”\n\nHe held out his pinkie.\n\n“Promise?”\n\n“Promise.”\n\nI eventually forgot those words.\n\nNoah never did.\n\nFor twelve years, he remained by my side through everything: my parents’ divorce, difficult school years, teenage heartbreaks, and countless tears.\n\nWhen my first boyfriend broke my heart, Noah appeared at my door carrying two tubs of ice cream.\n\n“I told you he was an idiot,” he announced.\n\nAnd somehow, he made me laugh again.\n\nBy senior year, there was nobody else I wanted to take to prom.\n\nNot out of pity.\n\nNot because of an old promise.\n\nBut because Noah was my best friend.\n\nOn prom night, he arrived wearing a beautiful dark suit and the biggest smile I’d ever seen.\n\nHe held a corsage in his trembling hands.\n\nBut when my mother opened the door and saw him, her face went pale.\n\nShe hurried upstairs, entered my bedroom, and locked the door behind her.\n\n“Mom? What’s wrong?”\n\nShe looked at me with tears in her eyes.\n\n“Christina, you can go to prom with Noah tonight. But only under one condition.”\n\nI stared at her.\n\n“What condition?”\n\n“You need to know the truth first.”\n\n“About what?”\n\nShe swallowed hard.\n\n“About Noah. And about something I did twelve years ago.”\n\nMy heart began racing.\n\nDownstairs, I could hear Noah laughing with my aunt, completely unaware of what was happening.\n\nThen Mom took my hands and whispered:\n\n“During the worst year of your childhood, Noah made me a promise. And there’s a reason he’s never broken it.”\n\nWhat she revealed next made my entire world stop.\n\nBecause suddenly, I realized our friendship had been built around a secret everyone knew except me.\n\nFull story in the first comment 👇",
+    "wp_media_id": 38466,
+    "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261125-1200-it.jpg"
+   },
+   "source_key": "post:61586097333334_122144996601203244",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://1tari.ru/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://1tari.ru",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-25 15:00": {
    "langs": {},
@@ -973,6 +989,10 @@
    "link": "https://www.facebook.com/share/1WJ4BFZ3wi/",
    "resolved": "https://www.facebook.com/61572040865912/posts/122136789386734695/?rdid=XUqTjxN51TxR5Y5K&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1WJ4BFZ3wi%2F"
   },
+  "link:fdf5029507bf88fc3ba4": {
+   "link": "https://www.facebook.com/share/1D9GgYb5RV/",
+   "resolved": "https://www.facebook.com/61586097333334/posts/122144996601203244/?rdid=oavGHRf9hgGmiOIv&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1D9GgYb5RV%2F"
+  },
   "post:100064230806326_1566120312205647": {
    "fingerprint": "781ce3d3309b68956450",
    "link": "https://www.facebook.com/share/1CRP6sfKSz/",
@@ -1012,6 +1032,14 @@
    "page_id": "61572040865912",
    "slot": "2026-11-24 21:00",
    "status": "used"
+  },
+  "post:61586097333334_122144996601203244": {
+   "fingerprint": "3d2a260a217f52692622",
+   "link": "https://www.facebook.com/share/1D9GgYb5RV/",
+   "origin": "manual",
+   "page_id": "61586097333334",
+   "slot": "2026-11-25 12:00",
+   "status": "reserved"
   }
  },
  "tests": {},

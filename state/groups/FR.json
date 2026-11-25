@@ -3,12 +3,14 @@
  "output_fps": {
   "08c14585c20aa9e5619b": "2026-11-23T22:35:47+00:00",
   "0b45e94ffd52b857ad44": "2026-11-23T22:26:29+00:00",
+  "142f82c264502c252399": "2026-11-25T07:42:06+00:00",
   "1bdc9e2073351aa7f1ba": "2026-11-23T22:35:47+00:00",
   "452e1226246abc6505e7": "2026-11-23T22:31:50+00:00",
   "57d223b1c83684235f0d": "2026-11-24T19:15:45+00:00",
   "9b1df66560b8b791db40": "2026-11-23T22:31:50+00:00",
   "a886046a118d27ee18d9": "2026-11-23T22:26:29+00:00",
   "aeb719ad1a91a2304dcb": "2026-11-24T19:15:45+00:00",
+  "d96983c55ba1a21a29fb": "2026-11-25T07:42:06+00:00",
   "edbbf741c2eef7d053e7": "2026-11-23T22:29:12+00:00",
   "f893205d1bb3e51b05cd": "2026-11-23T22:29:12+00:00"
  },
@@ -1085,9 +1087,96 @@
    }
   },
   "2026-11-25 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Le jour de mon mariage, j'ai découvert que Thomas avait passé la nuit avec ma meilleure amie… et l'aveu qui a suivi a tout fait basculer",
+     "warnings": [
+      "в тексте упоминается AI/перевод — проверьте"
+     ],
+     "wp_error": "POST posts: <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "No dia do meu casamento, encontrei o noivo na cama com os lençóis puxados e um fio de cabelo no travesseiro. O que ele confessou depois me gelou o sangue",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38469,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-25T12:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/917048219_1139251675351850_7056720904820606242_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=IUOsdFdoXvQQ7kNvwEp0eOj&_nc_oc=AdoTpW4oM0_xd5WlPmEqWy4IVwXyiOfhfd5FPyQyNe99_PaTHt4al83jrxeo_pGsRhU&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=A6Pati6UaD8g_UgVgfgotw&_nc_tpa=Q5bMBQI2aWip1yVuQl-HPzYBr8Dv8B-nLahEnWe6CAALgpo8_eGJzS2ZUXaIZ_M1TKlHsN5FL2j-uMboDA&oh=00_AQQ6cDragbyJZQInR66NVApWU405txqC-7C4qKT1g1Rrtw&oe=6B0C5C3C",
+    "link": "https://www.facebook.com/share/1FBM9HRnPL/",
+    "origin": "manual",
+    "page_id": "100078010841607",
+    "text": "LE JOUR DE MON MARIAGE, J’AI DÉCOUVERT QUE MON FUTUR MARI AVAIT PASSÉ LA NUIT AVEC UNE AUTRE… MAIS CE QU’IL M’A AVOUÉ ENSUITE M’A GLACÉ LE SANG. 💔😱\n\nIl était 7 h 30 du matin. Dans quelques heures, j’allais épouser l’homme avec qui je partageais ma vie depuis cinq ans.\n\nJe suis entrée dans notre suite d’hôtel, vêtue de ma robe de mariée, pour récupérer les boucles d’oreilles que j’avais oubliées.\n\nMais lorsque j’ai ouvert la porte de la chambre, mon monde s’est effondré.\n\nThomas était dans notre lit, torse nu, les draps remontés jusqu’à la poitrine.\n\nEt sur l’oreiller à côté de lui… j’ai aperçu une longue mèche de cheveux bruns.\n\n— Élise, attends ! Ce n’est pas ce que tu crois ! a-t-il crié en tendant la main vers moi.\n\nJe n’ai pas pleuré.\n\nJ’ai simplement attrapé ma valise.\n\n— Qui était-elle, Thomas ?\n\nIl a baissé les yeux.\n\n— Je voulais te le dire après la cérémonie…\n\nMon cœur s’est arrêté une seconde.\n\n— Me dire quoi ?\n\nIl a pris une profonde inspiration.\n\n— Cette femme… tu la connais. Et elle n’est pas venue ici par hasard.\n\nJe me suis retournée lentement.\n\n— Qui est-ce ?\n\nIl a murmuré un prénom.\n\nCelui de ma meilleure amie. Celle qui devait être mon témoin dans quelques heures.\n\nMais le pire est arrivé lorsqu’il a ajouté :\n\n— Élise, elle m’a montré quelque chose hier soir. Quelque chose qui concerne ta famille… et qui pourrait tout détruire.\n\nÀ cet instant, mon téléphone a vibré.\n\nUn message de ma mère :\n\n« Ma chérie, ne te marie surtout pas avant qu’on ait parlé. Je dois t’avouer ce que nous te cachons depuis vingt ans. »\n\nJe suis restée immobile, ma valise à la main.\n\nJe croyais venir de découvrir une infidélité.\n\nJe ne savais pas encore que mon mariage avait été organisé autour d’un mensonge qui remontait à ma naissance…\n\n👇 La suite de cette histoire va révéler un secret de famille inimaginable.",
+    "wp_media_id": 38468,
+    "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261125-1200-fr.jpg"
+   },
+   "source_key": "post:100078010841607_1139251742018510",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://1tari.ru/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://1tari.ru",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-25 15:00": {
    "langs": {},
@@ -1124,6 +1213,10 @@
    "link": "https://www.facebook.com/share/1CUrJVVALA/",
    "resolved": "https://www.facebook.com/61572040865912/posts/122136757316734695/?rdid=R5Owbh2qBCcUaf5f&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1CUrJVVALA%2F"
   },
+  "link:67205b87c7652f7e8cf6": {
+   "link": "https://www.facebook.com/share/1FBM9HRnPL/",
+   "resolved": "https://www.facebook.com/100078010841607/posts/1139251742018510/?rdid=JR7Pa2jmzfURIHKS&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1FBM9HRnPL%2F"
+  },
   "link:79b8c62c62a67e4e7041": {
    "link": "https://www.facebook.com/share/p/1Lc4jwJoFX/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122141002586737943&id=61572138317052"
@@ -1147,6 +1240,14 @@
    "page_id": "100064502274900",
    "slot": "2026-11-24 12:00",
    "status": "used"
+  },
+  "post:100078010841607_1139251742018510": {
+   "fingerprint": "15b04431c421e1b5851a",
+   "link": "https://www.facebook.com/share/1FBM9HRnPL/",
+   "origin": "manual",
+   "page_id": "100078010841607",
+   "slot": "2026-11-25 12:00",
+   "status": "reserved"
   },
   "post:1035164619687310_122141002586737943": {
    "fingerprint": "a1d3380c7d9769b0a98e",
