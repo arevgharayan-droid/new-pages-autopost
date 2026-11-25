@@ -1114,6 +1114,12 @@
    "slot_iso": "2026-11-25T15:00:00+04:00",
    "status": "no_source"
   },
+  "2026-11-25 15:39": {
+   "adhoc": true,
+   "langs": {},
+   "slot_iso": "2026-11-25T15:39:00+04:00",
+   "status": "new"
+  },
   "2026-11-25 18:00": {
    "langs": {},
    "slot_iso": "2026-11-25T18:00:00+04:00",
@@ -1169,13 +1175,13 @@
    "slot": "2026-11-24 18:00",
    "status": "used"
   },
-  "post:100064502274900_1609858591174201": {
+  "post:100064502274900_1609858591174201#2026-11-24 15:00": {
    "fingerprint": "69c7df5f6794c7dca6de",
    "link": "https://www.facebook.com/share/1J1bbud5FR/",
    "origin": "manual",
    "page_id": "100064502274900",
    "slot": "2026-11-24 15:00",
-   "status": "used"
+   "status": "used_before"
   },
   "post:100064502274900_1612697387556988": {
    "fingerprint": "9e65b7183e1e2c4aed2b",
