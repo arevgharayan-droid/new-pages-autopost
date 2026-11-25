@@ -2200,20 +2200,7 @@
      "skipped": "нет подключённых страниц"
     },
     "PT": {
-     "gen_attempts": 1,
-     "gen_error": "PT: не удалось получить корректный текст за 3 попытки: заголовок пустой или длиннее 200 символов",
-     "pages": {
-      "1419259861265391": {
-       "attempts": 0,
-       "error": "PT: не удалось получить корректный текст за 3 попытки: заголовок пустой или длиннее 200 символов",
-       "status": "failed_final"
-      },
-      "1493487907172332": {
-       "attempts": 0,
-       "error": "PT: не удалось получить корректный текст за 3 попытки: заголовок пустой или длиннее 200 символов",
-       "status": "failed_final"
-      }
-     }
+     "pages": {}
     },
     "RO": {
      "pages": {},
@@ -2232,7 +2219,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
-   "prepared": true,
+   "prepared": false,
    "slot_iso": "2026-11-25T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/915666985_1570603371757341_1589164296940894180_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=z5TXE9DQ6kMQ7kNvwGzDWVT&_nc_oc=AdpiTEaO6CPOOMVFbSSoEooVFhEuos6kEFAs9OytHBY3qCdUwcDUddLsTnY6V75uze4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=wYyN3emkASoMhk1BCCNbwg&_nc_tpa=Q5bMBQJ5GPQAzkeY36xjRygQXv2opLjUmMdLcVBcWDlqxFrtInPMxG7YcWeEWX-_CYv6zrMalTna3vAMPQ&oh=00_AQQXnr8B8fPGwRTiwC46Dph0wY05dffOwfWRxs029d_sqA&oe=6B0CF57D",
@@ -2244,7 +2231,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261125-2100-fr.jpg"
    },
    "source_key": "post:100064230806326_1570604038423941",
-   "status": "in_progress",
+   "status": "preparing",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
