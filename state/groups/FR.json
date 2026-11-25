@@ -1,11 +1,13 @@
 {
  "enabled_since": "2026-11-24T02:25:41+04:00",
  "output_fps": {
+  "080b877e675679c403a3": "2026-11-25T15:07:49+00:00",
   "08c14585c20aa9e5619b": "2026-11-23T22:35:47+00:00",
   "095605cbc0e2696e59e9": "2026-11-25T11:40:40+00:00",
   "0b45e94ffd52b857ad44": "2026-11-23T22:26:29+00:00",
   "142f82c264502c252399": "2026-11-25T07:42:06+00:00",
   "1bdc9e2073351aa7f1ba": "2026-11-23T22:35:47+00:00",
+  "1d2d078220d7489dc249": "2026-11-25T15:07:49+00:00",
   "452e1226246abc6505e7": "2026-11-23T22:31:50+00:00",
   "57d223b1c83684235f0d": "2026-11-24T19:15:45+00:00",
   "8018da255f19a4840354": "2026-11-25T11:40:40+00:00",
@@ -1793,7 +1795,79 @@
   },
   "2026-11-25 19:30": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "À 65 ans, elle est allée retirer les 3 000 $ de son ex-mari après cinq ans sans y toucher, et la banquière a blêmi en voyant son compte",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38492,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Aos 65 anos, fui sacar os 3.000 dólares que meu ex-marido me deixou ao me abandonar, mas a gerente do banco apareceu com um envelope lacrado com o meu nome",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38493,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-25T19:30:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/925637018_1612754214217972_7945899738354263413_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=0WIXwsPf8PUQ7kNvwFoZP4X&_nc_oc=AdojfQB59khmmaP3lVJk2pmfqq39K1LK4Sp1wEIdI8jS67mzWFPjRZmOcIXamDrTH0I&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=pA6FIN8KR-NmZu-9SDrE6w&_nc_tpa=Q5bMBQK6ib0KQoAsCH0-mMxe6W0ZhkleaNgUqGBLehSDCrr-Zk-krX19I29nzZD2hp6leM77UzVsNxue5Q&oh=00_AQSRCdTy-mSgzcxqeH9ehADrRRqV_84vRAS2Q4jZ_IMg_w&oe=6B0CD9DB",
@@ -1805,7 +1879,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261125-1930-fr.jpg"
    },
    "source_key": "post:100064502274900_1614648984028495",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -1903,7 +1977,7 @@
    "origin": "manual",
    "page_id": "100064502274900",
    "slot": "2026-11-25 19:30",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100078010841607_1139251742018510": {
    "fingerprint": "15b04431c421e1b5851a",
