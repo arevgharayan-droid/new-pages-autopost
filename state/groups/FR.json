@@ -2082,40 +2082,47 @@
      "pages": {
       "1005151039357476": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116816928633559_3271553133028749",
        "error": null,
        "last_attempt": "2026-11-25T21:18:05+04:00",
        "mode": "immediate",
        "photo_id": "122116816904633559",
        "post_id": "1005151039357476_122116816928633559",
-       "status": "published"
+       "status": "done"
       },
       "1056540504214867": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122115218666358526_1856836342173775",
        "error": null,
        "last_attempt": "2026-11-25T21:17:12+04:00",
        "mode": "immediate",
        "photo_id": "122115218642358526",
        "post_id": "1056540504214867_122115218666358526",
-       "status": "published"
+       "status": "done"
       },
       "1123353334205600": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122150061111386335_5680422262182401",
        "error": null,
        "last_attempt": "2026-11-25T21:18:22+04:00",
        "mode": "immediate",
        "photo_id": "122150061081386335",
        "post_id": "1123353334205600_122150061111386335",
-       "status": "published"
+       "status": "done"
       },
       "1148197895034656": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122105745728574430_969870169268218",
        "error": null,
        "last_attempt": "2026-11-25T21:17:29+04:00",
        "mode": "immediate",
        "photo_id": "122105745704574430",
        "post_id": "1148197895034656_122105745728574430",
-       "status": "published"
+       "status": "done"
       },
       "1173998629131613": {
        "attempts": 1,
@@ -2141,12 +2148,14 @@
       },
       "1235065833020810": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122138913939395705_41516934251239092",
        "error": null,
        "last_attempt": "2026-11-25T21:17:46+04:00",
        "mode": "immediate",
        "photo_id": "122138913915395705",
        "post_id": "1235065833020810_122138913939395705",
-       "status": "published"
+       "status": "done"
       },
       "1299659449898366": {
        "attempts": 1,
@@ -2235,7 +2244,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261125-2100-fr.jpg"
    },
    "source_key": "post:100064230806326_1570604038423941",
-   "status": "prepared",
+   "status": "in_progress",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
