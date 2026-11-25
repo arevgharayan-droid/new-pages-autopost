@@ -5,6 +5,7 @@
   "4922dd0339f1c3739c2d": "2026-11-25T15:12:24+00:00",
   "4f0e670b2d786178e52d": "2026-11-24T19:17:49+00:00",
   "7a0505ae27605e9f4fe2": "2026-11-23T22:28:28+00:00",
+  "7cf19d3d9437666b2e88": "2026-11-25T18:49:05+00:00",
   "8a5aebeef53706f37e58": "2026-11-25T11:40:25+00:00",
   "938a971e60bfe70c6f62": "2026-11-23T22:29:59+00:00",
   "d3e5a2eaa928b2fde220": "2026-11-23T22:26:14+00:00",
@@ -2010,7 +2011,74 @@
    "status": "missed"
   },
   "2026-11-26 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Husband Walked Into Our Son's Wedding in My Old Wedding Dress, and the Bride Went Pale",
+     "warnings": [
+      "длина текста FB 566 слов (исходник 705, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 38509,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-26T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/911422696_1606208128205914_3786019455780065063_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=sWQ4pHm7ovwQ7kNvwF_CDiw&_nc_oc=Adr_kzJ-LEsod-st0IcfK5-Oq78BO8H1zYHiV-yEyaz_5tk6jDMDoFq09fhVgL-0s5k&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=lNDO_6wtGB4qirvGLpjA9A&_nc_tpa=Q5bMBQKOIctJ5d5R-Dxh3BuQovE8SuqF4j0XSmeEASK_WqsQbXLHu6PaSqgKS3n0wzvwTzQWM9LIL0lLgg&oh=00_AQQTm-ZM40X0AaC6uJ8GP0EjSqwkKeGIGiA1KNDQ1MfGKg&oe=6B0D11CC",
@@ -2022,7 +2090,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261126-0000-en.jpg"
    },
    "source_key": "post:100064502274900_1607502711409789",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -2120,7 +2188,7 @@
    "origin": "manual",
    "page_id": "100064502274900",
    "slot": "2026-11-26 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064502274900_1609858591174201": {
    "fingerprint": "69c7df5f6794c7dca6de",
