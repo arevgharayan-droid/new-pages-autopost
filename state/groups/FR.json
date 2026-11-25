@@ -1117,7 +1117,9 @@
      "warnings": [
       "в тексте упоминается AI/перевод — проверьте"
      ],
-     "wp_error": "POST posts: <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!"
+     "wp_error": null,
+     "wp_id": 38472,
+     "wp_status": "future"
     },
     "IT": {
      "pages": {},
@@ -1159,6 +1161,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-25T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/917048219_1139251675351850_7056720904820606242_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=IUOsdFdoXvQQ7kNvwEp0eOj&_nc_oc=AdoTpW4oM0_xd5WlPmEqWy4IVwXyiOfhfd5FPyQyNe99_PaTHt4al83jrxeo_pGsRhU&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=A6Pati6UaD8g_UgVgfgotw&_nc_tpa=Q5bMBQI2aWip1yVuQl-HPzYBr8Dv8B-nLahEnWe6CAALgpo8_eGJzS2ZUXaIZ_M1TKlHsN5FL2j-uMboDA&oh=00_AQQ6cDragbyJZQInR66NVApWU405txqC-7C4qKT1g1Rrtw&oe=6B0C5C3C",
@@ -1170,7 +1173,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261125-1200-fr.jpg"
    },
    "source_key": "post:100078010841607_1139251742018510",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -1247,7 +1250,7 @@
    "origin": "manual",
    "page_id": "100078010841607",
    "slot": "2026-11-25 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:1035164619687310_122141002586737943": {
    "fingerprint": "a1d3380c7d9769b0a98e",
