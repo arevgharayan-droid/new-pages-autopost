@@ -12,6 +12,8 @@
   "9b1df66560b8b791db40": "2026-11-23T22:31:50+00:00",
   "a886046a118d27ee18d9": "2026-11-23T22:26:29+00:00",
   "aeb719ad1a91a2304dcb": "2026-11-24T19:15:45+00:00",
+  "c26df321d90ee0c0c220": "2026-11-25T12:46:08+00:00",
+  "d52679baae0a82086faf": "2026-11-25T12:46:08+00:00",
   "d96983c55ba1a21a29fb": "2026-11-25T07:42:06+00:00",
   "edbbf741c2eef7d053e7": "2026-11-23T22:29:12+00:00",
   "f893205d1bb3e51b05cd": "2026-11-23T22:29:12+00:00"
@@ -1550,17 +1552,97 @@
    }
   },
   "2026-11-25 18:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mon père m'a ordonné de remonter seule l'allée parce que j'épousais « un moins que rien », puis trente militaires en uniforme ont ouvert les portes de la chapelle",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38485,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Meu pai me mandou entrar sozinha na igreja por me casar com \"um zé-ninguém\", até que 30 militares formaram um arco de espadas sobre mim",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38486,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-25T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/921006656_122137052462734695_2322775288448231357_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=g3J_hR3KAi8Q7kNvwHivdX0&_nc_oc=Adp-bwUeHKm2_TYXa5YhCl2GWiw3iSIfT4yTZ97GWlCElSVpED7LfaxHQP6Va7z7uFc&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=TQkyD3ENiNB19l87si4X9g&_nc_tpa=Q5bMBQK68tSysdePRZFtxPzL9rITs9jJlpyBCy1-3l4BjKYICw8uznrtlS6j3-tYm9_H8MWxLT0T6GGJMw&oh=00_AQQAkhyJnsK7rWNWkJaIMPGUu4ntRjfUDKbpCj31Uji7AQ&oe=6B0CC154",
     "link": "https://www.facebook.com/share/1Cco1QjjcH/",
     "origin": "manual",
     "page_id": "61572040865912",
-    "text": "Mon père s’est moqué de moi et m’a ordonné de remonter seule l’allée de l’église parce que j’épousais « un moins que rien ». Ma mère s’est assise à ses côtés, au dernier rang, tandis que j’avançais seule, serrant mon bouquet contre moi. Puis les portes de la chapelle se sont ouvertes et trente anciens militaires en uniforme de cérémonie se sont alignés le long de l’allée. L’un d’eux s’est tourné vers mon père et a déclaré : « Monsieur… »\n\n« Avance toute seule. C’est ce qui arrive quand on épouse un moins que rien », lança mon père en éclatant de rire.\n\nPuis il alla s’asseoir au dernier rang, à côté de ma mère, comme si mon mariage était un procès et qu’il venait de prononcer sa sentence.\n\nUn silence glacial envahit la chapelle de Charleston, en Caroline du Sud.\n\nJe me tenais devant les grandes portes, vêtue de ma robe ivoire, serrant mon bouquet si fort que les tiges se pliaient sous le ruban.\n\nMon fiancé, Julian Vance, m’attendait devant l’autel, les mains jointes. Son visage était pâle, mais ses yeux ne quittaient pas les miens.\n\nDepuis six mois, mon père, Charles Montgomery, répétait à qui voulait l’entendre que Julian n’était pas digne de notre famille.\n\nJulian était avocat commis d’office. Mon père possédait trois concessions de voitures de luxe et était convaincu que l’argent était la meilleure preuve de la valeur d’un homme.\n\nLorsque mon père avait refusé de m’accompagner jusqu’à l’autel, j’avais espéré qu’il aurait au moins la décence de garder le silence.\n\nMais non.\n\nLes invités se retournèrent sur leurs sièges. Ma mère baissa les yeux vers son sac à main. Mon petit frère, Caleb, fixa le sol.\n\nAlors, je commençai à avancer.\n\nChaque pas résonnait plus fort que les notes du piano.\n\nJe gardais la tête haute, même si mes yeux me brûlaient.\n\nJulian fit un pas dans ma direction, prêt à venir me chercher à mi-chemin, mais je secouai légèrement la tête.\n\nJe voulais arriver jusqu’à lui par mes propres moyens.\n\nJ’avais parcouru la moitié de l’allée lorsque les portes de la chapelle s’ouvrirent brusquement derrière moi.\n\nTrente anciens militaires, vêtus d’uniformes de cérémonie impeccables, entrèrent avec une précision impressionnante.\n\nDes hommes et des femmes. Des jeunes et des plus âgés. Leurs poitrines étaient ornées de décorations, de rubans et de médailles.\n\nIls se placèrent de chaque côté de l’allée, puis levèrent leurs épées de cérémonie pour former une voûte d’acier au-dessus de ma tête.\n\nUn passage d’honneur venait de se dessiner devant moi.\n\nLa musique s’arrêta.\n\nL’un des hommes, un grand homme noir d’une cinquantaine d’années, à la barbe soigneusement taillée et au regard déterminé, s’immobilisa près du rang où était assis mon père.\n\nIl le regarda droit dans les yeux.\n\n« Monsieur… »\n\nMon père se leva brusquement, le visage rouge de colère.\n\n« Mais qui êtes-vous, bon sang ? »\n\nL’homme ne bougea pas.\n\n« Je m’appelle David Bell. Ancien sergent-chef du Corps des Marines des États-Unis. Et je suis aujourd’hui enquêteur principal au sein d’une unité fédérale spéciale. »\n\nJulian se figea devant l’autel.\n\nDavid se tourna vers moi et adoucit sa voix.\n\n« Nora, veuillez nous excuser d’intervenir de cette manière. Nous avons essayé de vous joindre en privé ce matin, mais votre téléphone était éteint. »\n\nMa gorge se serra.\n\n« Qu’est-ce que tout cela signifie ? »\n\nDavid regarda Julian, puis posa de nouveau les yeux sur moi.\n\n« Votre fiancé n’est pas simplement le petit avocat sans importance que votre père prétend qu’il est. Chacune des personnes présentes ici en uniforme est quelqu’un qu’il a protégé au prix d’énormes sacrifices, lorsque des hommes puissants ont tenté d’étouffer la vérité. »\n\nUne femme en uniforme, debout à mes côtés, essuya discrètement une larme.\n\nDavid se retourna vers mon père. Sa voix devint plus grave.\n\n« Vous venez de le traiter de moins que rien. Monsieur, si la moitié des personnes présentes dans cette chapelle sont encore debout aujourd’hui, c’est parce que ce prétendu moins que rien s’est battu pour nous lorsque le reste du monde nous avait abandonnés. »\n\nMon père ouvrit la bouche.\n\nMais aucun son n’en sortit.\n\nPour la première fois de ma vie, je vis son arrogance se fissurer.\n\nPuis David glissa la main à l’intérieur de sa veste et en sortit une épaisse enveloppe scellée, portant un emblème officiel du gouvernement.\n\n« Et ce n’est pas tout. Monsieur Montgomery, avant que cette cérémonie ne se poursuive, vous devez savoir que le fiancé de votre fille a également consacré les six derniers mois à enquêter sur votre précieuse fondation caritative, le Valor Trust. »\n\nIl marqua une pause.\n\n« Et il a découvert exactement ce que vous dissimulez derrière les activités prétendument philanthropiques de votre organisation. »\n\nMon bouquet descendit lentement entre mes mains tremblantes.\n\nL’atmosphère de la chapelle sembla soudain devenir glaciale.\n\nJe tournai les yeux vers Julian.\n\nIl avait le visage défait.\n\n« Nora… Je comptais tout te raconter ce soir », murmura-t-il.\n\nAvant que mon père ait le temps d’exploser de colère, les portes de la chapelle s’ouvrirent une dernière fois.\n\nEt les personnes qui franchirent le seuil n’étaient pas venues assister à un mariage…\n\nLa suite de cette histoire et son dénouement complet se trouvent dans le commentaire ci-dessous ! 👇👇👇"
+    "text": "Mon père s’est moqué de moi et m’a ordonné de remonter seule l’allée de l’église parce que j’épousais « un moins que rien ». Ma mère s’est assise à ses côtés, au dernier rang, tandis que j’avançais seule, serrant mon bouquet contre moi. Puis les portes de la chapelle se sont ouvertes et trente anciens militaires en uniforme de cérémonie se sont alignés le long de l’allée. L’un d’eux s’est tourné vers mon père et a déclaré : « Monsieur… »\n\n« Avance toute seule. C’est ce qui arrive quand on épouse un moins que rien », lança mon père en éclatant de rire.\n\nPuis il alla s’asseoir au dernier rang, à côté de ma mère, comme si mon mariage était un procès et qu’il venait de prononcer sa sentence.\n\nUn silence glacial envahit la chapelle de Charleston, en Caroline du Sud.\n\nJe me tenais devant les grandes portes, vêtue de ma robe ivoire, serrant mon bouquet si fort que les tiges se pliaient sous le ruban.\n\nMon fiancé, Julian Vance, m’attendait devant l’autel, les mains jointes. Son visage était pâle, mais ses yeux ne quittaient pas les miens.\n\nDepuis six mois, mon père, Charles Montgomery, répétait à qui voulait l’entendre que Julian n’était pas digne de notre famille.\n\nJulian était avocat commis d’office. Mon père possédait trois concessions de voitures de luxe et était convaincu que l’argent était la meilleure preuve de la valeur d’un homme.\n\nLorsque mon père avait refusé de m’accompagner jusqu’à l’autel, j’avais espéré qu’il aurait au moins la décence de garder le silence.\n\nMais non.\n\nLes invités se retournèrent sur leurs sièges. Ma mère baissa les yeux vers son sac à main. Mon petit frère, Caleb, fixa le sol.\n\nAlors, je commençai à avancer.\n\nChaque pas résonnait plus fort que les notes du piano.\n\nJe gardais la tête haute, même si mes yeux me brûlaient.\n\nJulian fit un pas dans ma direction, prêt à venir me chercher à mi-chemin, mais je secouai légèrement la tête.\n\nJe voulais arriver jusqu’à lui par mes propres moyens.\n\nJ’avais parcouru la moitié de l’allée lorsque les portes de la chapelle s’ouvrirent brusquement derrière moi.\n\nTrente anciens militaires, vêtus d’uniformes de cérémonie impeccables, entrèrent avec une précision impressionnante.\n\nDes hommes et des femmes. Des jeunes et des plus âgés. Leurs poitrines étaient ornées de décorations, de rubans et de médailles.\n\nIls se placèrent de chaque côté de l’allée, puis levèrent leurs épées de cérémonie pour former une voûte d’acier au-dessus de ma tête.\n\nUn passage d’honneur venait de se dessiner devant moi.\n\nLa musique s’arrêta.\n\nL’un des hommes, un grand homme noir d’une cinquantaine d’années, à la barbe soigneusement taillée et au regard déterminé, s’immobilisa près du rang où était assis mon père.\n\nIl le regarda droit dans les yeux.\n\n« Monsieur… »\n\nMon père se leva brusquement, le visage rouge de colère.\n\n« Mais qui êtes-vous, bon sang ? »\n\nL’homme ne bougea pas.\n\n« Je m’appelle David Bell. Ancien sergent-chef du Corps des Marines des États-Unis. Et je suis aujourd’hui enquêteur principal au sein d’une unité fédérale spéciale. »\n\nJulian se figea devant l’autel.\n\nDavid se tourna vers moi et adoucit sa voix.\n\n« Nora, veuillez nous excuser d’intervenir de cette manière. Nous avons essayé de vous joindre en privé ce matin, mais votre téléphone était éteint. »\n\nMa gorge se serra.\n\n« Qu’est-ce que tout cela signifie ? »\n\nDavid regarda Julian, puis posa de nouveau les yeux sur moi.\n\n« Votre fiancé n’est pas simplement le petit avocat sans importance que votre père prétend qu’il est. Chacune des personnes présentes ici en uniforme est quelqu’un qu’il a protégé au prix d’énormes sacrifices, lorsque des hommes puissants ont tenté d’étouffer la vérité. »\n\nUne femme en uniforme, debout à mes côtés, essuya discrètement une larme.\n\nDavid se retourna vers mon père. Sa voix devint plus grave.\n\n« Vous venez de le traiter de moins que rien. Monsieur, si la moitié des personnes présentes dans cette chapelle sont encore debout aujourd’hui, c’est parce que ce prétendu moins que rien s’est battu pour nous lorsque le reste du monde nous avait abandonnés. »\n\nMon père ouvrit la bouche.\n\nMais aucun son n’en sortit.\n\nPour la première fois de ma vie, je vis son arrogance se fissurer.\n\nPuis David glissa la main à l’intérieur de sa veste et en sortit une épaisse enveloppe scellée, portant un emblème officiel du gouvernement.\n\n« Et ce n’est pas tout. Monsieur Montgomery, avant que cette cérémonie ne se poursuive, vous devez savoir que le fiancé de votre fille a également consacré les six derniers mois à enquêter sur votre précieuse fondation caritative, le Valor Trust. »\n\nIl marqua une pause.\n\n« Et il a découvert exactement ce que vous dissimulez derrière les activités prétendument philanthropiques de votre organisation. »\n\nMon bouquet descendit lentement entre mes mains tremblantes.\n\nL’atmosphère de la chapelle sembla soudain devenir glaciale.\n\nJe tournai les yeux vers Julian.\n\nIl avait le visage défait.\n\n« Nora… Je comptais tout te raconter ce soir », murmura-t-il.\n\nAvant que mon père ait le temps d’exploser de colère, les portes de la chapelle s’ouvrirent une dernière fois.\n\nEt les personnes qui franchirent le seuil n’étaient pas venues assister à un mariage…\n\nLa suite de cette histoire et son dénouement complet se trouvent dans le commentaire ci-dessous ! 👇👇👇",
+    "wp_media_id": 38484,
+    "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261125-1800-fr.jpg"
    },
    "source_key": "post:61572040865912_122137052510734695",
-   "status": "preparing"
+   "status": "prepared",
+   "wp_site": {
+    "comment_link_format": "https://1tari.ru/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://1tari.ru",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-25 21:00": {
    "langs": {},
@@ -1667,7 +1749,7 @@
    "origin": "manual",
    "page_id": "61572040865912",
    "slot": "2026-11-25 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61590164133438_122132547609338804": {
    "fingerprint": "31f275f7e960fb881fda",
