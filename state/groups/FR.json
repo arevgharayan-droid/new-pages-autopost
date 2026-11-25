@@ -1131,21 +1131,25 @@
      "pages": {
       "1005151039357476": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116794440633559_1177548858111720",
        "error": null,
        "last_attempt": "2026-11-25T12:10:22+04:00",
        "mode": "immediate",
        "photo_id": "122116794416633559",
        "post_id": "1005151039357476_122116794440633559",
-       "status": "published"
+       "status": "done"
       },
       "1056540504214867": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122115199262358526_40154680917508501",
        "error": null,
        "last_attempt": "2026-11-25T12:09:29+04:00",
        "mode": "immediate",
        "photo_id": "122115199238358526",
        "post_id": "1056540504214867_122115199262358526",
-       "status": "published"
+       "status": "done"
       },
       "1123353334205600": {
        "attempts": 0,
@@ -1153,48 +1157,58 @@
       },
       "1148197895034656": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122105733938574430_1841606083552559",
        "error": null,
        "last_attempt": "2026-11-25T12:09:47+04:00",
        "mode": "immediate",
        "photo_id": "122105733914574430",
        "post_id": "1148197895034656_122105733938574430",
-       "status": "published"
+       "status": "done"
       },
       "1173998629131613": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122152298691389703_2639590409809434",
        "error": null,
        "last_attempt": "2026-11-25T12:08:38+04:00",
        "mode": "immediate",
        "photo_id": "122152298661389703",
        "post_id": "1173998629131613_122152298691389703",
-       "status": "published"
+       "status": "done"
       },
       "1218326538024602": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122126966643368419_2668997486876727",
        "error": null,
        "last_attempt": "2026-11-25T12:08:56+04:00",
        "mode": "immediate",
        "photo_id": "122126966619368419",
        "post_id": "1218326538024602_122126966643368419",
-       "status": "published"
+       "status": "done"
       },
       "1235065833020810": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122138816841395705_1705645544434511",
        "error": null,
        "last_attempt": "2026-11-25T12:10:04+04:00",
        "mode": "immediate",
        "photo_id": "122138816817395705",
        "post_id": "1235065833020810_122138816841395705",
-       "status": "published"
+       "status": "done"
       },
       "1299659449898366": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128556001456471_1843002266883518",
        "error": null,
        "last_attempt": "2026-11-25T12:09:12+04:00",
        "mode": "immediate",
        "photo_id": "122128555971456471",
        "post_id": "1299659449898366_122128556001456471",
-       "status": "published"
+       "status": "done"
       },
       "1359229170603183": {
        "attempts": 0,
@@ -1233,18 +1247,21 @@
       },
       "1493487907172332": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116285395520102_1101579422925301",
        "error": null,
        "last_attempt": "2026-11-25T12:10:34+04:00",
        "mode": "immediate",
        "photo_id": "122116285371520102",
        "post_id": "1493487907172332_122116285395520102",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "No dia do meu casamento, encontrei o noivo na cama com os lençóis puxados e um fio de cabelo no travesseiro. O que ele confessou depois me gelou o sangue",
      "warnings": [],
      "wp_error": null,
      "wp_id": 38469,
+     "wp_live": true,
      "wp_status": "future"
     },
     "RO": {
@@ -1276,7 +1293,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261125-1200-fr.jpg"
    },
    "source_key": "post:100078010841607_1139251742018510",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
