@@ -1,1 +1,1 @@
-{"id": "post-info-2", "cmd": "post-info", "args": {"items": [{"page": "1204255429433483", "post": "1204255429433483_122152498905355481"}, {"page": "1204255429433483", "post": "1204255429433483_122152389615355481"}]}}
+{"id": "repeat-now-2511-1538", "cmd": "retry-links", "args": {"items": [{"group": "IT", "link": "https://www.facebook.com/share/1J1bbud5FR/"}, {"group": "EN", "link": "https://www.facebook.com/share/1FZzu3juLZ/"}, {"group": "FR", "link": "https://www.facebook.com/share/1Cw759dN3g/"}], "now": true}}
