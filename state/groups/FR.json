@@ -18,6 +18,7 @@
   "c26df321d90ee0c0c220": "2026-11-25T12:46:08+00:00",
   "d52679baae0a82086faf": "2026-11-25T12:46:08+00:00",
   "d96983c55ba1a21a29fb": "2026-11-25T07:42:06+00:00",
+  "e16837a05fc114141862": "2026-11-25T17:28:05+00:00",
   "edbbf741c2eef7d053e7": "2026-11-23T22:29:12+00:00",
   "f893205d1bb3e51b05cd": "2026-11-23T22:29:12+00:00"
  },
@@ -2200,7 +2201,15 @@
      "skipped": "нет подключённых страниц"
     },
     "PT": {
-     "pages": {}
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Na véspera da minha cirurgia no coração, ouvi meu marido brindar à minha morte e revelar um segredo sobre o acidente dos meus pais",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38506,
+     "wp_status": "publish"
     },
     "RO": {
      "pages": {},
@@ -2219,7 +2228,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
-   "prepared": false,
+   "prepared": true,
    "slot_iso": "2026-11-25T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-sjc6-1.xx.fbcdn.net/v/t39.30808-6/915666985_1570603371757341_1589164296940894180_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=z5TXE9DQ6kMQ7kNvwGzDWVT&_nc_oc=AdpiTEaO6CPOOMVFbSSoEooVFhEuos6kEFAs9OytHBY3qCdUwcDUddLsTnY6V75uze4&_nc_zt=23&_nc_ht=scontent-sjc6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=wYyN3emkASoMhk1BCCNbwg&_nc_tpa=Q5bMBQJ5GPQAzkeY36xjRygQXv2opLjUmMdLcVBcWDlqxFrtInPMxG7YcWeEWX-_CYv6zrMalTna3vAMPQ&oh=00_AQQXnr8B8fPGwRTiwC46Dph0wY05dffOwfWRxs029d_sqA&oe=6B0CF57D",
@@ -2231,7 +2240,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261125-2100-fr.jpg"
    },
    "source_key": "post:100064230806326_1570604038423941",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
