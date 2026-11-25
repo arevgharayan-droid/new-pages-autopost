@@ -4,6 +4,7 @@
   "3308dcdc06b7b2b05465": "2026-11-24T19:16:17+00:00",
   "5d20e2265371c71c0d77": "2026-11-23T22:29:12+00:00",
   "651cf77e21288ee162d4": "2026-11-25T07:42:15+00:00",
+  "73076a33b78969917157": "2026-11-25T11:40:45+00:00",
   "a1d3380c7d9769b0a98e": "2026-11-23T22:31:37+00:00",
   "d8e9da0361d392fa44fa": "2026-11-23T22:26:30+00:00",
   "dc1e717f202c135c30d1": "2026-11-23T22:35:54+00:00"
@@ -1116,7 +1117,72 @@
   },
   "2026-11-25 15:39": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Si è addormentata in un'auto di lusso dopo 24 ore di turno e il proprietario l'ha cacciata. Il giorno dopo, nella stanza 407, ha scoperto chi era",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38483,
+     "wp_status": "publish"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-25T15:39:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/910178756_122236249172328214_4939532182960859007_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=laEnvguVSJEQ7kNvwEFGwG1&_nc_oc=AdqY2YqgsWluv2FtN6tOH1IxNEgdLQthRrkElBmK3GnRna3f93hGmdEU2i8OZxR-Ny4&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=jBhPziqIaKEoUpv39ZqIXw&_nc_tpa=Q5bMBQKjaqSBUuj8FRPgojIzw_8hvpHcvRBUek3Ue_yNe3ydNDoOlPft2yLzd7Gy21z-r0lQ2xeUqo4Wdg&oh=00_AQSfDP3GtOFEF2dJusRSDLM1f802OriPTUC7RBoUPcxkaQ&oe=6B0C8E18",
@@ -1128,7 +1194,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261125-1539-it.jpg"
    },
    "source_key": "post:100064502274900_1609858591174201",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -1197,7 +1263,7 @@
    "origin": "manual",
    "page_id": "100064502274900",
    "slot": "2026-11-25 15:39",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064502274900_1609858591174201#2026-11-24 15:00": {
    "fingerprint": "69c7df5f6794c7dca6de",
