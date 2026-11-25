@@ -1336,6 +1336,11 @@
  },
  "source_cutoff": "2026-11-23T22:25:41+00:00",
  "sources": {
+  "bad:e3b0c44298fc1c149afb": {
+   "error": "не удалось найти числовой ID поста в ссылке: https://www.facebook.com/groups/432329977875809/permalink/1767770840998376/?rdid=kkK4KkeUQ2KaVafe&share_url=https%3A%2F%",
+   "link": "https://www.facebook.com/share/p/1F2gsMuKgU/",
+   "status": "skipped"
+  },
   "link:0df31d0ed3de6f6241b4": {
    "link": "https://www.facebook.com/share/1J1bbud5FR/",
    "resolved": "https://www.facebook.com/100064502274900/posts/1609858591174201/?rdid=bNFribND5FS6ZYBP&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1J1bbud5FR%2F"
@@ -1347,6 +1352,10 @@
   "link:50998d3281e89fd5d80c": {
    "link": "https://www.facebook.com/share/1CUrJVVALA/",
    "resolved": "https://www.facebook.com/61572040865912/posts/122136757316734695/?rdid=wkNWiWPauj6LM6O6&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1CUrJVVALA%2F"
+  },
+  "link:64a704cc6d4c61e5f2b9": {
+   "link": "https://www.facebook.com/share/p/1F2gsMuKgU/",
+   "resolved": "https://www.facebook.com/groups/432329977875809/permalink/1767770840998376/?rdid=kkK4KkeUQ2KaVafe&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2Fp%2F1F2gsMuKgU%2F"
   },
   "link:807c584ff111899f977e": {
    "link": "https://www.facebook.com/share/1CRP6sfKSz/",
