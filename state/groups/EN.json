@@ -2163,12 +2163,14 @@
       },
       "1332465683280302": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127152127419554_2583757312145365",
        "error": null,
        "last_attempt": "2026-11-25T22:49:07+04:00",
        "mode": "schedule",
        "photo_id": "122127152073419554",
        "post_id": "1332465683280302_122127152127419554",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "My Husband Walked Into Our Son's Wedding in My Old Wedding Dress, and the Bride Went Pale",
@@ -2233,7 +2235,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261126-0000-en.jpg"
    },
    "source_key": "post:100064502274900_1607502711409789",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
