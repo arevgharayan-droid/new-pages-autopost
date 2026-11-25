@@ -898,6 +898,14 @@ def cmd_ops(cfg, args, req=None) -> int:
             res += "\n- переподготовка: " + rework_slot(cfg, g, key)
         summary(f"## Убрать язык {lang} из выпуска {cfg.group_label(g)} {key}\n\n{res}\n", "previews/drop-lang.md", cfg)
         return 0
+    if cmd == "retry-lang":
+        # язык, пропущенный в выпуске (текст не получился), — заново: текст, статья и посты только этого языка
+        out = ["## Повтор пропущенного языка", ""]
+        for it in a.get("items") or []:
+            out.append(f"- {cfg.group_label(it.get('group', ''))} {it.get('slot', '')} {it.get('lang', '')}: "
+                       + retry_lang(cfg, it.get("group", ""), it.get("slot", ""), it.get("lang", "")))
+        summary("\n".join(out) + "\n", "previews/retry-lang.md", cfg)
+        return 0
     if cmd == "rework-slot":
         out = ["## Переподготовка выпусков", ""]
         for g in a.get("groups") or []:
@@ -1004,6 +1012,28 @@ def _rename_slot_slugs(cfg, g, s, dt, wp) -> list:
         except WordPressError as err:
             errors.append(f"адрес фото: {err}")
     return errors
+
+
+def retry_lang(cfg, g: str, key: str, lang: str) -> str:
+    """Язык выпуска, пропущенный из-за ошибки текста или статьи: следующий запуск готовит его заново
+    и публикует его страницы; уже вышедшие посты других языков не трогаются."""
+    st = State(config_mod.group_state_path(cfg, g))
+    s = st.slots.get(key)
+    if not s or not s.get("prepared"):
+        return "выпуск не подготовлен"
+    L = (s.get("langs") or {}).get(lang)
+    if L is None or L.get("skipped"):
+        return "этого языка нет в выпуске"
+    pages = L.get("pages") or {}
+    if any(e.get("status") != "failed_final" for e in pages.values()):
+        return "у языка уже есть посты — не трогаю"
+    L["pages"] = {}
+    for k in ("gen_error", "gen_attempts", "wp_error"):
+        L.pop(k, None)
+    s["prepared"] = False
+    s["status"] = "preparing"
+    st.save()
+    return "следующий запуск заново получит текст, статью и посты этого языка"
 
 
 def redo_slot(cfg, g: str, key: str, services=None, tokens=None) -> str:

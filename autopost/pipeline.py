@@ -350,6 +350,16 @@ class Pipeline:
             self.finish_after_release(dt, s)
         self.close_slot(dt)
 
+    def adhoc_waiting_after(self, dt: datetime, now: datetime) -> bool:
+        """Есть внеочередной выпуск позже dt, ещё без истории и уже в окне подготовки."""
+        for x in self.state.slots.values():
+            if not x.get("adhoc") or x.get("source_key") or x.get("status") in FINAL_SLOT or not x.get("slot_iso"):
+                continue
+            at = datetime.fromisoformat(x["slot_iso"])
+            if at > dt and at - self.ahead <= now:
+                return True
+        return False
+
     def mark_missed(self, key, s):
         if s.get("status") == "no_source" or not s.get("source_key"):
             self.r.error(f"{key}: слот пропущен — не было новой истории")
@@ -367,6 +377,13 @@ class Pipeline:
             restored = self.restore_from_content(dt, s)
             if restored:
                 self.r.info(f"{key}: состояние восстановлено из сохранённых текстов")
+        if not s.get("source_key") and not s.get("adhoc") and self.adhoc_waiting_after(dt, now):
+            # ссылки из очереди предназначены внеочередному выпуску, который назначен позже (start-now at)
+            if s.get("status") != "no_source":
+                self.r.info(f"{key}: ссылки из очереди ждут внеочередного выпуска — этот слот без новой истории")
+            s["status"] = "no_source"
+            self.state.save()
+            return False
         if not s.get("source_key"):
             try:
                 src = pick_source(self.cfg, self.graph, self.tokens, self.state, now, self.r.info)

@@ -852,6 +852,79 @@ class StartNowTests(unittest.TestCase):
         self.assertFalse(st.slots.get("2030-05-01 09:00", {}).get("prepared"))
 
 
+class AdhocYieldTests(unittest.TestCase):
+    """Прошедший слот без истории не забирает ссылки, присланные к внеочередному выпуску позже."""
+
+    def test_overdue_slot_leaves_links_for_adhoc(self):
+        from autopost.cli import start_now
+        from autopost.config import group_view
+        cfg, tmp = temp_cfg()
+        cfg.settings["schedule_enabled"] = True
+        tz = ZoneInfo(cfg.tz)
+        clock = {"now": datetime(2030, 5, 1, 20, 50, tzinfo=tz)}
+        graph, wp = FakeGraph(cfg, lambda: clock["now"]), FakeWP()
+        tokens = {p.page_id: f"PT-{p.page_id}" for p in cfg.pages}
+        st_path = tmp / "state/groups/FR.json"
+
+        def tick():
+            gcfg = group_view(cfg, "FR")
+            Pipeline(gcfg, State(st_path), graph, wp, Generator(gcfg, backend="mock"), tokens,
+                     now_fn=lambda: clock["now"], http=FakeHTTP()).tick()
+        tick()                                                   # очередь пуста: 21:00 без истории
+        clock["now"] = datetime(2030, 5, 1, 21, 11, tzinfo=tz)
+        start_now(cfg, "FR", at="2030-05-01 21:30")
+        _queue_story(graph, cfg, tmp, "FR", 981, "Story Y.")
+        tick()
+        st = State(st_path)
+        self.assertFalse(st.slots["2030-05-01 21:00"].get("source_key"))
+        self.assertTrue(st.slots["2030-05-01 21:30"].get("prepared"))
+        self.assertTrue(graph.posts and not any(p["published"] for p in graph.posts.values()))   # отложены на 21:30
+
+
+class RetryLangTests(unittest.TestCase):
+    """Пропущенный язык выпуска готовится заново; посты других языков не повторяются."""
+
+    def test_retry_lang_publishes_only_that_language(self):
+        from autopost.cli import retry_lang
+        from autopost.config import group_view
+        cfg, tmp = temp_cfg()
+        cfg.settings["schedule_enabled"] = True
+        tz = ZoneInfo(cfg.tz)
+        clock = {"now": datetime(2030, 5, 1, 6, 7, tzinfo=tz)}
+        graph, wp = FakeGraph(cfg, lambda: clock["now"]), FakeWP()
+        tokens = {p.page_id: f"PT-{p.page_id}" for p in cfg.pages}
+        _queue_story(graph, cfg, tmp, "IT", 991, "Story L.")
+        st_path = tmp / "state/groups/IT.json"
+
+        def tick():
+            gcfg = group_view(cfg, "IT")
+            Pipeline(gcfg, State(st_path), graph, wp, Generator(gcfg, backend="mock"), tokens,
+                     now_fn=lambda: clock["now"], http=FakeHTTP()).tick()
+        tick()
+        key = "2030-05-01 09:00"
+        st = State(st_path)
+        L = st.slots[key]["langs"]["PL"]
+        pl_pages = set(L["pages"])
+        for pid in pl_pages:                                     # будто текст PL так и не получился
+            graph.posts = {k: v for k, v in graph.posts.items() if v["page"] != pid}
+        L.update(generated=False, gen_error="заголовок пустой", gen_attempts=3)
+        L.pop("wp_id", None)
+        L["pages"] = {pid: {"status": "failed_final", "attempts": 0, "error": "x"} for pid in pl_pages}
+        st.save()
+        (tmp / "content/2030-05-01/IT/0900-PL.json").unlink(missing_ok=True)
+        before = {k for k, v in graph.posts.items()}
+        self.assertIn("заново", retry_lang(cfg, "IT", key, "PL"))
+        clock["now"] = datetime(2030, 5, 1, 9, 20, tzinfo=tz)
+        tick()
+        tick()
+        st = State(st_path)
+        new = [v for k, v in graph.posts.items() if k not in before]
+        self.assertEqual({v["page"] for v in new}, pl_pages)
+        self.assertTrue(all(v["published"] for v in new))
+        self.assertTrue(all(e["status"] == "done" for e in st.slots[key]["langs"]["PL"]["pages"].values()))
+        self.assertIn("уже есть посты", retry_lang(cfg, "IT", key, "IT"))
+
+
 class RepostNowTests(unittest.TestCase):
     """Невышедший выпуск повторяется сейчас; языки, добавленные в группу позже, получают тексты и посты."""
 
