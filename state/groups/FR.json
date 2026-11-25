@@ -2130,12 +2130,13 @@
       "1218326538024602": {
        "attempts": 1,
        "comment_attempts": 1,
+       "comment_id": "122127019725368419_1172855855205396",
        "error": null,
        "last_attempt": "2026-11-25T21:16:21+04:00",
        "mode": "immediate",
        "photo_id": "122127019695368419",
        "post_id": "1218326538024602_122127019725368419",
-       "status": "published"
+       "status": "done"
       },
       "1235065833020810": {
        "attempts": 1,
@@ -2148,21 +2149,25 @@
       },
       "1299659449898366": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122128667517456471_2540744016407497",
        "error": null,
        "last_attempt": "2026-11-25T21:16:39+04:00",
        "mode": "immediate",
        "photo_id": "122128667493456471",
        "post_id": "1299659449898366_122128667517456471",
-       "status": "published"
+       "status": "done"
       },
       "1359229170603183": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122132332527478092_2240679816518323",
        "error": null,
        "last_attempt": "2026-11-25T21:16:56+04:00",
        "mode": "immediate",
        "photo_id": "122132332497478092",
        "post_id": "1359229170603183_122132332527478092",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "La veille de mon opération du cœur, j'ai surpris mon mari trinquer à ma mort et à mes 350 millions de dollars, puis une phrase sur l'accident de mes parents m'a glacée",
