@@ -1098,7 +1098,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1332465683280302": {
+       "attempts": 1,
+       "last_attempt": "2026-11-25T11:42:13+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "I Had Just Bought My Dream Seaside House When My Sister Announced She Was Moving In 22 Relatives for Two Weeks",
      "warnings": [
       "длина текста FB 655 слов (исходник 843, цель ±10%)"

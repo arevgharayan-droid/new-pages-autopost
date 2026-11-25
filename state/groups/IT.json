@@ -3,6 +3,7 @@
  "output_fps": {
   "3308dcdc06b7b2b05465": "2026-11-24T19:16:17+00:00",
   "5d20e2265371c71c0d77": "2026-11-23T22:29:12+00:00",
+  "651cf77e21288ee162d4": "2026-11-25T07:42:15+00:00",
   "a1d3380c7d9769b0a98e": "2026-11-23T22:31:37+00:00",
   "d8e9da0361d392fa44fa": "2026-11-23T22:26:30+00:00",
   "dc1e717f202c135c30d1": "2026-11-23T22:35:54+00:00"
@@ -926,7 +927,72 @@
    }
   },
   "2026-11-25 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "A sei anni promisi al mio migliore amico che saremmo andati al ballo insieme. Dodici anni dopo, mia madre mi rivelò un segreto che cambiò tutto",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38471,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-25T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/913848760_122144996523203244_7041862926423802264_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=S3bvystY16MQ7kNvwE1alkc&_nc_oc=AdptFaq0FpMTQBBCxFFKw_wdFIzAnwc2vW_iFZYK8-AoDB98Rqa9PoxO0t-G8wF1tCo&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=8mAkSZub4INystTSn9rLbQ&_nc_tpa=Q5bMBQKSK-5tAqCSn4Fh7oUNOVP0I-cTDwa67710ZhCtz4FZRwP_Bs01z8U5nvYtX21qAlMF8gOEYfrXGQ&oh=00_AQQNJ5PXKsIvGR9-JfxeREsWz5izKN9XVHKvVZ263UsuCw&oe=6B0C669B",
@@ -938,7 +1004,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261125-1200-it.jpg"
    },
    "source_key": "post:61586097333334_122144996601203244",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -1039,7 +1105,7 @@
    "origin": "manual",
    "page_id": "61586097333334",
    "slot": "2026-11-25 12:00",
-   "status": "reserved"
+   "status": "used"
   }
  },
  "tests": {},
