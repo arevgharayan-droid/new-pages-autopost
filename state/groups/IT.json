@@ -1,6 +1,7 @@
 {
  "enabled_since": "2026-11-24T02:25:41+04:00",
  "output_fps": {
+  "0bd5434f72cebbd827cf": "2026-11-25T15:07:41+00:00",
   "3308dcdc06b7b2b05465": "2026-11-24T19:16:17+00:00",
   "5d20e2265371c71c0d77": "2026-11-23T22:29:12+00:00",
   "651cf77e21288ee162d4": "2026-11-25T07:42:15+00:00",
@@ -1315,7 +1316,72 @@
   },
   "2026-11-25 19:30": {
    "adhoc": true,
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mio marito ci ha cacciate di casa, io e la nostra bimba di 2 anni, e ha pubblicato \"Finalmente mi sono liberato di loro\". La mattina dopo mio padre ha chiamato: \"Ora non devo più mantenere la promessa",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38491,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-25T19:30:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/917081635_1633551068784563_7708220293034228532_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=GIbW_ck0ZD0Q7kNvwFcwVt4&_nc_oc=AdrnCCak8LsyRsMgWOphcg9xzpyYg-vDJqDVk706u1U6P400Pme8Z_NpY9j6Eb_J_ro&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=v7Hf1jf064KBiPVtoQWPKQ&_nc_tpa=Q5bMBQKUTN5SvpbyBuoHNoZ6V1HTVMYAe83kwHkVOvS0pokHciT20qov-IeNxK9HaJ1MMhGn20mnU_icSg&oh=00_AQS-s4iJ2Eae7WrxrE5UZLKHCCRyhlf616_yz_WqjPpDVQ&oe=6B0CB1A0",
@@ -1327,7 +1393,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261125-1930-it.jpg"
    },
    "source_key": "post:100044802900629_1683865129783568",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -1406,7 +1472,7 @@
    "origin": "manual",
    "page_id": "100044802900629",
    "slot": "2026-11-25 19:30",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064230806326_1566120312205647": {
    "fingerprint": "781ce3d3309b68956450",
