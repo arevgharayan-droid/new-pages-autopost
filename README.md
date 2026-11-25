@@ -26,9 +26,9 @@ Articles are published on **1tari.ru** (via the Make Connector plugin).
 ## Status
 
 - Code copied from the main system; tests pass on a fixed test page set (`tests/fixture/config`).
-- 24.11.2026: Facebook (24 of 30 pages), 1tari.ru and Claude connected; private and public tests passed.
+- 24.11.2026: Facebook, 1tari.ru and Claude connected; private and public tests passed.
 - Schedule is **on**. Releases need links in `queue/IT.txt`, `queue/EN.txt`, `queue/FR.txt`.
-- 6 pages still have no token (Meta refused to assign them to newpages1, "try again later").
+- 25.11.2026: all 30 pages have tokens; the Meta app was switched to Live (in Development mode its posts were visible only to app admins).
 
 ## Still to connect
 
