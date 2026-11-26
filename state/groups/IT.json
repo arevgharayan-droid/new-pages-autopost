@@ -14,6 +14,7 @@
   "d1a81a021519eeb38263": "2026-11-26T06:43:22+00:00",
   "d8e9da0361d392fa44fa": "2026-11-23T22:26:30+00:00",
   "dc1e717f202c135c30d1": "2026-11-23T22:35:54+00:00",
+  "dfb4df94cb8729c0aa49": "2026-11-26T21:35:19+00:00",
   "e98c015a48b315dbeed6": "2026-11-26T06:36:00+00:00",
   "f253f2699f39a653a6d4": "2026-11-25T18:53:00+00:00",
   "f3ef25117706aee3dd6a": "2026-11-26T06:38:42+00:00"
@@ -3041,7 +3042,72 @@
    }
   },
   "2026-11-27 15:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mia figlia di 6 anni spariva ogni giorno per 10 minuti: quando l'ho seguita, ho trovato la vicina a terra con una chiave rosa in mano",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38584,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-27T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/927318375_122217503048841094_7680858570636229242_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=v5lvCiEymXYQ7kNvwEfwX02&_nc_oc=AdpNM5AAJhI3E0RDBKrEwq08IXq5Jyd_WKIJt5aRwz-82DWpGpxUPxWS9knikq-HTKk&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=O3SvDnyIGRMgc5dSaEavkg&_nc_tpa=Q5bMBQKmaXQ2RwL-njNPJeekAT9tKK02U3qxbpwrAUnqGl6ZQ-hDui7t6MN4gu41epypUh1H6C2Sc5otoQ&oh=00_AQVV9gS5l69gBubkZ97IJfasawrcAXvja6ZeoX4ZMZF5lw&oe=6B0E7015",
@@ -3053,7 +3119,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261127-1500-it.jpg"
    },
    "source_key": "post:61575232821594_122217503078841094",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -3250,7 +3316,7 @@
    "origin": "manual",
    "page_id": "61575232821594",
    "slot": "2026-11-27 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61585117295331_122156698821170576": {
    "fingerprint": "1a389d12196041246354",
