@@ -2254,7 +2254,23 @@
   "2026-11-26 18:00": {
    "langs": {},
    "slot_iso": "2026-11-26T18:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/915674920_122156813289170576_3489033591773667248_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-_iU_4uLnPwQ7kNvwGXC345&_nc_oc=AdoBpCAZV75MMnAqSp0Fvzvv8X6zw75PjI17W4fKEw9NgT3vCUxYgIE8l30oGajLcx8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=93z6rlQofrSspjGAHysdgg&_nc_tpa=Q5bMBQLs4Hu1XgYm_58AuMPK7adVgKcqQLroLVx9VxdJh5Xp9Oh3QGFNp_nUK6XaM0Qa-a1ycsYqZWMWmg&oh=00_AQT83x7brrhmnJ0JYSAXiSdSxJdkU5ZYDlo1Zi0kCMAVOA&oe=6B0DB7A6",
+    "link": "https://www.facebook.com/share/1NMxu7NZ4N/",
+    "origin": "manual",
+    "page_id": "61585117295331",
+    "text": "My husband took our two children to Italy to watch him marry his twenty-six-year-old mistress. Then, at 2:13 in the morning, he sent me three text messages that were supposed to destroy my life.\n\"Be gone before we get back.\"\n\"I hate old things. I deserve a new life.\"\nAnd finally:\n\"Don't make a scene. The kids are with us.\"\nAfter nineteen years of marriage, Logan Sterling didn't even have the decency to tell me goodbye in person.\nBut there was something he didn't know.\nThe five-acre Virginia estate he expected me to abandon had never belonged to him.\nAnd when he returned with his new bride, expecting to walk through those enormous oak doors like a conquering king, I intended to be waiting.\nMy name is Eleanor Montgomery Sterling. Until three weeks earlier, I had believed I was a happily married woman.\nThen Logan announced he wanted a divorce over scrambled eggs.\n\"I'm starting over, Eleanor,\" he said, barely looking up from his coffee.\nI stared at him across our kitchen island.\n\"What does that mean?\"\n\"It means I can't keep pretending I'm happy.\"\nHe told me about Sienna, a twenty-six-year-old woman from his marketing department. She made him feel young, he explained. Excited. Alive.\nI was apparently none of those things anymore.\nI remember looking at the chipped ceramic mug beside the coffee maker. Our fifteen-year-old daughter, Lily, had painted it in sixth grade. Crooked yellow flowers surrounded the word \"Mom.\"\nNineteen years of birthdays, Christmas mornings, scraped knees, family vacations, and sleepless nights.\nAnd Logan was throwing it all away as casually as yesterday's newspaper.\n\"Does Sienna know you're married?\" I asked.\n\"Don't make this ugly.\"\nThat was his favorite response whenever I asked an uncomfortable question.\nFor almost two decades, I'd organized our lives around his career. I'd raised Marcus and Lily, hosted his business associates, remembered his parents' anniversaries, and swallowed countless small humiliations to keep our home peaceful.\nLogan had mistaken that patience for weakness.\nThe worst betrayal wasn't his affair.\nIt was what he did to our children.\nMarcus was seventeen, tall and dark-haired, desperate for the approval of a father who always seemed to have more time for his clients than his son.\nLily was fifteen, sensitive, and still young enough to believe that adults eventually did the right thing.\nLogan promised them a spectacular vacation along Italy's Amalfi Coast.\nLuxury villas. Private yachts. Expensive restaurants.\nAnd a wedding.\nHis wedding.\nTo another woman.\nHe invited his parents, his brother, and several family friends. People who had eaten Thanksgiving dinner at my table and promised to look after me when my father died.\nApparently, free luxury accommodations were enough to buy their loyalty.\nWhen Lily called me from the airport, her voice was barely audible.\n\"Mom, I don't want you thinking I chose her.\"\nMy throat tightened.\n\"Oh, sweetheart. I know.\"\n\"Dad says you're going to move somewhere smaller.\"\nI stared through the kitchen window toward the enormous oak trees my father had planted.\n\"Did he?\"\n\"Mom, where are we supposed to live?\"\nI closed my eyes.\n\"You will always have a home with me.\"\nAfter we hung up, I sat at the kitchen table for nearly an hour.\nThen I opened the locked drawer in my father's old desk.\nInside was a weathered leather binder.\nMy father, Thomas Montgomery, had been one of Virginia's most formidable corporate litigators. He understood contracts, ambitious men, and the extraordinary damage that careless trust could cause.\nLong before Logan entered my life, Dad placed our five-acre estate, the colonial manor, and its surrounding buildings into an irrevocable trust.\nHe made me the sole trustee and beneficiary.\nLogan had signed the required postnuptial acknowledgments years earlier.\nHe had barely read them.\n\"This is just legal housekeeping, right?\" he'd laughed.\nDad had watched him sign without saying a word.\nI remembered that moment clearly as I opened the binder.\nThere was something else I remembered.\nShortly before he died, Dad had squeezed my hand and whispered, \"Eleanor, when someone shows you who they really are, don't argue with them. Read what they signed.\"\nThe morning after Logan's messages, I drove to the office of Dana Caldwell.\nDana was my father's oldest friend and one of the sharpest estate and family law attorneys in Virginia. In her charcoal suit and silver-rimmed glasses, she looked almost unnervingly calm as I laid everything before her.\nThe binder.\nPrinted screenshots of Logan's messages.\n(I know you're curious about the next part, so please be patient and read on in the comments below. Thank you for your understanding of the inconvenience. Please leave a \"YES\" comment below and give us a \"Like\" to get the full story.)\n\nThis kind of story always gets us talking. What's your reaction? The full version continues just underneath this post",
+    "wp_media_id": 38532,
+    "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261126-1800-it.jpg"
+   },
+   "source_key": "post:61585117295331_122156813373170576",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://1tari.ru/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://1tari.ru",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-26 21:00": {
    "langs": {},
@@ -2421,6 +2437,14 @@
    "page_id": "61585117295331",
    "slot": "2026-11-26 15:00",
    "status": "used"
+  },
+  "post:61585117295331_122156813373170576": {
+   "fingerprint": "fae791047137fb5be447",
+   "link": "https://www.facebook.com/share/1NMxu7NZ4N/",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-26 18:00",
+   "status": "reserved"
   },
   "post:61586097333334_122144996601203244": {
    "fingerprint": "3d2a260a217f52692622",
