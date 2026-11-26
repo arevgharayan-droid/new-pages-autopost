@@ -5,6 +5,7 @@
   "2a8690f73a9db12f1e67": "2026-11-25T07:42:10+00:00",
   "4922dd0339f1c3739c2d": "2026-11-25T15:12:24+00:00",
   "4f0e670b2d786178e52d": "2026-11-24T19:17:49+00:00",
+  "66bef46121babdedb4ac": "2026-11-26T06:36:00+00:00",
   "7a0505ae27605e9f4fe2": "2026-11-23T22:28:28+00:00",
   "7cf19d3d9437666b2e88": "2026-11-25T18:49:05+00:00",
   "8a5aebeef53706f37e58": "2026-11-25T11:40:25+00:00",
@@ -2455,7 +2456,74 @@
    }
   },
   "2026-11-26 15:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Son Didn't Speak for 8 Years After His Twin Sister Died, Then He Pointed at His Father and Said the Words That Silenced the Whole Room",
+     "warnings": [
+      "длина статьи 996 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 38528,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-26T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/921481806_122145686223234210_4736464786984042859_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=tGbRyxaWhaEQ7kNvwGlUTuE&_nc_oc=AdpXIsU9YR7wKJ6jH1EaFtEb_AncuVqxGn8mRP-aUsnL1o9aREmgv0CQOF_hW3sbhU8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=09Xcl4d6uEdGegeN_bMsBw&_nc_tpa=Q5bMBQKGB3bzV7XsY179cbO_b6KwZmplVCGnu4Qe279zFF2DtfY59hxP500PPXtX_h7xtgeJ2VZH3YggMQ&oh=00_AQTnxwLIlqEko1ce0HB-T0Z4IrhJuTAt88vTJvMfaEhePQ&oe=6B0D8A50",
@@ -2467,7 +2535,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261126-1500-en.jpg"
    },
    "source_key": "post:61587026316282_122145686247234210",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -2644,7 +2712,7 @@
    "origin": "manual",
    "page_id": "61587026316282",
    "slot": "2026-11-26 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61587026316282_122145803109234210": {
    "fingerprint": "9ae6f0852c7ef125a6f6",
