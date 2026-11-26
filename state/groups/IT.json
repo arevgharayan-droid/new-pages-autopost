@@ -2795,6 +2795,11 @@
     "url": "https://1tari.ru",
     "wp_auth": "make_connector"
    }
+  },
+  "2026-11-27 12:00": {
+   "langs": {},
+   "slot_iso": "2026-11-27T12:00:00+04:00",
+   "status": "no_source"
   }
  },
  "source_cutoff": "2026-11-23T22:25:41+00:00",
