@@ -12,11 +12,16 @@
 - ⏭ уже взята (used, 2026-11-25 19:30): https://www.facebook.com/share/195rQLmcwd/
 - ⏭ уже взята (used, 2026-11-25 21:00): https://www.facebook.com/share/19gu1oqHxi/
 - ⏭ уже взята (used, 2026-11-26 00:00): https://www.facebook.com/share/1GFcoRJrow/
-- ✅ чужая страница · 3053 знаков, фото есть · «My 6-Year-Old Daughter Had One Final Wish Before Her Bone Marrow Transplant. When She Told Me What I…»
-- ✅ чужая страница · 5342 знаков, фото есть · «THE DAY I FLEW TO SAN FRANCISCO TO SURPRISE MY HUSBAND, I DISCOVERED THAT HIS BIRTHDAY PRESENT WAS A…»
-- ✅ чужая страница · 5347 знаков, фото есть · «At 11:58 P.M., I Came Home After Four Months At Sea And Found My Nine-Year-Old Son In Tears, Struggl…»
-- ✅ чужая страница · 4955 знаков, фото есть · «I Returned to My Hometown After 20 Years and Saw the Woman I Once Loved Walking Barefoot with a Heav…»
-- ✅ чужая страница · 6128 знаков, фото есть · «THE DAY MY BOYFRIEND MARRIED MY STEPSISTER, EVERYONE THOUGHT I WAS DEAD… FIVE YEARS LATER, I RETURNE…»
+- ⏭ уже взята (used, 2026-11-26 12:00): https://www.facebook.com/share/1CCHxgvPLQ/
+- ⏭ уже взята (used, 2026-11-26 15:00): https://www.facebook.com/share/1AJpfNqV2y/
+- ⏭ уже взята (used, 2026-11-26 18:00): https://www.facebook.com/share/1A8TpRk6c4/
+- ⏭ уже взята (used, 2026-11-26 21:00): https://www.facebook.com/share/19xvdjJDLD/
+- ⏭ уже взята (used, 2026-11-27 00:00): https://www.facebook.com/share/1G9JViRzjN/
+- ✅ чужая страница · 2148 знаков, фото есть · «While I lay in a hospital bed hours after delivering our daughter, my husband and mother-in-law were…»
+- ✅ чужая страница · 5786 знаков, фото есть · «She Pulled the Chair Away While I Was Holding My Daughter. Everyone Laughed When I Fell... Without R…»
+- ✅ чужая страница · 7171 знаков, фото есть · «I GOT DIVORCED AND BLOCKED MY PAYCHECK CARD. ONE MINUTE LATER, MY EX-MOTHER-IN-LAW TRIED TO BUY HER …»
+- ✅ чужая страница · 6532 знаков, фото есть · «HE GAVE ME TEN MILLION DOLLARS TO DISAPPEAR WITH OUR TWO CHILDREN. I SIGNED WITHOUT READING, AND WHE…»
+- ✅ чужая страница · 8586 знаков, фото есть · «The Night Before Our Wedding, My Fiancé Left Me for His Pregnant Mistress. Then He Expected Me to Gi…»
 
 ### IT (8 стр.) — ждут публикации: 5
 - ⏭ уже взята (used, 2026-11-24 12:00): https://www.facebook.com/share/1Ct55kS3sb/
@@ -26,15 +31,19 @@
 - ⏭ уже взята (used, 2026-11-25 00:00): https://www.facebook.com/share/1CUrJVVALA/
 - ⏭ уже взята (used, 2026-11-25 12:00): https://www.facebook.com/share/1D9GgYb5RV/
 - ⏭ уже взята (used, 2026-11-25 15:39): https://www.facebook.com/share/1J1bbud5FR/
-- ❌ https://www.facebook.com/share/p/1F2gsMuKgU/: не удалось найти числовой ID поста в ссылке: https://www.facebook.com/groups/432329977875809/permalink/1767770840998376/?rdid=kkK4KkeUQ2KaVafe&share_url=https%3A%2F%
 - ⏭ уже взята (used, 2026-11-25 19:30): https://www.facebook.com/share/1Cu1rug3a5/
 - ⏭ уже взята (used, 2026-11-25 21:00): https://www.facebook.com/share/1FSym9jSw6/
 - ⏭ уже взята (used, 2026-11-26 00:00): https://www.facebook.com/share/1Cw759dN3g/
-- ✅ чужая страница · 3407 знаков, фото есть · «I Spent Four Weeks in Intensive Care Fighting to Survive. Not a Single Relative Visited Me. One Mont…»
-- ✅ чужая страница · 4771 знаков, фото есть · «My boyfriend and I had been together for almost seven years. We owned a house, were raising a child,…»
-- ✅ чужая страница · 4899 знаков, фото есть · «My husband took our two children to Italy to watch him marry his twenty-six-year-old mistress. Then,…»
-- ✅ чужая страница · 4783 знаков, фото есть · «On our wedding day, my mother lifted her champagne glass and announced in front of everyone that my …»
-- ✅ чужая страница · 4852 знаков, фото есть · «My husband threw our eighteen-year-old daughter out of the house while I was away on a business trip…»
+- ⏭ уже взята (used, 2026-11-26 12:00): https://www.facebook.com/share/1LCBXt8eD9/
+- ⏭ уже взята (used, 2026-11-26 15:00): https://www.facebook.com/share/1BRbHsTCJk/
+- ⏭ уже взята (used, 2026-11-26 18:00): https://www.facebook.com/share/1NMxu7NZ4N/
+- ⏭ уже взята (used, 2026-11-26 21:00): https://www.facebook.com/share/1JN2WMDTCh/
+- ⏭ уже взята (used, 2026-11-27 00:00): https://www.facebook.com/share/1JX2SWGZdB/
+- ✅ чужая страница · 3977 знаков, фото есть · «At 2:46 a.m., a billionaire found a maid beside his triplets, who were sleeping peacefully for the f…»
+- ✅ чужая страница · 4407 знаков, фото есть · «For 4 months, my 6-year-old for 10 minutes every day after school. She wouldn't tell me where. Then …»
+- ✅ чужая страница · 7265 знаков, фото есть · «I spent eighteen years cleaning the same wealthy man's mansion. After he died, his son inherited the…»
+- ✅ чужая страница · 3657 знаков, фото есть · «For 34 mornings, I fed peanuts to a crow on my back porch. It began leaving me gifts. A bottle cap. …»
+- ✅ чужая страница · 2284 знаков, фото есть · «I Was Playing Airplane With My Daughter When She Suddenly Screamed and Pointed at the Top of Our Clo…»
 
 ### EN (11 стр.) — ждут публикации: 5
 - ⏭ уже взята (used, 2026-11-24 12:00): https://www.facebook.com/share/1CPLG5Houw/
@@ -44,13 +53,17 @@
 - ⏭ уже взята (used, 2026-11-25 00:00): https://www.facebook.com/share/1WJ4BFZ3wi/
 - ⏭ уже взята (used, 2026-11-25 12:00): https://www.facebook.com/share/1E3MaavDd1/
 - ⏭ уже взята (used, 2026-11-25 15:39): https://www.facebook.com/share/1FZzu3juLZ/
-- ❌ https://www.facebook.com/share/p/1F2gsMuKgU/: не удалось найти числовой ID поста в ссылке: https://www.facebook.com/groups/432329977875809/permalink/1767770840998376/?rdid=t8u1tbFYeF292DlD&share_url=https%3A%2F%
 - ⏭ уже взята (used, 2026-11-25 19:30): https://www.facebook.com/share/1Cu1rug3a5/
 - ⏭ уже взята (used, 2026-11-25 21:00): https://www.facebook.com/share/1CZnm2YuTU/
 - ⏭ уже взята (used, 2026-11-26 00:00): https://www.facebook.com/share/1Cw759dN3g/
-- ✅ чужая страница · 5370 знаков, фото есть · «Mon mari m’a suppliée de porter un enfant pour son patron homosexuel, en prétendant que cela pourrai…»
-- ✅ чужая страница · 3270 знаков, фото есть · «Mon fils n’avait pas prononcé un seul mot depuis huit ans, depuis les funérailles de sa sœur jumelle…»
-- ✅ чужая страница · 5135 знаков, фото есть · «Je suis rentré chez moi trois heures plus tôt que prévu et j’ai découvert ma gouvernante en train de…»
-- ✅ чужая страница · 4624 знаков, фото есть · «La femme d’un colonel m’a giflée en plein visage devant le portail que j’étais chargée de protéger, …»
-- ✅ чужая страница · 3885 знаков, фото есть · «Lors du dîner du dimanche, ma mère a giflé mon fils de six ans si violemment que son oreille s’est m…»
+- ⏭ уже взята (used, 2026-11-26 12:00): https://www.facebook.com/share/1FBqqyyeh7/
+- ⏭ уже взята (used, 2026-11-26 15:00): https://www.facebook.com/share/1E35Kt6g1Q/
+- ⏭ уже взята (used, 2026-11-26 18:00): https://www.facebook.com/share/1K2qxbYzKQ/
+- ⏭ уже взята (used, 2026-11-26 21:00): https://www.facebook.com/share/1CDqVK2nwY/
+- ⏭ уже взята (used, 2026-11-27 00:00): https://www.facebook.com/share/14rMXbgQffd/
+- ✅ чужая страница · 5601 знаков, фото есть · «J’étais sur le point d’embarquer dans mon avion lorsque j’ai consulté les caméras de surveillance de…»
+- ✅ чужая страница · 4182 знаков, фото есть · «Je suis rentré chez moi au milieu de la nuit et j’ai découvert ma fille de 6 ans endormie sur le sol…»
+- ✅ чужая страница · 10220 знаков, фото есть · «Après 37 ans d’amitié, ma meilleure amie m’a demandé de prendre une dernière photo ensemble. Puis el…»
+- ✅ чужая страница · 5131 знаков, фото есть · «Treize ans après que mon ex-mari nous a abandonnés, mes deux fils jumeaux et moi, je suis tombée sur…»
+- ✅ чужая страница · 4854 знаков, фото есть · «Ma sœur et moi avons accouché le même jour, dans le même hôpital, à seulement deux chambres d’écart.…»
 
