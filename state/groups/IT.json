@@ -1902,7 +1902,23 @@
   "2026-11-26 12:00": {
    "langs": {},
    "slot_iso": "2026-11-26T12:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/932135303_1727037955481563_3156365314094464553_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qoiHC6xeXBgQ7kNvwGehorA&_nc_oc=AdoHwfMzIZnoOe3ChZ6t-ODBOLofHEZ8DNFyW83xPCMp9GV1fWYfC9jVTNpOqsN34F8&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=H8WkMqdfe_4G0V9UOsiSQA&_nc_tpa=Q5bMBQJtiP8ZUblG_Rsulrxxiqyl4tqQ_gUN9r5PtzeDtK8pKTm4VETuMTy46_e_hLwvE0FitdN8qe6-Dw&oh=00_AQQM8Uc1wT9Zk-Ne3pLlVKlb84qjoTDZYm4kQkpQNLDQMg&oe=6B0DADA6",
+    "link": "https://www.facebook.com/share/1LCBXt8eD9/",
+    "origin": "manual",
+    "page_id": "100045261260562",
+    "text": "I Spent Four Weeks in Intensive Care Fighting to Survive. Not a Single Relative Visited Me. One Month Later, Mom Messaged, “Kaelan needs your house for his new family. Sign it over today.” I Sent Her a Photo of a Toy Tent and Replied, “Tell him to move into this.” Then I Blocked Her. Three Hours Later, Dad Arrived With Two Lawyers—Unaware of the Shocking Surprise Waiting Inside My Home...\n\nFor twenty-eight days, I lay in intensive care struggling to stay alive, without a single visit from anyone in my family.\n\nYet the moment my brother wanted my $2.8 million home, my relatives suddenly remembered I was alive.\n\nI'm Emily Bennett, thirty-five, a commercial property attorney living in Connecticut, and apparently the easiest person for the Bennett family to discard.\n\nSix weeks earlier, an intoxicated driver had crashed into my vehicle on a rain-soaked highway.\n\nThe collision left me with a collapsed lung, several broken bones, and internal bleeding. Surgeons operated on me three times in emergencies.\n\nMy heart stopped twice.\n\nHospital staff repeatedly tried contacting my parents.\n\nMom answered the telephone once.\n\n“She's always been dramatic,” she told the nurse. “Call us when she's actually dying.”\n\nDad ignored every message.\n\nMeanwhile, my younger brother, Kaelan, was uploading vacation pictures from Miami as I lay unconscious on a ventilator.\n\nWhen I eventually regained consciousness, my best friend Olivia was the only person beside my hospital bed.\n\n“Your family knows,” she whispered when I asked about them.\n\nHer brief answer told me everything.\n\nAfter four weeks, I was discharged from the hospital with a walker.\n\nOlivia drove me back to my house, filled the refrigerator with groceries, and helped me manage the stairs.\n\nStill, my parents never contacted me.\n\nNot until Tuesday morning.\n\nI was sipping tea when my phone vibrated.\n\nMom: “Kaelan needs a home for his new family. His wife is pregnant, and your house has six bedrooms. We need you to sign your property over to him today.”\n\nI read the message in disbelief.\n\nNot a word about my health.\n\nNot even an apology for abandoning me.\n\nOnly another demand.\n\nI searched online for a photograph of a miniature children's camping tent and forwarded it to Mom.\n\n“Tell Kaelan to move into this.”\n\nThen I blocked her number.\n\nThree hours afterward, my security camera captured my father's black Mercedes entering the driveway.\n\nTwo men carrying leather briefcases climbed out behind him.\n\nDad strode toward my front entrance and repeatedly pressed the doorbell.\n\nI was still physically weak, but I felt no fear.\n\nBecause the property he was demanding wasn't merely where I lived.\n\nIt also served as the headquarters of Bennett Property Holdings, a private investment firm I'd discreetly established over twelve years.\n\nAnd three months before, my company had acquired the commercial mortgage backed by the property belonging to my father's financially troubled business.\n\nHe knew absolutely nothing about that transaction.\n\nI opened the front door.\n\nDad glanced at my walker and gave a smug smile.\n\n“Good. You're home. This shouldn't take long.”\n\nHe held a document out toward me.\n\n“Sign, Emily. Your brother deserves this house.”\n\nI glanced beyond him at the two attorneys.\n\n“Gentlemen,” I said evenly, “before anyone signs anything, there's something you should know.”\n\nThen I stepped aside...\n\n**To be continued in C0mments 👇**",
+    "wp_media_id": 38519,
+    "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261126-1200-it.jpg"
+   },
+   "source_key": "post:100045261260562_1727146262137399",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://1tari.ru/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://1tari.ru",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-26 15:00": {
    "langs": {},
@@ -2007,6 +2023,14 @@
    "page_id": "100044802900629",
    "slot": "2026-11-25 19:30",
    "status": "used"
+  },
+  "post:100045261260562_1727146262137399": {
+   "fingerprint": "a78aa9f35d092b32ba26",
+   "link": "https://www.facebook.com/share/1LCBXt8eD9/",
+   "origin": "manual",
+   "page_id": "100045261260562",
+   "slot": "2026-11-26 12:00",
+   "status": "reserved"
   },
   "post:100064230806326_1566120312205647": {
    "fingerprint": "781ce3d3309b68956450",
