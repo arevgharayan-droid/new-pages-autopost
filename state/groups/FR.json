@@ -9,10 +9,12 @@
   "142f82c264502c252399": "2026-11-25T07:42:06+00:00",
   "1bdc9e2073351aa7f1ba": "2026-11-23T22:35:47+00:00",
   "1d2d078220d7489dc249": "2026-11-25T15:07:49+00:00",
+  "3399bb5469a5bae55ff7": "2026-11-26T06:36:27+00:00",
   "452e1226246abc6505e7": "2026-11-23T22:31:50+00:00",
   "5231dd89a275d9af343f": "2026-11-25T18:49:22+00:00",
   "57d223b1c83684235f0d": "2026-11-24T19:15:45+00:00",
   "8018da255f19a4840354": "2026-11-25T11:40:40+00:00",
+  "86b8b8b11163f3f24649": "2026-11-26T06:36:27+00:00",
   "89edad4818bc5fbb8405": "2026-11-25T18:49:22+00:00",
   "943c0df6e5fc19ac0134": "2026-11-26T06:33:10+00:00",
   "9b1df66560b8b791db40": "2026-11-23T22:31:50+00:00",
@@ -2745,7 +2747,81 @@
    }
   },
   "2026-11-26 15:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Je suis allée à San Francisco surprendre mon mari pour son anniversaire : son « cadeau » était la femme qui avait détruit la veille de mon mariage",
+     "warnings": [
+      "в тексте упоминается AI/перевод — проверьте"
+     ],
+     "wp_error": null,
+     "wp_id": 38530,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Voei para São Francisco para surpreender meu marido no aniversário dele e descobri que o presente era outra mulher",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38531,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-26T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/925846132_1461526222774912_4420212467170073786_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=FGO-3TJlbaMQ7kNvwFT_AVE&_nc_oc=Adp4PnDLJcfSi-IR74WoT7SpStkCXb8KxhZAPeyTnnb502nmu7jDPhCjGbULgtxgdeM&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=qepvmHo8dMf814-y1yuMOQ&_nc_tpa=Q5bMBQKiHiEVvSx7f0ZkeUXISqlDvA8rVIq63_EPdSyvjCAgZhJWro_uKXvqKlGqTdL7KtxI6Fj6oTDXvQ&oh=00_AQTZtDrDRb_27bsT48g1glgudHJBr5odelRHgAcsENL8zQ&oe=6B0DA78F",
@@ -2757,7 +2833,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261126-1500-fr.jpg"
    },
    "source_key": "post:100067526447776_1462839645976903",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -2897,7 +2973,7 @@
    "origin": "manual",
    "page_id": "100067526447776",
    "slot": "2026-11-26 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100067526447776_1462992699294931": {
    "fingerprint": "77c5b71c4b9bf4fbd35a",
