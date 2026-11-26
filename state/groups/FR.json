@@ -9,10 +9,12 @@
   "1411cae2748e3f4db997": "2026-11-25T17:15:45+00:00",
   "142f82c264502c252399": "2026-11-25T07:42:06+00:00",
   "1bdc9e2073351aa7f1ba": "2026-11-23T22:35:47+00:00",
+  "1c5feb647797ec273aac": "2026-11-26T21:35:21+00:00",
   "1d2d078220d7489dc249": "2026-11-25T15:07:49+00:00",
   "3399bb5469a5bae55ff7": "2026-11-26T06:36:27+00:00",
   "3aa9d22f50ed9f26ccbe": "2026-11-26T21:31:48+00:00",
   "3bb728fdb8209ddba91d": "2026-11-26T06:48:29+00:00",
+  "43b04edaa7c58f116abe": "2026-11-26T21:35:21+00:00",
   "452e1226246abc6505e7": "2026-11-23T22:31:50+00:00",
   "5231dd89a275d9af343f": "2026-11-25T18:49:22+00:00",
   "57d223b1c83684235f0d": "2026-11-24T19:15:45+00:00",
@@ -3959,7 +3961,79 @@
    }
   },
   "2026-11-27 15:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Elle a retiré ma chaise pendant que je portais ma fille : tout le monde a ri, sans savoir que j'étais déjà morte",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38585,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Puxaram a cadeira enquanto eu segurava minha filha no colo. Todos riram da minha queda, sem saber que eu já estava morta",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38586,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-27T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/917339058_1462198976040970_4992044980882453254_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=hh_CgENxLgMQ7kNvwGVToTo&_nc_oc=Adr_LY3GzEO091-kWZPuWANS3jDmhiDGjY4DT-Dod0PvitPW2FrzSv3hvzj-8obq8QY&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=jq0nq2YcTQHLiMjZvFDHfw&_nc_tpa=Q5bMBQLD_v2U_uI2uwhAyEg-h30xSXFWwhXlsSYXLim_IG2PqjdTI4v7_zL1tHsxaHRqgmVF5d1Vz_7M7Q&oh=00_AQXziU0zxC9Nu7l7hLfCgKIaxke9wRRu0SBXDGKcdXex7Q&oe=6B0E892D",
@@ -3971,7 +4045,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261127-1500-fr.jpg"
    },
    "source_key": "post:100067526447776_1463334219260779",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -4171,7 +4245,7 @@
    "origin": "manual",
    "page_id": "100067526447776",
    "slot": "2026-11-27 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100067526447776_1463358422591692": {
    "fingerprint": "f4c9fb97bd9f3a7ac028",
