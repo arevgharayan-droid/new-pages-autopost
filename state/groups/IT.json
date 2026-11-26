@@ -3443,7 +3443,9 @@
      "pages": {},
      "title": "Per 34 mattine ho dato arachidi a un corvo: quando mia figlia è scomparsa, lui mi ha lasciato ai piedi la sua molletta rosa",
      "warnings": [],
-     "wp_error": "POST posts: <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!"
+     "wp_error": null,
+     "wp_id": 38607,
+     "wp_status": "future"
     },
     "NL": {
      "pages": {},
@@ -3474,6 +3476,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-27T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/915717867_122217347846841094_8410776482717044158_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=78Lr-FL58ZAQ7kNvwEfLb34&_nc_oc=AdpaxX0fuyjwEbMPfaiEGRTj2xuAkTMiLHL_3qAqWfQF7CvqnYyupEjwWsOe1ZavC_A&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=AKgPJ38grJ3fHOX2211yhA&_nc_tpa=Q5bMBQJoItzWUFc_dz3CHg749S--zLp-hAc2_5Hy-HwNg1Sx8YOa5PydTWnPn6rBoMy2sb0W4Y8p85mpdw&oh=00_AQUIrjESmpDFffoTIA0MabyfLPgHlrQq4xN7O9GdgTKGsw&oe=6B0E7949",
@@ -3485,7 +3488,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261127-2100-it.jpg"
    },
    "source_key": "post:61575232821594_122217347906841094",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -3834,7 +3837,7 @@
    "origin": "manual",
    "page_id": "61575232821594",
    "slot": "2026-11-27 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61575232821594_122217379838841094": {
    "fingerprint": "fd6b48be30441136df06",
