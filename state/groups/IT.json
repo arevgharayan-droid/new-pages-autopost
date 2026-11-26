@@ -9,6 +9,7 @@
   "73076a33b78969917157": "2026-11-25T11:40:45+00:00",
   "740e34a05758fed2262f": "2026-11-26T21:38:07+00:00",
   "7688b53f65997aaf2d7d": "2026-11-26T06:33:04+00:00",
+  "87f2039cfe1c13d1d8d2": "2026-11-26T21:40:46+00:00",
   "a1d3380c7d9769b0a98e": "2026-11-23T22:31:37+00:00",
   "c2d05cdce76d465961ba": "2026-11-26T06:40:52+00:00",
   "cd26b8fa1ce322592f40": "2026-11-25T17:14:49+00:00",
@@ -3393,7 +3394,69 @@
    }
   },
   "2026-11-27 21:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Per 34 mattine ho dato arachidi a un corvo: quando mia figlia è scomparsa, lui mi ha lasciato ai piedi la sua molletta rosa",
+     "warnings": [],
+     "wp_error": "POST posts: <!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
    "slot_iso": "2026-11-27T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/915717867_122217347846841094_8410776482717044158_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=78Lr-FL58ZAQ7kNvwEfLb34&_nc_oc=AdpaxX0fuyjwEbMPfaiEGRTj2xuAkTMiLHL_3qAqWfQF7CvqnYyupEjwWsOe1ZavC_A&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=AKgPJ38grJ3fHOX2211yhA&_nc_tpa=Q5bMBQJoItzWUFc_dz3CHg749S--zLp-hAc2_5Hy-HwNg1Sx8YOa5PydTWnPn6rBoMy2sb0W4Y8p85mpdw&oh=00_AQUIrjESmpDFffoTIA0MabyfLPgHlrQq4xN7O9GdgTKGsw&oe=6B0E7949",
