@@ -1930,7 +1930,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1278654352005636": {
+       "attempts": 1,
+       "last_attempt": "2026-11-26T10:33:10+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "Mi hanno lasciata sola in terapia intensiva per 28 giorni, ma quando mio fratello ha voluto la mia casa da 2,8 milioni, mio padre si è presentato con due avvocati",
      "warnings": [],
      "wp_error": null,

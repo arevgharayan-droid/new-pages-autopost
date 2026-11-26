@@ -14,6 +14,7 @@
   "57d223b1c83684235f0d": "2026-11-24T19:15:45+00:00",
   "8018da255f19a4840354": "2026-11-25T11:40:40+00:00",
   "89edad4818bc5fbb8405": "2026-11-25T18:49:22+00:00",
+  "943c0df6e5fc19ac0134": "2026-11-26T06:33:10+00:00",
   "9b1df66560b8b791db40": "2026-11-23T22:31:50+00:00",
   "a886046a118d27ee18d9": "2026-11-23T22:26:29+00:00",
   "aeb719ad1a91a2304dcb": "2026-11-24T19:15:45+00:00",
@@ -22,7 +23,8 @@
   "d96983c55ba1a21a29fb": "2026-11-25T07:42:06+00:00",
   "e16837a05fc114141862": "2026-11-25T17:28:05+00:00",
   "edbbf741c2eef7d053e7": "2026-11-23T22:29:12+00:00",
-  "f893205d1bb3e51b05cd": "2026-11-23T22:29:12+00:00"
+  "f893205d1bb3e51b05cd": "2026-11-23T22:29:12+00:00",
+  "ff95cd0ff010bdb64c37": "2026-11-26T06:33:10+00:00"
  },
  "outputs": {
   "1005151039357476_122116718510633559": "2026-11-24T11:07:40+00:00",
@@ -2525,7 +2527,81 @@
    }
   },
   "2026-11-26 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Avant sa greffe de moelle osseuse, ma fille de 6 ans a fait un dernier vœu : quand elle me l'a confié, je me suis effondrée à genoux dans le couloir de l'hôpital",
+     "warnings": [
+      "длина статьи 972 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 38523,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Minha filha de 6 anos pediu um último desejo antes do transplante de medula, e eu caí de joelhos no corredor do hospital",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38524,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-26T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/924566381_1462992569294944_2140278322937713960_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=C_Z9kW8LwRMQ7kNvwECocs6&_nc_oc=AdpaEPnhHqq2QFmSDNxaBXbzBQSfatvGfuqsewz6feLOZrc88xxQ5cPZN590ld9af9s&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=jki_Kbulkn-ViTW8Bb4UNw&_nc_tpa=Q5bMBQJDnIO1yL8cXyOeUoblUyCtDuTJT_3_VqB-v2KThOe_v3t25DO8aLj2wIs8qgr0tRcBf_Yb_TszgQ&oh=00_AQQ0pE924L70cMuB_eeGVbs0l2WYXMX_ab4y8-iu8CjKJg&oe=6B0D9C1E",
@@ -2537,7 +2613,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261126-1200-fr.jpg"
    },
    "source_key": "post:100067526447776_1462992699294931",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -2682,7 +2758,7 @@
    "origin": "manual",
    "page_id": "100067526447776",
    "slot": "2026-11-26 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100078010841607_1139251742018510": {
    "fingerprint": "15b04431c421e1b5851a",
