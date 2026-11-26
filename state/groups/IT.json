@@ -2897,7 +2897,10 @@
      "generated": true,
      "pages": {},
      "title": "Il miliardario cacciò la cameriera che aveva calmato i suoi trigemelli, ma poche ore dopo scoprì chi era davvero",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38579,
+     "wp_status": "future"
     },
     "NL": {
      "pages": {},
@@ -2928,6 +2931,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-27T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/928334380_122156944473170576_7497897423325788990_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=MuL6jhDQoVUQ7kNvwHLMp48&_nc_oc=AdrIeP0gWgxaE6V8xA4GDd4Mm_8C6hbfhXbWIIevxLsQV9u1qymENAqy2831thkFH1A&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=u-3y8eQYvRzNy4jxlciUVw&_nc_tpa=Q5bMBQJ-y3OjLvmYTgRzA49OoGfsuMysI3WYUb7k9NA5HICSQ9nVPycebovXo5inAoYjO-KyahPbxsBLcw&oh=00_AQWDMRNGCgVHOFKngt_FFFk-hGuoFE-kJpgKq1Gv_jaLbw&oe=6B0E7283",
@@ -2939,7 +2943,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261127-1200-it.jpg"
    },
    "source_key": "post:61585117295331_122156944563170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -3173,7 +3177,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-27 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61586097333334_122144996601203244": {
    "fingerprint": "3d2a260a217f52692622",
