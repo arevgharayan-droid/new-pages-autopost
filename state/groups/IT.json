@@ -12,6 +12,7 @@
   "87f2039cfe1c13d1d8d2": "2026-11-26T21:40:46+00:00",
   "a1d3380c7d9769b0a98e": "2026-11-23T22:31:37+00:00",
   "c2d05cdce76d465961ba": "2026-11-26T06:40:52+00:00",
+  "cbf3abefcd4bed7bfea6": "2026-11-26T21:41:30+00:00",
   "cd26b8fa1ce322592f40": "2026-11-25T17:14:49+00:00",
   "d1a81a021519eeb38263": "2026-11-26T06:43:22+00:00",
   "d8e9da0361d392fa44fa": "2026-11-23T22:26:30+00:00",
@@ -3477,7 +3478,72 @@
    }
   },
   "2026-11-28 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Giocavo all'aeroplano con mia figlia quando ha urlato e ha indicato la cima dell'armadio: quello che ho trovato lassù mi ha gelato il sangue",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38599,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-28T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/924153682_122217332966841094_3218192420084512729_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=cYiJ_1YY3MIQ7kNvwG3niTx&_nc_oc=AdpPh0XpAiDoQBOCIpeQTE25LlbS30pEit5ZBBqK6EVkfJ8f-O_v1PpRupG5b6kUORQ&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=TSn-UzLcKD2C63Lj9A4EEQ&_nc_tpa=Q5bMBQJSP5OImLMi3wgPFBaOiR3opVLnLe8tIhQcp13uWr-w9K0HL9Ym8v4R4tDSjTr7WAsfiDm8-kvh2g&oh=00_AQUV6mC6RxbC85aBk5jpjpzW_BlNHsj5UGH-5MW22Dhpgw&oe=6B0E6CB8",
@@ -3489,7 +3555,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261128-0000-it.jpg"
    },
    "source_key": "post:61575232821594_122217333050841094",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -3671,7 +3737,7 @@
    "origin": "manual",
    "page_id": "61575232821594",
    "slot": "2026-11-28 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61575232821594_122217347906841094": {
    "fingerprint": "9b8d2098120cf0043b54",
