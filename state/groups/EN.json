@@ -11,6 +11,7 @@
   "7cf19d3d9437666b2e88": "2026-11-25T18:49:05+00:00",
   "8a5aebeef53706f37e58": "2026-11-25T11:40:25+00:00",
   "938a971e60bfe70c6f62": "2026-11-23T22:29:59+00:00",
+  "c9d66b0204bfeeee1086": "2026-11-26T06:42:07+00:00",
   "d3e5a2eaa928b2fde220": "2026-11-23T22:26:14+00:00",
   "d92e1993a4c8460fe86a": "2026-11-23T22:35:45+00:00",
   "fba47c84b8cc91f5e62d": "2026-11-25T17:14:34+00:00"
@@ -2896,7 +2897,72 @@
    }
   },
   "2026-11-27 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Mother Slapped My 6-Year-Old So Hard His Ear Bled, Never Knowing Who Was Waiting Outside for Us",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38542,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-27T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/926564894_122145349071234210_1491075135296198691_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=QW3JPMb80HcQ7kNvwHy5R2e&_nc_oc=AdpmCrM4UVIW6Aj0na86xAdV3cFwYhwk4HLZzrJ67FPT2VgFvAo34P6MA-TsWxdrpjs&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=z2hpE-VwuDUVA5NnoYDPsQ&_nc_tpa=Q5bMBQK-ZyQt3Y_-CaWJQIFt4jxaY2xFBh6WW5cIpx1mF4CKTjDsvBtL_-vjZuNh0CDsq9mD1FOCoUnlOQ&oh=00_AQQDclgyAf-oxBT8uSQAEm7__OPKaE8270HklAXt0LAMCA&oe=6B0DB256",
@@ -2908,7 +2974,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261127-0000-en.jpg"
    },
    "source_key": "post:61587026316282_122145349101234210",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -3070,7 +3136,7 @@
    "origin": "manual",
    "page_id": "61587026316282",
    "slot": "2026-11-27 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61587026316282_122145549459234210": {
    "fingerprint": "e62463a4361986407ff3",
