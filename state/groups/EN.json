@@ -2700,12 +2700,14 @@
       },
       "1332465683280302": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127215307419554_2520573038353704",
        "error": null,
        "last_attempt": "2026-11-26T10:36:02+04:00",
        "mode": "schedule",
        "photo_id": "122127215277419554",
        "post_id": "1332465683280302_122127215307419554",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "My Son Didn't Speak for 8 Years After His Twin Sister Died, Then He Pointed at His Father and Said the Words That Silenced the Whole Room",
@@ -2770,7 +2772,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261126-1500-en.jpg"
    },
    "source_key": "post:61587026316282_122145686247234210",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
