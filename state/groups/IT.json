@@ -2461,6 +2461,12 @@
      "gen_error": null,
      "generated": true,
      "pages": {
+      "1096862213506417": {
+       "attempts": 1,
+       "last_attempt": "2026-11-26T10:41:23+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      },
       "1278654352005636": {
        "attempts": 1,
        "error": null,
