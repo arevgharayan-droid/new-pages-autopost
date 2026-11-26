@@ -1,6 +1,7 @@
 {
  "enabled_since": "2026-11-24T02:25:41+04:00",
  "output_fps": {
+  "00de020aebcd90910fc5": "2026-11-26T21:31:48+00:00",
   "080b877e675679c403a3": "2026-11-25T15:07:49+00:00",
   "08c14585c20aa9e5619b": "2026-11-23T22:35:47+00:00",
   "095605cbc0e2696e59e9": "2026-11-25T11:40:40+00:00",
@@ -10,6 +11,7 @@
   "1bdc9e2073351aa7f1ba": "2026-11-23T22:35:47+00:00",
   "1d2d078220d7489dc249": "2026-11-25T15:07:49+00:00",
   "3399bb5469a5bae55ff7": "2026-11-26T06:36:27+00:00",
+  "3aa9d22f50ed9f26ccbe": "2026-11-26T21:31:48+00:00",
   "3bb728fdb8209ddba91d": "2026-11-26T06:48:29+00:00",
   "452e1226246abc6505e7": "2026-11-23T22:31:50+00:00",
   "5231dd89a275d9af343f": "2026-11-25T18:49:22+00:00",
@@ -3741,7 +3743,79 @@
    }
   },
   "2026-11-27 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Elle accouchait quand son mari a vendu leur maison de 2,4 millions de dollars : ce qu'il ignorait l'a fait trembler",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38577,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Venderam minha casa de 2,4 milhões de dólares enquanto eu dava à luz, mas não sabiam o que realmente tinham vendido",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38578,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-27T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/932058355_1463358015925066_6269642301357619926_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=XNkES66wsNcQ7kNvwE6-mhH&_nc_oc=AdoYlJ7Fvd1O8j2IGEeWzhq8iM3P2z875ja7AKOAs4Dqf2wjCMIJi3WnGN2N2RT94WI&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=VNs4szFc5iPl5MX9Y6VOaw&_nc_tpa=Q5bMBQJ-j-U3qn4CnovECjnAQLGP1dHmqyB3MLjLpOqgUvMPSY81rI4LVjDlepBx3AOSe9NCdEQyB97L_g&oh=00_AQXLqmyRorZYMnbUOYzjhHFDoCTPo9KBbi9KbsxhYf6vPw&oe=6B0E8E5F",
@@ -3753,7 +3827,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261127-1200-fr.jpg"
    },
    "source_key": "post:100067526447776_1463358422591692",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -3958,7 +4032,7 @@
    "origin": "manual",
    "page_id": "100067526447776",
    "slot": "2026-11-27 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100078010841607_1139251742018510": {
    "fingerprint": "15b04431c421e1b5851a",
