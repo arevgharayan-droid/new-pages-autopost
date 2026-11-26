@@ -1,6 +1,7 @@
 {
  "enabled_since": "2026-11-24T02:25:41+04:00",
  "output_fps": {
+  "1bbcada051cf4ae49870": "2026-11-26T06:38:58+00:00",
   "208151f9e31501c9f3e4": "2026-11-26T06:32:56+00:00",
   "2a8690f73a9db12f1e67": "2026-11-25T07:42:10+00:00",
   "4922dd0339f1c3739c2d": "2026-11-25T15:12:24+00:00",
@@ -2666,7 +2667,74 @@
    }
   },
   "2026-11-26 18:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "I Came Home Three Hours Early and Found My Housekeeper Feeding Four Little Boys Who All Had My Face",
+     "warnings": [
+      "длина текста FB 718 слов (исходник 887, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 38536,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-26T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-2.xx.fbcdn.net/v/t39.30808-6/916649785_122145602709234210_356795070512386302_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=xqdad2_rNWsQ7kNvwHlXhw-&_nc_oc=AdqYonuxuunDBqCcYWqCG54wSy4AkdfZSvlT5i7RLMzgipkWB9iQUsKLSz8pvzwzPP4&_nc_zt=23&_nc_ht=scontent-iad3-2.xx&edm=ADqbNqUEAAAA&_nc_gid=0GLZy14Mig0qTVMFJlKIpw&_nc_tpa=Q5bMBQJrHjoaEjNZhr63_0jLKX4U5Lt6gRLMbRC4jOTOeX9gieSjWmw4qBQbhrAUtrHjlhj32gBXDy-N2w&oh=00_AQTxiFOT8syg0Ej5MQXVoPO7gIO1cwDo4r_ct83G_Rb3Xw&oe=6B0DAC5C",
@@ -2678,7 +2746,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261126-1800-en.jpg"
    },
    "source_key": "post:61587026316282_122145602739234210",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -2850,7 +2918,7 @@
    "origin": "manual",
    "page_id": "61587026316282",
    "slot": "2026-11-26 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61587026316282_122145686247234210": {
    "fingerprint": "ccecd22556dc157b4312",
