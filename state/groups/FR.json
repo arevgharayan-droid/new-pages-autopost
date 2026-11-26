@@ -13,6 +13,7 @@
   "1d2d078220d7489dc249": "2026-11-25T15:07:49+00:00",
   "3399bb5469a5bae55ff7": "2026-11-26T06:36:27+00:00",
   "3aa9d22f50ed9f26ccbe": "2026-11-26T21:31:48+00:00",
+  "3b8bd107706796309476": "2026-11-26T21:38:26+00:00",
   "3bb728fdb8209ddba91d": "2026-11-26T06:48:29+00:00",
   "43b04edaa7c58f116abe": "2026-11-26T21:35:21+00:00",
   "452e1226246abc6505e7": "2026-11-23T22:31:50+00:00",
@@ -31,6 +32,7 @@
   "b340413f55143c639785": "2026-11-26T06:39:33+00:00",
   "b7ff965b2dba7092c0f2": "2026-11-26T06:48:29+00:00",
   "c26df321d90ee0c0c220": "2026-11-25T12:46:08+00:00",
+  "c76b4497987b059772a2": "2026-11-26T21:38:26+00:00",
   "d52679baae0a82086faf": "2026-11-25T12:46:08+00:00",
   "d96983c55ba1a21a29fb": "2026-11-25T07:42:06+00:00",
   "e16837a05fc114141862": "2026-11-25T17:28:05+00:00",
@@ -4177,7 +4179,81 @@
    }
   },
   "2026-11-27 18:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Le jour de mon divorce, j'ai bloqué la carte que ma belle-mère utilisait depuis 4 ans : une minute plus tard, mon ex m'appelait en panique",
+     "warnings": [
+      "в тексте упоминается AI/перевод — проверьте"
+     ],
+     "wp_error": null,
+     "wp_id": 38592,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Me divorciei e bloqueei o cartão do meu salário. Minutos depois, minha ex-sogra tentou comprar um carro para o filho com as minhas economias",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38593,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-27T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/923707674_1461523559441845_3571337598932344902_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-ueMiQdiCcYQ7kNvwE7p4-X&_nc_oc=AdpnRXOLj95zVgAugnPEWMio4kEt41XMHDOQyfSOaII-MBNeD2EATq7T3FY0PzI9wDM&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=M622ng55gm4TFxQaqKgTqA&_nc_tpa=Q5bMBQIcwXEZYKy75nhW3kDy_6tQVuxQy-ZITnxP-lKy-v4wX0bobxKlL98c8A6tA2_GugG3w7t_NaBL_g&oh=00_AQWdLJW-tvaU5bzEt16iaTOrVDucHF3hVDLO98HC_IhICw&oe=6B0E8581",
@@ -4189,7 +4265,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261127-1800-fr.jpg"
    },
    "source_key": "post:100067526447776_1461776412749893",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -4344,7 +4420,7 @@
    "origin": "manual",
    "page_id": "100067526447776",
    "slot": "2026-11-27 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100067526447776_1462470026013865": {
    "fingerprint": "e9c03a6d0675c682864d",
