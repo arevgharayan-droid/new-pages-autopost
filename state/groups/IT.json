@@ -3479,7 +3479,23 @@
   "2026-11-28 00:00": {
    "langs": {},
    "slot_iso": "2026-11-28T00:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/924153682_122217332966841094_3218192420084512729_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=cYiJ_1YY3MIQ7kNvwG3niTx&_nc_oc=AdpPh0XpAiDoQBOCIpeQTE25LlbS30pEit5ZBBqK6EVkfJ8f-O_v1PpRupG5b6kUORQ&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=TSn-UzLcKD2C63Lj9A4EEQ&_nc_tpa=Q5bMBQJSP5OImLMi3wgPFBaOiR3opVLnLe8tIhQcp13uWr-w9K0HL9Ym8v4R4tDSjTr7WAsfiDm8-kvh2g&oh=00_AQUV6mC6RxbC85aBk5jpjpzW_BlNHsj5UGH-5MW22Dhpgw&oe=6B0E6CB8",
+    "link": "https://www.facebook.com/share/1MdRuaEHH4/",
+    "origin": "manual",
+    "page_id": "61575232821594",
+    "text": "I Was Playing Airplane With My Daughter When She Suddenly Screamed and Pointed at the Top of Our Closet — What I Found Up There Made My Blood Run Cold\nEllie, my three-year-old daughter, has a game she cherishes above the rest.\nAirplane.\nNight after night, I lift her up above my head before bed, racing around her room as she holds out her arms pretending to fly.\nShe’s crazy about it.\nMy wife always warns me about hurting my back, but honestly, that doesn’t stop me.\nEllie is growing up fast. Soon, holding her like that will no longer be possible.\nEach of these moments is special.\nOn Tuesday, Ellie was even more exuberant than usual.\nWe typically play airplane only in her room, but on this night, she wanted to soar through every room.\n\"Please, Daddy! One more flight!\"\nMy wife’s shift ran late, so it was just us.\nI lifted her as high as I could, marching through the hallway with loud airplane sounds.\nShe nearly stopped breathing from all the giggles.\nPast the bathroom, around the kitchen, into the living room we went.\nI asked her about our destination.\n\"To the moon!\" she yelled.\nBoth of us were laughing.\nNear the tall storage cabinet, Ellie suddenly quieted.\n\"Daddy! Down!\"\nI thought she was just being silly.\n\"Turbulence, Captain?\"\n\"No! Daddy, down!\"\nThat frightened tone made me set her down right away.\nShe clung to my leg, hiding her face in my jeans.\nI was at a loss.\nEllie had never shown fear before during airplane.\n\"Sweetheart, why are you scared? Did the ceiling fan scare you?\"\nShe shook her head.\n\"No, Daddy. I’m scared of what’s on top of that closet.\"\nLooking up, I didn’t notice anything different.\nThe cabinet, which my wife brought from her mom’s house, holds blankets, games, and decorations.\nIt dominates the room, almost as tall as the ceiling.\nGiven my height, I’ve never checked on top of it.\nWhen I asked Ellie what she saw, she simply pointed.\nI asked her to stay near the couch and went for a chair in the kitchen.\nI set up the chair, climbed up, and what I witnessed on top nearly caused me to fall off......(I KNOW YOU’RE CURIOUS ABOUT THE NEXT PART, SO PLEASE BE PATIENT AND KEEP READING IN THE COMMENTS BELOW. THANK YOU FOR YOUR UNDERSTANDING OF THE INCONVENIENCE. PLEASE LEAVE A “YES” COMMENT BELOW AND PRESS “LIKE” TO GET THE FULL STORY.)👇",
+    "wp_media_id": 38597,
+    "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261128-0000-it.jpg"
+   },
+   "source_key": "post:61575232821594_122217333050841094",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://1tari.ru/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://1tari.ru",
+    "wp_auth": "make_connector"
+   }
   }
  },
  "source_cutoff": "2026-11-23T22:25:41+00:00",
@@ -3648,6 +3664,14 @@
    "page_id": "61572040865912",
    "slot": "2026-11-24 21:00",
    "status": "used"
+  },
+  "post:61575232821594_122217333050841094": {
+   "fingerprint": "96fca7ca838a339896ab",
+   "link": "https://www.facebook.com/share/1MdRuaEHH4/",
+   "origin": "manual",
+   "page_id": "61575232821594",
+   "slot": "2026-11-28 00:00",
+   "status": "reserved"
   },
   "post:61575232821594_122217347906841094": {
    "fingerprint": "9b8d2098120cf0043b54",
