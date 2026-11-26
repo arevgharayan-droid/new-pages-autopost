@@ -2810,12 +2810,14 @@
       },
       "1493487907172332": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116611969520102_1012781021882194",
        "error": null,
        "last_attempt": "2026-11-26T10:35:44+04:00",
        "mode": "schedule",
        "photo_id": "122116611939520102",
        "post_id": "1493487907172332_122116611969520102",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Minha filha de 6 anos pediu um último desejo antes do transplante de medula, e eu caí de joelhos no corredor do hospital",
@@ -2854,7 +2856,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261126-1200-fr.jpg"
    },
    "source_key": "post:100067526447776_1462992699294931",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
