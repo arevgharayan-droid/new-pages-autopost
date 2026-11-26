@@ -38,6 +38,8 @@
   "d52679baae0a82086faf": "2026-11-25T12:46:08+00:00",
   "d96983c55ba1a21a29fb": "2026-11-25T07:42:06+00:00",
   "e16837a05fc114141862": "2026-11-25T17:28:05+00:00",
+  "e1f10eafa6abebe44b6e": "2026-11-26T21:44:53+00:00",
+  "e4857eb283396c15c6c2": "2026-11-26T21:44:53+00:00",
   "edbbf741c2eef7d053e7": "2026-11-23T22:29:12+00:00",
   "f893205d1bb3e51b05cd": "2026-11-23T22:29:12+00:00",
   "ff95cd0ff010bdb64c37": "2026-11-26T06:33:10+00:00"
@@ -4617,7 +4619,79 @@
    }
   },
   "2026-11-28 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "La veille de mon mariage, mon fiancé m'a quittée pour sa maîtresse enceinte et a exigé que je lui laisse ma réception à 30 000 $. Je n'ai pas protesté : j'ai fait déplacer les 30 tables en une nuit",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38605,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Na véspera do casamento, ele me trocou pela amante grávida e ainda queria usar a festa de 30 mil dólares que eu paguei. Eu não briguei, só mudei tudo de lugar",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38606,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-28T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/912600572_1460117719582429_3594493061748884969_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=105&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=GNKV7hkM_3oQ7kNvwH-QZ8B&_nc_oc=AdpZw6WJB_mihYs_J3cSQ3RKHDnRBr9unUGOHTpfVvTeJ0u6u5TPaJDdPTS91bCt9dM&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=1YGFH943gytgchXd9ngNEg&_nc_tpa=Q5bMBQI50ibMh-_Vzz_TrqiNg_PR-mjlm5va0MT7TQJctOU6-hesUmuigK6NP8f5b-irfPdJAIuuHuwdtA&oh=00_AQVW7Ob5TXKWx2WptpJIXff-WVHFMnJwbQv4d1fNbTL6xg&oe=6B0E7A97",
@@ -4629,7 +4703,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261128-0000-fr.jpg"
    },
    "source_key": "post:100067526447776_1460790392848495",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -4774,7 +4848,7 @@
    "origin": "manual",
    "page_id": "100067526447776",
    "slot": "2026-11-28 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100067526447776_1461397209454480": {
    "fingerprint": "f78a0aa3949214f6f48d",
