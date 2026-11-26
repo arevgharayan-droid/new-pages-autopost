@@ -4078,6 +4078,12 @@
      "gen_error": null,
      "generated": true,
      "pages": {
+      "1062496713623518": {
+       "attempts": 1,
+       "last_attempt": "2026-11-27T01:41:34+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      },
       "1103608806180416": {
        "attempts": 1,
        "error": null,

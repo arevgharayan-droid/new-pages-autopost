@@ -5,6 +5,7 @@
   "080b877e675679c403a3": "2026-11-25T15:07:49+00:00",
   "08c14585c20aa9e5619b": "2026-11-23T22:35:47+00:00",
   "095605cbc0e2696e59e9": "2026-11-25T11:40:40+00:00",
+  "0a14a42163fd571b276b": "2026-11-26T21:41:32+00:00",
   "0b45e94ffd52b857ad44": "2026-11-23T22:26:29+00:00",
   "1411cae2748e3f4db997": "2026-11-25T17:15:45+00:00",
   "142f82c264502c252399": "2026-11-25T07:42:06+00:00",
@@ -33,6 +34,7 @@
   "b7ff965b2dba7092c0f2": "2026-11-26T06:48:29+00:00",
   "c26df321d90ee0c0c220": "2026-11-25T12:46:08+00:00",
   "c76b4497987b059772a2": "2026-11-26T21:38:26+00:00",
+  "cce1a6e5a71af345489e": "2026-11-26T21:41:32+00:00",
   "d52679baae0a82086faf": "2026-11-25T12:46:08+00:00",
   "d96983c55ba1a21a29fb": "2026-11-25T07:42:06+00:00",
   "e16837a05fc114141862": "2026-11-25T17:28:05+00:00",
@@ -4397,7 +4399,81 @@
    }
   },
   "2026-11-27 21:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Il m'a offert dix millions de dollars pour disparaître avec nos deux enfants. J'ai signé sans lire, et quand il a découvert la vérité, il était déjà trop tard",
+     "warnings": [
+      "в тексте упоминается AI/перевод — проверьте"
+     ],
+     "wp_error": null,
+     "wp_id": 38600,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Assinei sem ler e levei dez milhões de dólares com meus dois filhos, mas o verdadeiro motivo daquele dinheiro mudou tudo",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38601,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-27T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/928225268_1461397126121155_7175486462021082092_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=FsLKMYP2K8YQ7kNvwGT92I_&_nc_oc=AdoPp24hj_Gjd9j_U74tt4VkR_ouk_wFHQhVldTGuPxEh1IN6FnnDDzmfw9OkU0rn7s&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=WD-fG6QMdPi-Zgg7Ccek-g&_nc_tpa=Q5bMBQIpeQZMde9apCJV_mZ3Lf9ZDu103F8RA4iiyGZYuy8K30w9kCZ8huYVzDeGfAqP15duxx2mqphyPA&oh=00_AQXz7r8dfqiQGXSoprm8JxTgbHsy85b1hilZ7pVrJ4Xd-g&oe=6B0E8864",
@@ -4409,7 +4485,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261127-2100-fr.jpg"
    },
    "source_key": "post:100067526447776_1461397209454480",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -4559,7 +4635,7 @@
    "origin": "manual",
    "page_id": "100067526447776",
    "slot": "2026-11-27 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100067526447776_1461776412749893": {
    "fingerprint": "323e3939a12c1320bef4",
