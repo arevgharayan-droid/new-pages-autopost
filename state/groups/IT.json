@@ -12,7 +12,8 @@
   "d8e9da0361d392fa44fa": "2026-11-23T22:26:30+00:00",
   "dc1e717f202c135c30d1": "2026-11-23T22:35:54+00:00",
   "e98c015a48b315dbeed6": "2026-11-26T06:36:00+00:00",
-  "f253f2699f39a653a6d4": "2026-11-25T18:53:00+00:00"
+  "f253f2699f39a653a6d4": "2026-11-25T18:53:00+00:00",
+  "f3ef25117706aee3dd6a": "2026-11-26T06:38:42+00:00"
  },
  "outputs": {
   "1035164619687310_122141001758737943": "2026-11-24T10:02:42+00:00",
@@ -2252,7 +2253,72 @@
    }
   },
   "2026-11-26 18:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mio marito ha portato i nostri figli in Italia per sposare l'amante: alle 2:13 mi ha scritto \"Sparisci prima che torniamo\", ma non sapeva a chi appartenesse davvero la nostra casa",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38534,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-26T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/915674920_122156813289170576_3489033591773667248_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=109&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=-_iU_4uLnPwQ7kNvwGXC345&_nc_oc=AdoBpCAZV75MMnAqSp0Fvzvv8X6zw75PjI17W4fKEw9NgT3vCUxYgIE8l30oGajLcx8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=93z6rlQofrSspjGAHysdgg&_nc_tpa=Q5bMBQLs4Hu1XgYm_58AuMPK7adVgKcqQLroLVx9VxdJh5Xp9Oh3QGFNp_nUK6XaM0Qa-a1ycsYqZWMWmg&oh=00_AQT83x7brrhmnJ0JYSAXiSdSxJdkU5ZYDlo1Zi0kCMAVOA&oe=6B0DB7A6",
@@ -2264,7 +2330,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261126-1800-it.jpg"
    },
    "source_key": "post:61585117295331_122156813373170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -2444,7 +2510,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-26 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61586097333334_122144996601203244": {
    "fingerprint": "3d2a260a217f52692622",
