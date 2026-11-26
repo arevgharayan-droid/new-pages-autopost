@@ -13,11 +13,13 @@
   "452e1226246abc6505e7": "2026-11-23T22:31:50+00:00",
   "5231dd89a275d9af343f": "2026-11-25T18:49:22+00:00",
   "57d223b1c83684235f0d": "2026-11-24T19:15:45+00:00",
+  "7c844712d46011082463": "2026-11-26T06:45:45+00:00",
   "8018da255f19a4840354": "2026-11-25T11:40:40+00:00",
   "86b8b8b11163f3f24649": "2026-11-26T06:36:27+00:00",
   "89edad4818bc5fbb8405": "2026-11-25T18:49:22+00:00",
   "943c0df6e5fc19ac0134": "2026-11-26T06:33:10+00:00",
   "9b1df66560b8b791db40": "2026-11-23T22:31:50+00:00",
+  "a4bfc56428eb21fd4bfd": "2026-11-26T06:45:45+00:00",
   "a811d961bc5a33bda5f4": "2026-11-26T06:39:33+00:00",
   "a886046a118d27ee18d9": "2026-11-23T22:26:29+00:00",
   "aeb719ad1a91a2304dcb": "2026-11-24T19:15:45+00:00",
@@ -3183,7 +3185,81 @@
    }
   },
   "2026-11-26 21:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Après 20 ans d'absence, j'ai croisé la femme que j'aimais pieds nus sur un chemin de montagne, un fagot sur le dos, avec une fillette qui portait la même tache de naissance que moi",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38548,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Voltei à minha cidade após 20 anos e vi a mulher que amei descalça, carregando lenha, com uma menina ao lado e uma marca de nascença igual à minha",
+     "warnings": [
+      "длина текста FB 678 слов (исходник 901, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 38549,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-26T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/929094436_1462207579373443_8860264867426743489_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ZLAzVrR0DLQQ7kNvwEcW4A6&_nc_oc=AdrJ9HKgcNl_EaGa9GNcQg1u3bv5sUrr132tgeNh9OVx1ng-HOyy2Buo_JnTRFHJQt4&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=J_t_68aNiPGbz_jZWR26jw&_nc_tpa=Q5bMBQK4aexlVHxrzNAQ2cCZKenrh1r0Cxyp3Kz_AJcWFKA4h2t1d-mIV1LtlLkbYvAXO41Xo9PnoAoihg&oh=00_AQTr7wwlnJCIuMUvef5nzMjsWqRC3HcNHuht-kim4EQYCA&oe=6B0D946D",
@@ -3195,7 +3271,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261126-2100-fr.jpg"
    },
    "source_key": "post:100067526447776_1462679025992965",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -3347,7 +3423,7 @@
    "origin": "manual",
    "page_id": "100067526447776",
    "slot": "2026-11-26 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100067526447776_1462763125984555": {
    "fingerprint": "26a1a97d998abab35323",
