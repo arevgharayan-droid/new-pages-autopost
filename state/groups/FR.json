@@ -18,8 +18,10 @@
   "89edad4818bc5fbb8405": "2026-11-25T18:49:22+00:00",
   "943c0df6e5fc19ac0134": "2026-11-26T06:33:10+00:00",
   "9b1df66560b8b791db40": "2026-11-23T22:31:50+00:00",
+  "a811d961bc5a33bda5f4": "2026-11-26T06:39:33+00:00",
   "a886046a118d27ee18d9": "2026-11-23T22:26:29+00:00",
   "aeb719ad1a91a2304dcb": "2026-11-24T19:15:45+00:00",
+  "b340413f55143c639785": "2026-11-26T06:39:33+00:00",
   "c26df321d90ee0c0c220": "2026-11-25T12:46:08+00:00",
   "d52679baae0a82086faf": "2026-11-25T12:46:08+00:00",
   "d96983c55ba1a21a29fb": "2026-11-25T07:42:06+00:00",
@@ -2965,7 +2967,79 @@
    }
   },
   "2026-11-26 18:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Rentrée de mer à minuit, j'ai trouvé mon fils de 9 ans en larmes devant la machine à laver, et le carnet qu'il serrait contre lui cachait un secret sur notre maison",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38537,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Voltei da Marinha à meia-noite e encontrei meu filho de 9 anos chorando na lavanderia, com medo do pai. No quarto, descobri o segredo que ele não podia contar",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38538,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-26T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/927279705_1462199769374224_6158121060434874085_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=rFKQyn_8UXMQ7kNvwEyTzEr&_nc_oc=Adr2g_ACHvgJYu1jH0cXsMZpV5JHlDGV2lQkp6_I0qG_Ua6lCnEhTw7jms-fSnzs9KU&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=2Lhf31cerrZbdcmayqW2Hg&_nc_tpa=Q5bMBQJGenDGlWXR1I_MNenOh6vF2xGZPL-OYDa8nqk_qo6fZdZZcSoPOBf0mxtqQXV3rr5SKDOI9YOoUw&oh=00_AQSralLx6PT0jJk2-P5AzrUarj4-oqKyK_I_BaSLxN0l2g&oe=6B0D92CF",
@@ -2977,7 +3051,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261126-1800-fr.jpg"
    },
    "source_key": "post:100067526447776_1462763125984555",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -3112,7 +3186,7 @@
    "origin": "manual",
    "page_id": "100067526447776",
    "slot": "2026-11-26 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100067526447776_1462839645976903": {
    "fingerprint": "f0de5defc38cddaebcd9",
