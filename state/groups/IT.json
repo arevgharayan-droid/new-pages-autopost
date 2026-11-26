@@ -6,6 +6,7 @@
   "5d20e2265371c71c0d77": "2026-11-23T22:29:12+00:00",
   "651cf77e21288ee162d4": "2026-11-25T07:42:15+00:00",
   "73076a33b78969917157": "2026-11-25T11:40:45+00:00",
+  "7688b53f65997aaf2d7d": "2026-11-26T06:33:04+00:00",
   "a1d3380c7d9769b0a98e": "2026-11-23T22:31:37+00:00",
   "cd26b8fa1ce322592f40": "2026-11-25T17:14:49+00:00",
   "d8e9da0361d392fa44fa": "2026-11-23T22:26:30+00:00",
@@ -1900,7 +1901,72 @@
    }
   },
   "2026-11-26 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi hanno lasciata sola in terapia intensiva per 28 giorni, ma quando mio fratello ha voluto la mia casa da 2,8 milioni, mio padre si è presentato con due avvocati",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38522,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-26T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/932135303_1727037955481563_3156365314094464553_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=qoiHC6xeXBgQ7kNvwGehorA&_nc_oc=AdoHwfMzIZnoOe3ChZ6t-ODBOLofHEZ8DNFyW83xPCMp9GV1fWYfC9jVTNpOqsN34F8&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=H8WkMqdfe_4G0V9UOsiSQA&_nc_tpa=Q5bMBQJtiP8ZUblG_Rsulrxxiqyl4tqQ_gUN9r5PtzeDtK8pKTm4VETuMTy46_e_hLwvE0FitdN8qe6-Dw&oh=00_AQQM8Uc1wT9Zk-Ne3pLlVKlb84qjoTDZYm4kQkpQNLDQMg&oe=6B0DADA6",
@@ -1912,7 +1978,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261126-1200-it.jpg"
    },
    "source_key": "post:100045261260562_1727146262137399",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -2030,7 +2096,7 @@
    "origin": "manual",
    "page_id": "100045261260562",
    "slot": "2026-11-26 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100064230806326_1566120312205647": {
    "fingerprint": "781ce3d3309b68956450",
