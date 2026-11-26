@@ -3686,12 +3686,14 @@
       },
       "1493487907172332": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116614675520102_1015605344918948",
        "error": null,
        "last_attempt": "2026-11-26T10:49:31+04:00",
        "mode": "schedule",
        "photo_id": "122116614645520102",
        "post_id": "1493487907172332_122116614675520102",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "No dia em que meu namorado se casou com minha meia-irmã, todos me davam como morta… cinco anos depois, voltei com um filho nos braços",
@@ -3730,7 +3732,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261127-0000-fr.jpg"
    },
    "source_key": "post:100067526447776_1462470026013865",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
