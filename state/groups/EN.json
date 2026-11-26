@@ -6,6 +6,7 @@
   "2a8690f73a9db12f1e67": "2026-11-25T07:42:10+00:00",
   "4922dd0339f1c3739c2d": "2026-11-25T15:12:24+00:00",
   "4f0e670b2d786178e52d": "2026-11-24T19:17:49+00:00",
+  "61b02a3de9fbb66eb826": "2026-11-26T21:37:37+00:00",
   "66bef46121babdedb4ac": "2026-11-26T06:36:00+00:00",
   "7a0505ae27605e9f4fe2": "2026-11-23T22:28:28+00:00",
   "7cf19d3d9437666b2e88": "2026-11-25T18:49:05+00:00",
@@ -3830,7 +3831,74 @@
    }
   },
   "2026-11-27 18:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Best Friend of 37 Years Asked for One Last Photo on Our Beach Trip, Then Whispered a Secret About My Late Husband",
+     "warnings": [
+      "длина текста FB 1522 слов (исходник 1800, цель ±10%)"
+     ],
+     "wp_error": null,
+     "wp_id": 38589,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-27T18:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/907914945_122144797449234210_737837043000451112_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=3j1aeAuoqDIQ7kNvwGE1xJY&_nc_oc=Adq5br8bES7flHpn1DuU0mMC-oMC7FzbytAb7GUkJWl2gcUWhoAJ1j4xZuyfIsj3wHQ&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=5tInYMHaJdgU9eohkVtiRw&_nc_tpa=Q5bMBQIpPQyULBqfcpRn2GeDXpUthzB9K9LSg66X1stTMK7xrIKVZeIJysahzC854knTffykY3V6GHQ8uw&oh=00_AQWD_xJUhRZWlpKhNCgqT6jc8V21dDFoR05mCbclOI_DNg&oe=6B0E657B",
@@ -3842,7 +3910,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261127-1800-en.jpg"
    },
    "source_key": "post:61587026316282_122144797473234210",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -4034,7 +4102,7 @@
    "origin": "manual",
    "page_id": "61587026316282",
    "slot": "2026-11-27 18:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61587026316282_122145181089234210": {
    "fingerprint": "cf0412ae941dce6de6d0",
