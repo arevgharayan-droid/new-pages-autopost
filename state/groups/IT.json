@@ -2108,7 +2108,10 @@
      "generated": true,
      "pages": {},
      "title": "Dopo sette anni, una casa e un figlio, lui non mi aveva ancora chiesto di sposarlo. Poi sua sorella mi ha trascinata in cucina",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38529,
+     "wp_status": "future"
     },
     "NL": {
      "pages": {},
@@ -2139,6 +2142,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-26T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/917317008_122156810055170576_4967012880152725585_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=T-1kicLo6YMQ7kNvwHcHeds&_nc_oc=AdomJgVcCjHTcavCsiApvL5Qp2nebLshMY9k3US0H4rlBoUwbHTSzcr3dNd583Vd3Ho&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=iSWnNT58zw4IU31BLen0rA&_nc_tpa=Q5bMBQJZM65XV4f1tbClkHGMTczKLou2vjL8vEQn3JDJuOLD7Q2dvGg8_1-I5xSSnyvvmMW5TPj9Bfu77g&oh=00_AQQu3BGEmGOXMJPAuMKV-tE5KjDn1yesJti3I5tYFiku2A&oe=6B0DB26A",
@@ -2150,7 +2154,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261126-1500-it.jpg"
    },
    "source_key": "post:61585117295331_122156810109170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -2327,7 +2331,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-26 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61586097333334_122144996601203244": {
    "fingerprint": "3d2a260a217f52692622",
