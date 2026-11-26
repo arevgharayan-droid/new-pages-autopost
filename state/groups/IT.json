@@ -3395,7 +3395,23 @@
   "2026-11-27 21:00": {
    "langs": {},
    "slot_iso": "2026-11-27T21:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/915717867_122217347846841094_8410776482717044158_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=106&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=78Lr-FL58ZAQ7kNvwEfLb34&_nc_oc=AdpaxX0fuyjwEbMPfaiEGRTj2xuAkTMiLHL_3qAqWfQF7CvqnYyupEjwWsOe1ZavC_A&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=AKgPJ38grJ3fHOX2211yhA&_nc_tpa=Q5bMBQJoItzWUFc_dz3CHg749S--zLp-hAc2_5Hy-HwNg1Sx8YOa5PydTWnPn6rBoMy2sb0W4Y8p85mpdw&oh=00_AQUIrjESmpDFffoTIA0MabyfLPgHlrQq4xN7O9GdgTKGsw&oe=6B0E7949",
+    "link": "https://www.facebook.com/share/1CP8U2Rj66/",
+    "origin": "manual",
+    "page_id": "61575232821594",
+    "text": "For 34 mornings, I fed peanuts to a crow on my back porch. It began leaving me gifts. A bottle cap. A button. An earring. My HOA president fined me $500 for \"feeding vermin.\" On the afternoon my 6-year-old disappeared, the crow landed on my porch rail and dropped something at my feet. My daughter's pink hair clip.\n\nMy name is Fiona Becker. I'm 36. I'm a graphic designer. I work from home in Bend, Oregon.\n\nMy daughter, Birdie, is six. Yes, her name is Birdie. She's obsessed with every animal she's ever seen.\n\nIn September, a crow began showing up on our back porch railing every morning. Big. Glossy black feathers. One white feather on his left wing.\n\nBirdie named him Edgar.\n\nI started leaving a handful of unsalted peanuts on the railing. He would wait until I went inside, then grab them and fly away.\n\nAround the second week, he began leaving things behind.\n\nA shiny blue bottle cap. A brass button. A tiny silver earring. A piece of green sea glass.\n\nI looked it up. Crows do this. They recognize faces. They remember kindness. Some of them leave gifts for people who feed them.\n\nBirdie kept every gift in a jar on her windowsill.\n\nOur HOA president, Mr. Dennison, didn't find it charming.\n\nHe lives three houses down. He measures people's grass.\n\n\"Crows are vermin,\" he told me over the fence. \"They carry disease. They make noise. Stop feeding it, or I'll fine you.\"\n\nHe fined me. Five hundred dollars. A letter on official HOA paper.\n\nThen he stopped me at the mailbox.\n\n\"If that bird keeps coming around,\" he said, \"I've got a pellet gun in my garage. Problem solved.\"\n\nI didn't stop feeding Edgar. I just started doing it earlier.\n\nOn a Saturday afternoon in November, Birdie was playing in our backyard. The yard backs up to a wide green space with walking trails and an irrigation canal, fenced off from the houses.\n\nI went inside to answer a work call. Six minutes.\n\nWhen I came back outside, Birdie was gone.\n\nThe back gate was open.\n\nI screamed her name.\n\nWithin an hour, half the neighborhood was outside searching. Then sheriff's deputies. Then a search-and-rescue team with dogs. Then a helicopter.\n\nStorm clouds were moving in over the mountains. It started raining.\n\nMr. Dennison stood in the street with his arms crossed, watching the searchers walk across his lawn.\n\n\"Kids wander,\" he said loudly to a deputy. \"Maybe if she spent less time feeding birds and more time watching her daughter.\"\n\nI didn't yell back at him.\n\nI didn't have room inside me for anything except Birdie.\n\nAt 6:40 p.m., it was almost dark. The rain was getting heavier. A deputy had just told me they would have to pause the ground search until morning if the storm became worse.\n\nI went back to my porch to get a dry coat.\n\nThat's when I heard wings.\n\nEdgar landed on the porch railing three feet away from me. He was soaking wet. He looked at me with one shiny black eye.\n\nHe dropped something onto the wood at my feet.\n\nA small pink plastic hair clip. Shaped like a butterfly.\n\nBirdie's.\n\nShe had been wearing it that afternoon.\n\nEdgar cawed. Loud. Once. Twice.\n\nThen he flew off the railing, over the back fence, toward the green space. He landed on a fence post about fifty yards away.\n\nHe looked back at me.\n\nAnd he cawed again.\n\nI grabbed the deputy's arm.\n\n\"He knows where she is,\" I said.\n\nThe deputy looked at me like I was losing my mind.\n\nEdgar flew to the next post. Toward the irrigation canal.\n\nWaiting.\n\n(I know you’re curious about the next part, so please be patient and read on in the comments below. Thank you for your understanding of the inconvenience. Please leave a ‘YES’ comment below and give us a “Like” to get the full story.) 👇",
+    "wp_media_id": 38595,
+    "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261127-2100-it.jpg"
+   },
+   "source_key": "post:61575232821594_122217347906841094",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://1tari.ru/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://1tari.ru",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-28 00:00": {
    "langs": {},
@@ -3569,6 +3585,14 @@
    "page_id": "61572040865912",
    "slot": "2026-11-24 21:00",
    "status": "used"
+  },
+  "post:61575232821594_122217347906841094": {
+   "fingerprint": "9b8d2098120cf0043b54",
+   "link": "https://www.facebook.com/share/1CP8U2Rj66/",
+   "origin": "manual",
+   "page_id": "61575232821594",
+   "slot": "2026-11-27 21:00",
+   "status": "reserved"
   },
   "post:61575232821594_122217379838841094": {
    "fingerprint": "fd6b48be30441136df06",
