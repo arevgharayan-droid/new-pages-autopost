@@ -2457,7 +2457,23 @@
   "2026-11-26 15:00": {
    "langs": {},
    "slot_iso": "2026-11-26T15:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-iad6-1.xx.fbcdn.net/v/t39.30808-6/921481806_122145686223234210_4736464786984042859_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=104&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=tGbRyxaWhaEQ7kNvwGlUTuE&_nc_oc=AdpXIsU9YR7wKJ6jH1EaFtEb_AncuVqxGn8mRP-aUsnL1o9aREmgv0CQOF_hW3sbhU8&_nc_zt=23&_nc_ht=scontent-iad6-1.xx&edm=ADqbNqUEAAAA&_nc_gid=09Xcl4d6uEdGegeN_bMsBw&_nc_tpa=Q5bMBQKGB3bzV7XsY179cbO_b6KwZmplVCGnu4Qe279zFF2DtfY59hxP500PPXtX_h7xtgeJ2VZH3YggMQ&oh=00_AQTnxwLIlqEko1ce0HB-T0Z4IrhJuTAt88vTJvMfaEhePQ&oe=6B0D8A50",
+    "link": "https://www.facebook.com/share/1E35Kt6g1Q/",
+    "origin": "manual",
+    "page_id": "61587026316282",
+    "text": "Mon fils n’avait pas prononcé un seul mot depuis huit ans, depuis les funérailles de sa sœur jumelle. Mais les premiers mots qu’il prononça, le jour anniversaire de sa mort, laissèrent tout le monde complètement pétrifié.\n\nJeremy et Janice étaient nés à onze minutes d’intervalle. Il était arrivé le premier. Elle était née juste après, la petite main déjà tendue vers lui, racontaient les infirmières, comme si elle le cherchait avant même d’avoir ouvert les yeux.\n\nPendant cinq ans, ils avaient été inséparables, comme seuls des jumeaux peuvent l’être : ils terminaient les phrases l’un de l’autre, dormaient mieux lorsqu’ils partageaient la même chambre et avaient des conversations entières avec leurs regards, que personne d’autre ne pouvait vraiment comprendre.\n\nPuis, un jour, mon mari les emmena au lac.\n\nSeul Jeremy revint à la maison.\n\nMon mari m’expliqua que Janice avait glissé dans l’eau et que le courant l’avait emportée. Il avait nagé de toutes ses forces pour la rattraper, mais n’avait pas réussi à la sauver. Son corps ne fut jamais retrouvé.\n\nLa police conclut à un tragique accident.\n\nJeremy cessa de parler le jour des funérailles de Janice. Ce ne fut pas progressif. Il ne perdit pas peu à peu l’habitude de parler. Il s’arrêta simplement.\n\nIl resta près de la tombe de sa sœur, vêtu de son petit costume sombre, en me tenant la main. Et à partir de ce jour-là, plus rien. Pas un seul mot.\n\nLes médecins avaient mis un nom sur son état : un mutisme sélectif provoqué par un traumatisme émotionnel intense.\n\nJ’ai tout essayé. La thérapie, le dessin, la musique, même un chien que nous avons appelé comme le personnage de dessin animé préféré de Janice. Je lui lisais une histoire chaque soir, même lorsqu’il restait allongé, les yeux fixés au plafond.\n\nJeremy communiquait uniquement par des hochements de tête et des gestes.\n\nHuit années passèrent.\n\nEn mars, Jeremy eut treize ans. Il était devenu grand, silencieux, mais sa présence suffisait à remplir une pièce entière. Ses professeurs disaient qu’il était l’un des élèves les plus attentifs qu’ils aient jamais eus.\n\nMais il ne parlait toujours pas.\n\nChaque année, à la date anniversaire de la mort de Janice, j’organisais une petite réunion de famille à la maison. Sa photo était posée sur la cheminée, ses fleurs préférées décoraient la table et tous ceux qui l’avaient aimée se retrouvaient pour lui rendre hommage.\n\nCette année, mon mari était également présent. Il venait chaque année. Il s’asseyait toujours à l’autre bout de la table, évitait de croiser le regard de Jeremy et partait avant le dessert.\n\nJeremy ne le quitta pas des yeux dès son arrivée.\n\nNous étions à mi-repas. Personne ne parlait vraiment. C’était ce silence particulier des gens qui font attention à ne pas raviver la douleur des autres.\n\nPuis Jeremy posa lentement sa fourchette.\n\nIl regarda les personnes assises autour de la table. D’abord moi. Ensuite ses grands-parents.\n\nPuis son père.\n\nIl le désigna du doigt et ouvrit la bouche.\n\nEt les premiers mots que mon fils prononça après huit années de silence figèrent absolument tout le monde sur place.\n\nPARTIE 2 ET FIN COMPLÈTE : Écrivez « OUI » et appuyez sur « J’AIME » si vous souhaitez que nous publiions la suite de cette histoire. Merci du fond du cœur ❤️👇👇",
+    "wp_media_id": 38526,
+    "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261126-1500-en.jpg"
+   },
+   "source_key": "post:61587026316282_122145686247234210",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://1tari.ru/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://1tari.ru",
+    "wp_auth": "make_connector"
+   }
   },
   "2026-11-26 18:00": {
    "langs": {},
@@ -2621,6 +2637,14 @@
    "page_id": "61575232821594",
    "slot": "2026-11-24 18:00",
    "status": "used"
+  },
+  "post:61587026316282_122145686247234210": {
+   "fingerprint": "ccecd22556dc157b4312",
+   "link": "https://www.facebook.com/share/1E35Kt6g1Q/",
+   "origin": "manual",
+   "page_id": "61587026316282",
+   "slot": "2026-11-26 15:00",
+   "status": "reserved"
   },
   "post:61587026316282_122145803109234210": {
    "fingerprint": "9ae6f0852c7ef125a6f6",
