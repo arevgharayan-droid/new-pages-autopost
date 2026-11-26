@@ -2911,12 +2911,14 @@
       },
       "1332465683280302": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127215697419554_2232011654381194",
        "error": null,
        "last_attempt": "2026-11-26T10:39:07+04:00",
        "mode": "schedule",
        "photo_id": "122127215667419554",
        "post_id": "1332465683280302_122127215697419554",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "I Came Home Three Hours Early and Found My Housekeeper Feeding Four Little Boys Who All Had My Face",
@@ -2981,7 +2983,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261126-1800-en.jpg"
    },
    "source_key": "post:61587026316282_122145602739234210",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
