@@ -10,6 +10,7 @@
   "1bdc9e2073351aa7f1ba": "2026-11-23T22:35:47+00:00",
   "1d2d078220d7489dc249": "2026-11-25T15:07:49+00:00",
   "3399bb5469a5bae55ff7": "2026-11-26T06:36:27+00:00",
+  "3bb728fdb8209ddba91d": "2026-11-26T06:48:29+00:00",
   "452e1226246abc6505e7": "2026-11-23T22:31:50+00:00",
   "5231dd89a275d9af343f": "2026-11-25T18:49:22+00:00",
   "57d223b1c83684235f0d": "2026-11-24T19:15:45+00:00",
@@ -24,6 +25,7 @@
   "a886046a118d27ee18d9": "2026-11-23T22:26:29+00:00",
   "aeb719ad1a91a2304dcb": "2026-11-24T19:15:45+00:00",
   "b340413f55143c639785": "2026-11-26T06:39:33+00:00",
+  "b7ff965b2dba7092c0f2": "2026-11-26T06:48:29+00:00",
   "c26df321d90ee0c0c220": "2026-11-25T12:46:08+00:00",
   "d52679baae0a82086faf": "2026-11-25T12:46:08+00:00",
   "d96983c55ba1a21a29fb": "2026-11-25T07:42:06+00:00",
@@ -3403,17 +3405,91 @@
    }
   },
   "2026-11-27 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Le jour où mon petit ami a épousé ma demi-sœur, tout le monde m'a crue morte… Cinq ans plus tard, je suis revenue avec un fils",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38551,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "No dia em que meu namorado se casou com minha meia-irmã, todos me davam como morta… cinco anos depois, voltei com um filho nos braços",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38552,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-27T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.30808-6/932134653_1462197546041113_7953383209698983152_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=jhpGDEbcDJEQ7kNvwE7vK3G&_nc_oc=AdrwOyoMqRf1Hmvg56dvIX55aDWbhdLCmI_fFAIU5UtNI3UmPD-j8anAPSbOX1wDVlY&_nc_zt=23&_nc_ht=scontent-iad3-1.xx&edm=ADqbNqUEAAAA&_nc_gid=AZCCHKfBDfRiNvaoSVZqQw&_nc_tpa=Q5bMBQKMbR-56Bnwe0uLwpZbD5ppk2WPiAbjbN1qqTLd_KOM4EFQMWvza4RVxEYYPhw2dFEKOEQxwlOTbQ&oh=00_AQRJtm80cTg9Y_NqQxK1UWPrIbxIg-Oic5W--VsGd8oYDA&oe=6B0D8C3A",
     "link": "https://www.facebook.com/share/1G9JViRzjN/",
     "origin": "manual",
     "page_id": "100067526447776",
-    "text": "THE DAY MY BOYFRIEND MARRIED MY STEPSISTER, EVERYONE THOUGHT I WAS DEAD… FIVE YEARS LATER, I RETURNED WITH A SON\n\nThe day my boyfriend of eight years married my stepsister, my entire family attended the wedding.\n\nNot a single person remembered that it was also my birthday.\n\nThat night, I came dangerously close to taking my own life. I was alone in the bathroom, convinced that nobody cared about me anymore, when my phone suddenly began ringing.\n\nIt was a scheduled call my mother had arranged before she died.\n\n\"Happy birthday, sweetheart. It's Mom. I hope you're smiling when you hear this.\"\n\nI burst into tears.\n\nMy mother had been dead for six years, yet somehow, she had managed to save me one more time.\n\nThat very night, I packed a suitcase, left the country, and disappeared.\n\nFor five years, I didn't call anyone. I changed my name, my phone number, and my entire life.\n\nEveryone believed I was dead.\n\nEspecially Liam Gallagher, the man who had promised to marry me but ended up walking my stepsister, Madison, down the aisle instead.\n\nWhat none of them knew was that, far away from them, I had found a reason to live again.\n\nAnd I now had a three-year-old son.\n\nI returned five years later for just one reason: to visit my mother's grave.\n\nAt the cemetery flower shop, I ran into Liam.\n\nHe was so thin that I barely recognized him. His black coat hung loosely on his frame, and deep dark circles surrounded his eyes.\n\nHe was holding a bouquet of red roses.\n\n\"Hannah...\" he whispered.\n\nThat had been my name before I disappeared.\n\n\"Hello, Liam. It's been a long time.\"\n\nI smiled politely.\n\nHe stood frozen, staring at me. A thorn pierced his finger, drawing blood, but he didn't even seem to notice.\n\nThe florist, unaware of our history, interrupted us.\n\n\"This gentleman comes here every week. His wife is buried here. He always brings her red roses. Her name was Hannah.\"\n\nA chill ran down my spine.\n\n\"His wife?\"\n\nThe woman nodded.\n\n\"Hannah Gallagher. She passed away five years ago. Such a terrible tragedy.\"\n\nI looked at Liam.\n\nFive years earlier, he had married Madison, not me.\n\nSo how could I be buried as his wife?\n\nLiam didn't correct the florist.\n\nHis eyes were filled with tears.\n\nI walked out of the shop without saying goodbye.\n\nBut he followed me.\n\n\"Aren't you going to explain anything to me?\" he asked, his voice breaking. \"Do you have any idea what I've been through over these past five years?\"\n\nI stopped.\n\n\"What exactly do you want me to explain?\"\n\n\"We searched everywhere for you! I thought you were dead!\"\n\nI stared at him silently.\n\n\"That's interesting. On the day I disappeared, you were far too busy marrying my sister.\"\n\nAll the color drained from his face.\n\n\"Hannah, that wedding wasn't what you think it was.\"\n\nI let out a bitter laugh.\n\n\"I saw the photographs, Liam. Madison was wearing the dress we had chosen together.\"\n\nI didn't wait for his reply.\n\nI placed the white roses on my mother's grave and walked away.\n\nThe next morning, a black Maybach was waiting outside my hotel.\n\nThe driver opened the door.\n\n\"Miss, your father would like you to attend his birthday celebration.\"\n\n\"Tell him I don't have a father.\"\n\nI was about to head back inside when I heard a familiar voice.\n\n\"Hannah.\"\n\nIt was Arthur, my father.\n\nHe had grown older, but he still wore the same stern expression that had frightened me so much as a child.\n\n\"You've lost weight,\" he murmured.\n\n\"And you still don't know what to say to me.\"\n\nHe lowered his eyes.\n\n\"Five years, sweetheart. Not even one phone call?\"\n\n\"What for? The last time we spoke, you told me I was just trying to get attention. I suppose disappearing was the only way to stop bothering you.\"\n\nArthur opened his mouth, but someone interrupted him.\n\n\"Sister!\"\n\nMadison came running toward me.\n\nShe was still beautiful, delicate, and seemingly helpless.\n\nThe same woman everyone had chosen to sacrifice my happiness for.\n\n\"Hannah, we've missed you so much.\"\n\nI stepped back.\n\n\"Don't ever call me your sister again.\"\n\nHer eyes filled with tears.\n\nLiam immediately appeared beside her and stepped in front of her.\n\nJust as he had five years earlier.\n\n\"Hannah, Madison is still dealing with health problems. Don't upset her.\"\n\nThat made me smile.\n\n\"Relax. I'm no longer interested in competing for your protection.\"\n\nMadison grabbed my wrist.\n\n\"Wait! There's something you need to know.\"\n\nHer voice was trembling.\n\n\"Liam has never touched me. Even though we got married, we've never truly been a couple. He talks about you every single night. Every week, he brings flowers to your grave. He never stopped loving you!\"\n\nArthur tried to stop her.\n\n\"Madison, that's enough!\"\n\nBut she kept crying.\n\n\"Your bedroom is still exactly as you left it. Liam still has your ring. Please, come back to him! I can step aside!\"\n\nI looked at the man I had loved for eight years.\n\nHe seemed to be waiting for my answer.\n\nFive years ago, I would have given anything to hear those words.\n\nNow, I felt nothing.\n\n\"Liam, you can love whoever you want. It has nothing to do with me anymore.\"\n\n\"Hannah...\"\n\n\"Because on the day I needed you most, you chose someone else. And that Hannah died forever.\"\n\nI turned away.\n\nThen a little child's voice echoed through the hotel lobby.\n\n\"MOMMY!\"\n\nA little boy wearing a yellow sweater came running toward me and wrapped his arms around my legs.\n\nI immediately picked him up.\n\n\"Noah! How did you get here?\"\n\nMy son wrapped his tiny arms around my neck.\n\n\"Daddy says he misses you so much! We came to find you!\"\n\nThe entire room fell silent.\n\nLiam looked at the child.\n\nThen he looked into his eyes.\n\nHis lips began to tremble.\n\n\"Hannah...\" he whispered. \"How old is he?\"\n\n\"Three.\"\n\nLiam stumbled backward as if someone had just struck him.\n\nThen Noah pointed toward the hotel entrance.\n\n\"Look, Mommy! Daddy's coming!\"\n\nI turned around.\n\nAnd when Liam saw the man walking toward us, his expression changed completely.\n\nBecause he knew him.\n\nAnd because that man held the secret that had destroyed our lives five years earlier.\n\nDo you want to know what happens next? Type 'ENJOY' and you'll see the the unexpected ending in the comments 👇👇"
+    "text": "THE DAY MY BOYFRIEND MARRIED MY STEPSISTER, EVERYONE THOUGHT I WAS DEAD… FIVE YEARS LATER, I RETURNED WITH A SON\n\nThe day my boyfriend of eight years married my stepsister, my entire family attended the wedding.\n\nNot a single person remembered that it was also my birthday.\n\nThat night, I came dangerously close to taking my own life. I was alone in the bathroom, convinced that nobody cared about me anymore, when my phone suddenly began ringing.\n\nIt was a scheduled call my mother had arranged before she died.\n\n\"Happy birthday, sweetheart. It's Mom. I hope you're smiling when you hear this.\"\n\nI burst into tears.\n\nMy mother had been dead for six years, yet somehow, she had managed to save me one more time.\n\nThat very night, I packed a suitcase, left the country, and disappeared.\n\nFor five years, I didn't call anyone. I changed my name, my phone number, and my entire life.\n\nEveryone believed I was dead.\n\nEspecially Liam Gallagher, the man who had promised to marry me but ended up walking my stepsister, Madison, down the aisle instead.\n\nWhat none of them knew was that, far away from them, I had found a reason to live again.\n\nAnd I now had a three-year-old son.\n\nI returned five years later for just one reason: to visit my mother's grave.\n\nAt the cemetery flower shop, I ran into Liam.\n\nHe was so thin that I barely recognized him. His black coat hung loosely on his frame, and deep dark circles surrounded his eyes.\n\nHe was holding a bouquet of red roses.\n\n\"Hannah...\" he whispered.\n\nThat had been my name before I disappeared.\n\n\"Hello, Liam. It's been a long time.\"\n\nI smiled politely.\n\nHe stood frozen, staring at me. A thorn pierced his finger, drawing blood, but he didn't even seem to notice.\n\nThe florist, unaware of our history, interrupted us.\n\n\"This gentleman comes here every week. His wife is buried here. He always brings her red roses. Her name was Hannah.\"\n\nA chill ran down my spine.\n\n\"His wife?\"\n\nThe woman nodded.\n\n\"Hannah Gallagher. She passed away five years ago. Such a terrible tragedy.\"\n\nI looked at Liam.\n\nFive years earlier, he had married Madison, not me.\n\nSo how could I be buried as his wife?\n\nLiam didn't correct the florist.\n\nHis eyes were filled with tears.\n\nI walked out of the shop without saying goodbye.\n\nBut he followed me.\n\n\"Aren't you going to explain anything to me?\" he asked, his voice breaking. \"Do you have any idea what I've been through over these past five years?\"\n\nI stopped.\n\n\"What exactly do you want me to explain?\"\n\n\"We searched everywhere for you! I thought you were dead!\"\n\nI stared at him silently.\n\n\"That's interesting. On the day I disappeared, you were far too busy marrying my sister.\"\n\nAll the color drained from his face.\n\n\"Hannah, that wedding wasn't what you think it was.\"\n\nI let out a bitter laugh.\n\n\"I saw the photographs, Liam. Madison was wearing the dress we had chosen together.\"\n\nI didn't wait for his reply.\n\nI placed the white roses on my mother's grave and walked away.\n\nThe next morning, a black Maybach was waiting outside my hotel.\n\nThe driver opened the door.\n\n\"Miss, your father would like you to attend his birthday celebration.\"\n\n\"Tell him I don't have a father.\"\n\nI was about to head back inside when I heard a familiar voice.\n\n\"Hannah.\"\n\nIt was Arthur, my father.\n\nHe had grown older, but he still wore the same stern expression that had frightened me so much as a child.\n\n\"You've lost weight,\" he murmured.\n\n\"And you still don't know what to say to me.\"\n\nHe lowered his eyes.\n\n\"Five years, sweetheart. Not even one phone call?\"\n\n\"What for? The last time we spoke, you told me I was just trying to get attention. I suppose disappearing was the only way to stop bothering you.\"\n\nArthur opened his mouth, but someone interrupted him.\n\n\"Sister!\"\n\nMadison came running toward me.\n\nShe was still beautiful, delicate, and seemingly helpless.\n\nThe same woman everyone had chosen to sacrifice my happiness for.\n\n\"Hannah, we've missed you so much.\"\n\nI stepped back.\n\n\"Don't ever call me your sister again.\"\n\nHer eyes filled with tears.\n\nLiam immediately appeared beside her and stepped in front of her.\n\nJust as he had five years earlier.\n\n\"Hannah, Madison is still dealing with health problems. Don't upset her.\"\n\nThat made me smile.\n\n\"Relax. I'm no longer interested in competing for your protection.\"\n\nMadison grabbed my wrist.\n\n\"Wait! There's something you need to know.\"\n\nHer voice was trembling.\n\n\"Liam has never touched me. Even though we got married, we've never truly been a couple. He talks about you every single night. Every week, he brings flowers to your grave. He never stopped loving you!\"\n\nArthur tried to stop her.\n\n\"Madison, that's enough!\"\n\nBut she kept crying.\n\n\"Your bedroom is still exactly as you left it. Liam still has your ring. Please, come back to him! I can step aside!\"\n\nI looked at the man I had loved for eight years.\n\nHe seemed to be waiting for my answer.\n\nFive years ago, I would have given anything to hear those words.\n\nNow, I felt nothing.\n\n\"Liam, you can love whoever you want. It has nothing to do with me anymore.\"\n\n\"Hannah...\"\n\n\"Because on the day I needed you most, you chose someone else. And that Hannah died forever.\"\n\nI turned away.\n\nThen a little child's voice echoed through the hotel lobby.\n\n\"MOMMY!\"\n\nA little boy wearing a yellow sweater came running toward me and wrapped his arms around my legs.\n\nI immediately picked him up.\n\n\"Noah! How did you get here?\"\n\nMy son wrapped his tiny arms around my neck.\n\n\"Daddy says he misses you so much! We came to find you!\"\n\nThe entire room fell silent.\n\nLiam looked at the child.\n\nThen he looked into his eyes.\n\nHis lips began to tremble.\n\n\"Hannah...\" he whispered. \"How old is he?\"\n\n\"Three.\"\n\nLiam stumbled backward as if someone had just struck him.\n\nThen Noah pointed toward the hotel entrance.\n\n\"Look, Mommy! Daddy's coming!\"\n\nI turned around.\n\nAnd when Liam saw the man walking toward us, his expression changed completely.\n\nBecause he knew him.\n\nAnd because that man held the secret that had destroyed our lives five years earlier.\n\nDo you want to know what happens next? Type 'ENJOY' and you'll see the the unexpected ending in the comments 👇👇",
+    "wp_media_id": 38550,
+    "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261127-0000-fr.jpg"
    },
    "source_key": "post:100067526447776_1462470026013865",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -3538,7 +3614,7 @@
    "origin": "manual",
    "page_id": "100067526447776",
    "slot": "2026-11-27 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100067526447776_1462679025992965": {
    "fingerprint": "9789d0e1dcc44974dd55",
