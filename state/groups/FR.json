@@ -38,6 +38,7 @@
   "c76b4497987b059772a2": "2026-11-26T21:38:26+00:00",
   "cce1a6e5a71af345489e": "2026-11-26T21:41:32+00:00",
   "d52679baae0a82086faf": "2026-11-25T12:46:08+00:00",
+  "d815da09b0f433940a4b": "2026-11-27T23:34:19+00:00",
   "d96983c55ba1a21a29fb": "2026-11-25T07:42:06+00:00",
   "dd697413e14e28705c93": "2026-11-27T23:22:30+00:00",
   "e16837a05fc114141862": "2026-11-25T17:28:05+00:00",
@@ -5766,7 +5767,74 @@
    }
   },
   "2026-11-29 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Six ans après mon divorce, j'ai croisé mon ex et sa maîtresse en classe affaires : « Tu t'es perdue ? L'économique, c'est au fond ! » Puis ma fille a couru dans mes bras, et son visage a changé",
+     "warnings": [
+      "длина статьи 996 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 38669,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-29T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/927904190_122217692636841094_6087034024890385155_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=3FR2JRRmN_gQ7kNvwE9uhQv&_nc_oc=AdrSgmI8RRJk8PIZSobbfyMOUspiXUTk2dTlGwU5aylQZRLr0wV4A9wDTFBszFIGmEo&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=40jRoiDgJHooVxBz7E92pw&_nc_tpa=Q5bMBQIx7wq4Z0IscEV3sNR5spQheddtb2g8mOtLO_jqosz5-UTOWnulQKGtyOGoMdnM_LPNq_IIBPP2Cw&oh=00_AQU_US0gyA1yFaayP1oPxAB5ctMpM8MuYLMJGmB4gWdsdQ&oe=6B0FCE3A",
@@ -5778,7 +5846,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261129-0000-fr.jpg"
    },
    "source_key": "post:61575232821594_122217692660841094",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -6055,7 +6123,7 @@
    "origin": "manual",
    "page_id": "61575232821594",
    "slot": "2026-11-29 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61575232821594_122217835394841094": {
    "fingerprint": "88ff1e5e5d9640c4b6f1",
