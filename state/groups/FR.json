@@ -4242,12 +4242,14 @@
       },
       "1493487907172332": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116744953520102_3822372634581374",
        "error": null,
        "last_attempt": "2026-11-27T01:37:39+04:00",
        "mode": "schedule",
        "photo_id": "122116744923520102",
        "post_id": "1493487907172332_122116744953520102",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Puxaram a cadeira enquanto eu segurava minha filha no colo. Todos riram da minha queda, sem saber que eu já estava morta",
@@ -4286,7 +4288,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261127-1500-fr.jpg"
    },
    "source_key": "post:100067526447776_1463334219260779",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
