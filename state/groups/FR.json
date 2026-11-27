@@ -5002,7 +5002,10 @@
      "generated": true,
      "pages": {},
      "title": "Notre voisin ne nous a payé que 61 tonnes de luzerne sur 80, alors ma fille et moi avons suivi son camion jusqu'à la balance de la coopérative",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38633,
+     "wp_status": "future"
     },
     "IT": {
      "pages": {},
@@ -5037,6 +5040,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-28T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/928498127_122217852194841094_7341097787164916074_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=111&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=oPEvLLOp6aIQ7kNvwHB8uJW&_nc_oc=AdqegiZK91wiYzbvYUWMzrpO_KtRIvqXI8L460ANt3x1ZtIUtsaBu9f1q5Ivuiyi9UM&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=LfMQZNMvXRHlu0uMqUjmPQ&_nc_tpa=Q5bMBQI_jpbs8lzElaV4rmZjSg6NAQfo-owyd4oL5qBmC047PmDmY389DRV4yygqS9b3lsVcKW8QbPtORw&oh=00_AQWFYeiVlgKghRRVXZ8g4wZjcUKJw2yOPRKqLoyBOUuaBA&oe=6B0FECD3",
@@ -5048,7 +5052,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261128-1500-fr.jpg"
    },
    "source_key": "post:61575232821594_122217852260841094",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -5340,7 +5344,7 @@
    "origin": "manual",
    "page_id": "61575232821594",
    "slot": "2026-11-28 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61575232821594_122217858014841094": {
    "fingerprint": "4115f1777d2b547569b7",
