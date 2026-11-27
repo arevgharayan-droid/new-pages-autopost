@@ -4558,7 +4558,15 @@
   "2026-11-28 21:00": {
    "langs": {},
    "slot_iso": "2026-11-28T21:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/921669719_122156953533170576_6690616400770466131_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BVRTqwXi2bMQ7kNvwEZZd2X&_nc_oc=AdorNEHT2TdkKwvGn6vPbSmiHv8kBx9lFWu4LWUBD-pN4Z_o9Zuy_vX2_K-dDSjM8ys&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=MoO4_soLebgLYlsbsdzGmg&_nc_tpa=Q5bMBQJWv-cESKNiXsgEybhbcnDnLhb_nde-q63lPHCpqj_Z_gnT_tgo0HctY8m_iNDuAqwySurljzvRJg&oh=00_AQUBUxnLxRBOqNq-F1mkSYNxQvn9IwNewhZScjjSz1EFbw&oe=6B0FE98F",
+    "link": "https://www.facebook.com/share/1EwZXar1Qn/",
+    "origin": "manual",
+    "page_id": "61585117295331",
+    "text": "\"At the White House security desk, my husband leaned close and whispered, “Tonight is important, Sloane. Just smile when you’re supposed to.” Then I handed the hostess my own envelope. She scanned it, froze, lifted her radio, and said, **“She’s arrived.”** Thirty seconds later, a four-star admiral was shaking my hand and telling me the President had personally asked to be notified the instant I walked in.\nMy name is Colonel Sloane Merrick.\nMy husband, Colonel Mitchell Ashcroft, and I had served in the Army for twenty-four years each.\nSame rank.\nSame uniform.\nVery different ideas about whose career mattered.\nFor three years of marriage, Mitchell had treated my work in Army logistics like an oversized office job.\nAt barbecues, he called me “the queen of spreadsheets.” At his mother’s house, he joked that the Army had trusted me with “very important paper clips.”\nEveryone laughed.\nI usually did too.\nNot because it was funny.\nBecause I couldn’t explain what I actually did.\nMy assignments involved moving medicine, fuel, aircraft, equipment, and personnel through places most people at those dinner tables couldn’t find on a map. I had signed enough nondisclosure documents to know that silence was part of the job.\nMitchell mistook that silence for insignificance.\nThen the White House invitations arrived.\nHis came first in a heavy cream envelope.\nHe held it up in our kitchen like a trophy.\n“Mom,” he said the second she answered his call, “we’re going to the White House.”\nExcept technically, we weren’t.\nHe was.\nMy invitation arrived two days later in an ordinary government envelope.\nDifferent instructions.\nDifferent arrival time.\nAnd one sentence from the protocol office that made me read it twice.\nI put it in my desk drawer and told Mitchell nothing.\nThe night of the ceremony, he barely looked at me until we were approaching the East Wing checkpoint.\n“There are generals here,” he warned.\n“I know.”\n“Cabinet secretaries.”\n“I know.”\nThen he leaned closer.\n“Don’t make unnecessary conversation.”\nThat was the moment something inside me went cold.\nHe genuinely believed I was there as decoration.\nAt the desk, Mitchell presented his invitation first.\nThe hostess scanned it.\n“Welcome, Colonel Ashcroft.”\nHe gave a satisfied little nod.\nThen she turned to me.\nI reached into my purse and handed over my envelope.\nMitchell frowned.\n“What’s that?”\nThe scanner beeped.\nThe hostess looked at her screen.\nThen she scanned it again.\nHer expression changed.\nShe immediately touched her radio.\n“Protocol, checkpoint one,” she said. “She’s arrived.”\nAcross the corridor, a four-star admiral stopped mid-conversation and walked directly toward us.\nMitchell shifted beside me.\n“Sloane… what’s happening?”\nThe admiral extended his hand.\n“Colonel Merrick. It’s an honor to finally meet you.”\nI shook it.\n“The honor is mine, sir.”\nHe smiled.\n“The President asked us to notify him the moment you arrived.”\nMitchell inhaled sharply.\nThen a protocol officer appeared.\n“Colonel Ashcroft, your assigned seating is this way.”\nMitchell stepped forward.\n“My wife is with me.”\nThe woman smiled politely.\n“Colonel Merrick has separate seating, sir.”\nI walked toward the East Room with the admiral.\nWhen I glanced back, Mitchell was still standing at the checkpoint.\nFor once, he had nothing to say.\nInside, senior officers rose as I passed.\nAn Air Force general smiled at me.\n“So you actually exist.”\n“Only on good days, sir.”\nHe laughed and pointed me toward the front row.\nMinutes later, the President entered.\nThe room stood.\nThen he began speaking about people whose work happened quietly—people who prepared for disasters before anyone else knew danger was coming.\nMitchell sat eight rows behind me.\nFor the first time in three years, he was listening.\nThen the President looked directly at me.\nHe paused.\nAnd began to say my name.\nThe story is too long to post in the caption, so just say you \"\"Yes\"\". The full story will be in the comments below."
+   },
+   "source_key": "post:61585117295331_122156953599170576",
+   "status": "preparing"
   },
   "2026-11-29 00:00": {
    "langs": {},
@@ -4824,6 +4832,14 @@
    "page_id": "61585117295331",
    "slot": "2026-11-27 12:00",
    "status": "used"
+  },
+  "post:61585117295331_122156953599170576": {
+   "fingerprint": "64539d5d035ac998eb7a",
+   "link": "https://www.facebook.com/share/1EwZXar1Qn/",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-28 21:00",
+   "status": "reserved"
   },
   "post:61585117295331_122157075093170576": {
    "fingerprint": "cf619fe14c0448fbacef",
