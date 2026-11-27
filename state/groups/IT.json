@@ -3832,7 +3832,15 @@
   "2026-11-28 12:00": {
    "langs": {},
    "slot_iso": "2026-11-28T12:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/929286055_122157102195170576_3404844191316627679_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=rY25T-hdwKgQ7kNvwFsXhHd&_nc_oc=Adq-YRDPFUjCHVJpa4mwGhY_vL5yc5xNwyoQRF1lfU9XXTWXQmntP2ofIyz9mFSD7Vc&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=f-_VO141Xo93ntuXOsgf3w&_nc_tpa=Q5bMBQINhI_fTWpvAoe_7xu8e-4BrRmPvZ7KSs2o86E2EjfOGH3L8P8bOhGOvQ4NXQhzbnrOqMeMTpAu2g&oh=00_AQWWSCQ7zT2E2wHgtoTi64UPTYEFWAkLDXwcOTWLjNMVQw&oe=6B0FC82F",
+    "link": "https://www.facebook.com/share/1SdTDbmDAF/",
+    "origin": "manual",
+    "page_id": "61585117295331",
+    "text": "Barely three days after our wedding, just because i served lunch a little late, my husband flipped the dining table with a kick and yelled, ‘A woman needs to be hit to learn her place!’ i chuckled and fired back, ‘Well then, the gloves are off!’\n\nPART 1\n\nBarely three days after our wedding, just because I served lunch a little late, my husband flipped the dining table with a kick and yelled, \"A woman needs to be hit to learn her place!\" I chuckled and fired back, \"Well then, the gloves are off!\"\n\nExactly seventy-two hours after we signed our marriage certificate, my husband's perfect gentleman mask slipped.\n\nThat Tuesday evening, I arrived home nearly an hour late due to torrential rain and gridlock traffic. I walked into the sunlit condo I had relentlessly ground myself to the bone to purchase years before meeting him, and immediately rushed into the kitchen.\n\nWesley possessed a draconian obsession with strict meal times. Yet when I carried the steaming platters of slow-cooked pot roast to the dining table, the atmosphere felt like the suffocating pressure of a deep-sea trench.\n\nWesley was sprawled on the sofa, endlessly scrolling on his phone, radiating glacial hostility.\n\n\"Dinner's ready, honey,\" I called out softly.\n\nInstead of a word of thanks, Wesley shot up. A terrifying, unfamiliar spark of unhinged rage danced in his eyes. He marched toward the dining area and, without a single warning syllable, drove the sole of his dress shoe directly into the heavy oak table.\n\nCrash!\n\nThe table violently tipped upward. My porcelain dinnerware shattered into a hundred jagged pieces. The meal I had practically broken my neck to prepare splattered into a grotesque, greasy heap across the pristine floor.\n\nI stood paralyzed. Wesley closed the distance between us, jabbing a rigid finger inches from my nose.\n\n\"You are a woman who clearly has no concept of her place!\" he roared. \"Three days into this marriage and you're already displaying your sheer laziness.\n\nStarting tomorrow, you will hand over every single debit card and online banking password. You will wake up at 5 AM to cook, and when you return from your little corporate job, you will wait on me hand and foot. Is that clear?\"\n\nHe took a step closer, delivering a sentence that dropped the room's temperature to freezing. \"A stubborn wife needs to be strictly 'disciplined' so she learns how to bow her head.\"\n\nHe expected tears. He expected me to drop to my knees and beg. Instead, a bizarre, absolute tranquility, a reflex forged by thousands of grueling hours in my past, washed over me.\n\nI slowly bent down and picked up a razor-sharp shard of a broken plate. Twirling the porcelain casually between my fingers, I locked my gaze dead into his furious eyes. A slow, glacial smile crept across my face.\n\n\"You just said a wife needs to be disciplined,\" I whispered, my voice echoing with an unnatural calm. \"Tell me, Wesley… exactly how do you plan to do that?\"\n\nDeeply unsettled but blinded by ego, Wesley grunted an ugly curse. He planted his feet, raised his large right hand high into the air, and swung it down with all his might to assert his dominance.\n\nBut Wesley was about to learn a devastating lesson. He had absolutely no clue that the fragile, soft-spoken finance analyst he thought he had trapped was harboring a magnificent, dangerous secret that was about to destroy him in exactly two seconds.\n\nAre you curious about what would happen next? If so, don’t forget to type “GOOD” and press LIKE to let us know, so we’ll update full story for you soon 😉👇"
+   },
+   "source_key": "post:61585117295331_122157103035170576",
+   "status": "preparing"
   },
   "2026-11-28 15:00": {
    "langs": {},
@@ -4113,6 +4121,14 @@
    "page_id": "61585117295331",
    "slot": "2026-11-27 12:00",
    "status": "used"
+  },
+  "post:61585117295331_122157103035170576": {
+   "fingerprint": "84f9fc61aed9775c52d9",
+   "link": "https://www.facebook.com/share/1SdTDbmDAF/",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-28 12:00",
+   "status": "reserved"
   },
   "post:61586097333334_122144996601203244": {
    "fingerprint": "3d2a260a217f52692622",
