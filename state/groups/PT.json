@@ -1,0 +1,29 @@
+{
+ "output_fps": {},
+ "outputs": {},
+ "slots": {},
+ "sources": {
+  "link:088bf4b8a955cf8cfa2b": {
+   "link": "https://www.facebook.com/share/1SdTDbmDAF/",
+   "resolved": "https://www.facebook.com/61585117295331/posts/122157103035170576/?rdid=piSRc9HsqbAY481F&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1SdTDbmDAF%2F"
+  },
+  "link:27f48498fce81bf5438e": {
+   "link": "https://www.facebook.com/share/p/1KbpJsfouA/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122187204614727462&id=61571823878133"
+  },
+  "link:32eb9bb64d8f089fc023": {
+   "link": "https://www.facebook.com/share/1EwZXar1Qn/",
+   "resolved": "https://www.facebook.com/61585117295331/posts/122156953599170576/?rdid=vNz3hG88VUWxasUN&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1EwZXar1Qn%2F"
+  },
+  "link:8bbe57c23ef63e799c66": {
+   "link": "https://www.facebook.com/share/p/1KuzhenbEh/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122187359828727462&id=61571823878133"
+  },
+  "link:b9a3cf828d5104c1a3cc": {
+   "link": "https://www.facebook.com/share/18mFxvbvuh/",
+   "resolved": "https://www.facebook.com/61585117295331/posts/122157075093170576/?rdid=eBy07uvgsPif9DTT&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F18mFxvbvuh%2F"
+  }
+ },
+ "tests": {},
+ "version": 1
+}

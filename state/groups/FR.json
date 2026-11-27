@@ -4982,6 +4982,10 @@
  },
  "source_cutoff": "2026-11-23T22:25:41+00:00",
  "sources": {
+  "link:01249bccba7aa2003543": {
+   "link": "https://www.facebook.com/share/1JE3YQTmn6/",
+   "resolved": "https://www.facebook.com/61575232821594/posts/122217852260841094/?rdid=mDvzen9deBrFkEAP&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1JE3YQTmn6%2F"
+  },
   "link:0f73847d2bff200eac65": {
    "link": "https://www.facebook.com/share/1G9XhQXTm4/",
    "resolved": "https://www.facebook.com/100067526447776/posts/1461776412749893/?rdid=crBBsG5VxuhOAlxP&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1G9XhQXTm4%2F"
@@ -4990,9 +4994,21 @@
    "link": "https://www.facebook.com/share/p/1E73p2D7Kv/",
    "resolved": "https://www.facebook.com/story.php?story_fbid=122132547609338804&id=61590164133438"
   },
+  "link:2cd854613eb302b7592b": {
+   "link": "https://www.facebook.com/share/152BBeufpsp/",
+   "resolved": "https://www.facebook.com/61575232821594/posts/122217858014841094/?rdid=FkZecYW7RyyK5zTN&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F152BBeufpsp%2F"
+  },
   "link:2f525b2cb9d84ff572d7": {
    "link": "https://www.facebook.com/share/1CCHxgvPLQ/",
    "resolved": "https://www.facebook.com/100067526447776/posts/1462992699294931/?rdid=8gsVNiwdIYlzl1aM&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1CCHxgvPLQ%2F"
+  },
+  "link:42a3db66d77e69d646c1": {
+   "link": "https://www.facebook.com/share/1FJD5tGcao/",
+   "resolved": "https://www.facebook.com/61575232821594/posts/122217835394841094/?rdid=SSmdmysPiG4XxP0y&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1FJD5tGcao%2F"
+  },
+  "link:47be171a5a9498f6c553": {
+   "link": "https://www.facebook.com/share/1EKCRPubEz/",
+   "resolved": "https://www.facebook.com/61575232821594/posts/122217848174841094/?rdid=s1jSLhCzYapHLIfy&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1EKCRPubEz%2F"
   },
   "link:498634322ab99203192f": {
    "link": "https://www.facebook.com/share/1Cw759dN3g/",
@@ -5061,6 +5077,10 @@
   "link:d3a1d29ac11c6b1179db": {
    "link": "https://www.facebook.com/share/1525tufdSJd/",
    "resolved": "https://www.facebook.com/100067526447776/posts/1463358422591692/?rdid=wpS6tLHHpuPfdwf5&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1525tufdSJd%2F"
+  },
+  "link:f4579d7689c5cb1a58ed": {
+   "link": "https://www.facebook.com/share/1ChgSaUhVE/",
+   "resolved": "https://www.facebook.com/61575232821594/posts/122217692660841094/?rdid=zpsNn7ynUwIujdr4&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1ChgSaUhVE%2F"
   },
   "post:100064230806326_1570604038423941": {
    "fingerprint": "73a837777ff1db733fe5",
