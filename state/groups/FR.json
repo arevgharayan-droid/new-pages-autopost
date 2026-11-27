@@ -5768,7 +5768,23 @@
   "2026-11-29 00:00": {
    "langs": {},
    "slot_iso": "2026-11-29T00:00:00+04:00",
-   "status": "no_source"
+   "source": {
+    "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/927904190_122217692636841094_6087034024890385155_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=3FR2JRRmN_gQ7kNvwE9uhQv&_nc_oc=AdrSgmI8RRJk8PIZSobbfyMOUspiXUTk2dTlGwU5aylQZRLr0wV4A9wDTFBszFIGmEo&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=40jRoiDgJHooVxBz7E92pw&_nc_tpa=Q5bMBQIx7wq4Z0IscEV3sNR5spQheddtb2g8mOtLO_jqosz5-UTOWnulQKGtyOGoMdnM_LPNq_IIBPP2Cw&oh=00_AQU_US0gyA1yFaayP1oPxAB5ctMpM8MuYLMJGmB4gWdsdQ&oe=6B0FCE3A",
+    "link": "https://www.facebook.com/share/1ChgSaUhVE/",
+    "origin": "manual",
+    "page_id": "61575232821594",
+    "text": "Six Years After Our Divorce, I Ran Into My Ex-Husband and the Woman He Left Me for in Business Class. He Sneered, “Are You Lost? Economy Is Back There!” I Simply Smiled. Just Then, My 6-Year-Old Daughter Ran Into My Arms. The Moment He Saw Her, His Expression Changed, and He Began Planning How to Get Close to Her for a Reason I Never Suspected. But Before He Could Say Another Word, My New Husband Walked Up Beside Me. My Ex Took One Look at Him—and His Face Turned Pale...\n\nChapter 1: An Unexpected Reunion Above the Clouds\n\n“Excuse me, but are you sure you're sitting in the right section? Economy is farther back.”\n\nI recognized that voice before I even looked up.\n\nSix years had passed since my former husband walked away from our marriage, leaving me eight months pregnant and wondering how I would afford diapers, groceries, and rent.\n\nNow, at thirty-four, I was sitting in business class on a flight from Chicago to Washington, D.C., when the man who had once made me feel completely worthless appeared across the aisle.\n\nHis name was Bradley Kessler.\n\nHe wore an expensive navy suit, a polished silver watch, and the familiar expression of someone who believed money made him better than everyone else.\n\nBeside him sat Sabrina Holt, the woman he had chosen over me.\n\nBradley looked at my seat, then at my handbag.\n\n“Well, this is surprising, Mallory. I didn't expect to see you flying business class.”\n\nSabrina smiled.\n\n“Bradley, don't embarrass her. Maybe someone upgraded her ticket.”\n\nThey exchanged amused glances.\n\n-------------------\n\nTo our dear readers, thank you from the bottom of our hearts for staying with us this far! ❤️ Your time and support mean so much to us. There’s still more to uncover, so if you’re curious to see how it all ends, leave a little “Please” in the c0mments! 💕👇",
+    "wp_media_id": 38668,
+    "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261129-0000-fr.jpg"
+   },
+   "source_key": "post:61575232821594_122217692660841094",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://1tari.ru/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://1tari.ru",
+    "wp_auth": "make_connector"
+   }
   }
  },
  "source_cutoff": "2026-11-23T22:25:41+00:00",
@@ -6032,6 +6048,14 @@
    "page_id": "61572040865912",
    "slot": "2026-11-25 18:00",
    "status": "used"
+  },
+  "post:61575232821594_122217692660841094": {
+   "fingerprint": "9b9de6d45d22336edcde",
+   "link": "https://www.facebook.com/share/1ChgSaUhVE/",
+   "origin": "manual",
+   "page_id": "61575232821594",
+   "slot": "2026-11-29 00:00",
+   "status": "reserved"
   },
   "post:61575232821594_122217835394841094": {
    "fingerprint": "88ff1e5e5d9640c4b6f1",
