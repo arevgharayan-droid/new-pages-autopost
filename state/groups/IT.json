@@ -4586,7 +4586,14 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1278654352005636": {
+       "attempts": 1,
+       "last_attempt": "2026-11-28T03:36:43+04:00",
+       "mode": "schedule",
+       "status": "sending"
+      }
+     },
      "title": "Mio marito mi sussurrò di sorridere e basta, ma alla Casa Bianca un ammiraglio a quattro stelle mi accolse a nome del Presidente",
      "warnings": [],
      "wp_error": null,
