@@ -18,6 +18,7 @@
   "d8e9da0361d392fa44fa": "2026-11-23T22:26:30+00:00",
   "d938851e6da2679af0b6": "2026-11-27T23:16:49+00:00",
   "dc1e717f202c135c30d1": "2026-11-23T22:35:54+00:00",
+  "dd6a2e8668d59bc2c00f": "2026-11-27T23:22:04+00:00",
   "dfb4df94cb8729c0aa49": "2026-11-26T21:35:19+00:00",
   "e98c015a48b315dbeed6": "2026-11-26T06:36:00+00:00",
   "f253f2699f39a653a6d4": "2026-11-25T18:53:00+00:00",
@@ -4072,7 +4073,72 @@
    }
   },
   "2026-11-28 15:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Nell'anniversario della morte di mia madre ho trovato un bambino in lacrime sulla sua tomba: dietro la foto che aveva in tasca c'era un segreto che mi ha gelato il sangue",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38646,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-28T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/934328665_122157087375170576_8200848011962838919_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=108&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=PCNdc0AwZ58Q7kNvwFdgZJq&_nc_oc=AdrdEB_31taDaqcFiPfwYyD0AppfZ8EYz4ca2S2YXeYIR64Lx8nxg2i9lshCFR_5XdQ&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=QQw_UWnFLXPU7XaIakmOxg&_nc_tpa=Q5bMBQJfMiq6y8YIClSj3M71ZWc37vChxBpz_obx06I-jhytFfDE9fpybfhaLpHcMs0BhWQeb2MYXJ0j8Q&oh=00_AQWHKYlT95ihdFlghnVshI-TTaD-_BI6EW2rovwvCKBi0g&oe=6B0FDCF2",
@@ -4084,7 +4150,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261128-1500-it.jpg"
    },
    "source_key": "post:61585117295331_122157087441170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -4373,7 +4439,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-28 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61585117295331_122157103035170576": {
    "fingerprint": "84f9fc61aed9775c52d9",
