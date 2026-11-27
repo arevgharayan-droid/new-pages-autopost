@@ -6,13 +6,15 @@
 # page_id — ID страницы в портфолио New Pages (24.11.2026); profile_id — из адреса страницы.
 # «Storie che Toccanо» — в названии на Facebook последняя буква кириллическая «о».
 # + 19 страниц, добавленных с профиля Shiraz Kirakosyan 27.11 (у Shiraz полный доступ к ним).
-#   Ещё 7 его страниц Meta разрешит добавить после 03.12 ~15:00; 11 страниц из списка — полный доступ только у Lilit Minasyan.
-# Группы с 28.11.2026 (одна история на группу в каждом выпуске): IT 14 · EN 11 · FR 15 · DE+PT+ES 9 — 4 ссылки на выпуск.
+#   Ещё 7 его страниц Meta разрешит добавить после 03.12 ~15:00.
+# + 2 страницы, добавленные с профиля Lilit Minasyan 28.11 (La Page des Vies, Stories We Feel);
+#   у 9 страниц из списка полного доступа нет ни у Shiraz, ни у Lilit.
+# Группы с 28.11.2026 (одна история на группу в каждом выпуске): IT 14 · EN 12 · FR 16 · DE+PT+ES 9 — 4 ссылки на выпуск.
 
 languages:
   FR:
     name: French
-    pages:   # 15
+    pages:   # 16
       - {page_id: "1173998629131613", name: "Néo Rêve", profile_id: "61591691094952"}
       - {page_id: "1218326538024602", name: "Monde Virtuel", profile_id: "61591052596903"}
       - {page_id: "1299659449898366", name: "Les Vies Cachées", profile_id: "61593694155739"}
@@ -28,6 +30,7 @@ languages:
       - {page_id: "1306882635848098", name: "Émotions Sans Fin", profile_id: "61594900980955"}
       - {page_id: "1345721248628713", name: "Vies Pleines de Secrets", profile_id: "61595249486657"}
       - {page_id: "1300785143126297", name: "Histoires qui Touchent l’Âme", profile_id: "61595375241202"}
+      - {page_id: "1327992080386870", name: "La Page des Vies", profile_id: "61592069460691"}
   IT:
     name: Italian
     pages:   # 14
@@ -47,7 +50,7 @@ languages:
       - {page_id: "1414792101710154", name: "Segreti di Ogni Cuore", profile_id: "61595012926160"}
   EN:
     name: English
-    pages:   # 11
+    pages:   # 12
       - {page_id: "1332465683280302", name: "Moments Behind Faces", profile_id: "61592586624706"}
       - {page_id: "1205426852659213", name: "Life Through Their Eyes", profile_id: "61592417413406"}
       - {page_id: "1103608806180416", name: "The Turning Point", profile_id: "61591231877377"}
@@ -59,6 +62,7 @@ languages:
       - {page_id: "1126049690596224", name: "Little Legends", profile_id: "61590440282677"}
       - {page_id: "1062496713623518", name: "Viral Cuties", profile_id: "61590170474326"}
       - {page_id: "1136304276242298", name: "The Life Edit", profile_id: "61591498847380"}
+      - {page_id: "1305129636009664", name: "Stories We Feel", profile_id: "61591531937731"}
   DE:
     name: German
     pages:   # 4 — группа DE+PT+ES (ключ PT)
