@@ -470,7 +470,7 @@
   "1493487907172332_122116744953520102": "2026-11-27T11:11:34+00:00",
   "1493487907172332_122116745505520102": "2026-11-27T14:11:57+00:00",
   "1493487907172332_122116746219520102": "2026-11-27T17:11:40+00:00",
-  "1493487907172332_122116746573520102": "2026-11-26T21:45:55+00:00"
+  "1493487907172332_122116746573520102": "2026-11-27T20:11:04+00:00"
  },
  "slots": {
   "2026-11-24 12:00": {
@@ -4889,21 +4889,25 @@
      "pages": {
       "1419259861265391": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122117973477514001_1925772692133330",
        "error": null,
        "last_attempt": "2026-11-27T01:45:48+04:00",
        "mode": "schedule",
        "photo_id": "122117973447514001",
        "post_id": "1419259861265391_122117973477514001",
-       "status": "published"
+       "status": "done"
       },
       "1493487907172332": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116746573520102_2381926382618959",
        "error": null,
        "last_attempt": "2026-11-27T01:45:53+04:00",
        "mode": "schedule",
        "photo_id": "122116746543520102",
        "post_id": "1493487907172332_122116746573520102",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "Na véspera do casamento, ele me trocou pela amante grávida e ainda queria usar a festa de 30 mil dólares que eu paguei. Eu não briguei, só mudei tudo de lugar",
@@ -4942,7 +4946,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261128-0000-fr.jpg"
    },
    "source_key": "post:100067526447776_1460790392848495",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
