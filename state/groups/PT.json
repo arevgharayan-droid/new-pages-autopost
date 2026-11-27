@@ -1,9 +1,12 @@
 {
  "enabled_since": "2026-11-28T03:15:49+04:00",
  "output_fps": {
+  "352df70a7ba28c966986": "2026-11-27T23:21:01+00:00",
   "9371e3bca9bd4b653cf4": "2026-11-27T23:16:46+00:00",
   "9d83d0b74fed20418bf1": "2026-11-27T23:16:46+00:00",
-  "e885b7c09f3b7069b2fe": "2026-11-27T23:16:46+00:00"
+  "c8cbd786f1eea66df6af": "2026-11-27T23:21:01+00:00",
+  "e885b7c09f3b7069b2fe": "2026-11-27T23:16:46+00:00",
+  "ec2dbc81831b6d8e8880": "2026-11-27T23:21:01+00:00"
  },
  "outputs": {
   "1087024577829555_122127878181306568": "2026-11-27T23:20:13+00:00",
@@ -211,7 +214,86 @@
    }
   },
   "2026-11-28 15:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mein Sohn ließ sich die Haare für seine krebskranke Freundin wachsen – am Tag nach der Übergabe stand ihr Vater in der Schule und fragte mich: „Wissen Sie überhaupt, was Ihr Sohn getan hat?",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38640,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi hijo de 14 años se dejó crecer el pelo para regalarle una peluca a su amiga con cáncer, pero al día siguiente me citaron en el colegio",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38642,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Meu filho de 14 anos deixou o cabelo crescer para fazer uma peruca para a amiga com câncer, mas no dia seguinte o pai dela me esperava na escola",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38641,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-28T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/928202927_122187204584727462_4630674718840694764_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=KHdSraeW-hYQ7kNvwE7Hn4q&_nc_oc=AdooQZ35wVDj24nNTAxpf47QXQhB3AWq2KxUL5OosnfZ7LQO8RV7L6OaacRF7-SsGhY&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=y7rIkGPAryUaQti8L0meNg&_nc_tpa=Q5bMBQInvwPo2R3UQE1f0Napp0mlRYbAhB9MaCSOalhQJVKyro8eq4LaCDvC4y6m1cG0_mi3-hvTSsmooA&oh=00_AQXM--18zFIX3l2i_aXgDxNy01ixLiIAidRm4LOCGwu4eg&oe=6B0FC888",
@@ -223,7 +305,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261128-1500-pt.jpg"
    },
    "source_key": "post:61571823878133_122187204614727462",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -260,7 +342,7 @@
    "origin": "manual",
    "page_id": "61571823878133",
    "slot": "2026-11-28 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61571823878133_122187359828727462": {
    "fingerprint": "75cf8f5f9ba7fb59c495",
