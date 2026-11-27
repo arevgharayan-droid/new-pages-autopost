@@ -12,6 +12,7 @@
   "1bdc9e2073351aa7f1ba": "2026-11-23T22:35:47+00:00",
   "1c5feb647797ec273aac": "2026-11-26T21:35:21+00:00",
   "1d2d078220d7489dc249": "2026-11-25T15:07:49+00:00",
+  "205b2dbbe4012ab7ee7d": "2026-11-27T23:36:54+00:00",
   "3399bb5469a5bae55ff7": "2026-11-26T06:36:27+00:00",
   "3aa9d22f50ed9f26ccbe": "2026-11-26T21:31:48+00:00",
   "3b8bd107706796309476": "2026-11-26T21:38:26+00:00",
@@ -5087,7 +5088,74 @@
    }
   },
   "2026-11-28 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Treize ans après notre divorce, j'ai croisé mon ex et son fils devant un concours scolaire : « Comment oses-tu venir ici ? » Il ignorait ce que mes jumeaux allaient accomplir",
+     "warnings": [
+      "длина статьи 951 слов"
+     ],
+     "wp_error": null,
+     "wp_id": 38675,
+     "wp_status": "future"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-28T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/926875418_122217857972841094_4337164590832073213_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=103&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=qO2cosavXeAQ7kNvwFCxj7_&_nc_oc=AdrAPZgi-8sc2_CAhUdlNTKZlqIzu1QtAHkgHEPFdy9vm2kOG831Ruq7N_aVD6IgudI&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=OJohT2r2a94fE-YEw7M3Pg&_nc_tpa=Q5bMBQKUUrrt5EPG1VusmYT3mE3U7BWVAL3JEfD648FLOyB0ZdQoL71OI_XcXqUJnfL6mjbrDYbnYpXSJA&oh=00_AQVicMR_WsFixnDhfwF_btXwHONdPkTPClaGq6xHOezniQ&oe=6B0FFBBE",
@@ -5099,7 +5167,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261128-1200-fr.jpg"
    },
    "source_key": "post:61575232821594_122217858014841094",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -6334,7 +6402,7 @@
    "origin": "manual",
    "page_id": "61575232821594",
    "slot": "2026-11-28 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61590164133438_122132547609338804": {
    "fingerprint": "31f275f7e960fb881fda",
