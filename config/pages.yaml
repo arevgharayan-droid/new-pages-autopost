@@ -5,12 +5,14 @@
 # Остальные страницы New Pages пока не подключаются. 14 страниц Susi Meta разрешит добавить в портфолио после 30.11, 23:06.
 # page_id — ID страницы в портфолио New Pages (24.11.2026); profile_id — из адреса страницы.
 # «Storie che Toccanо» — в названии на Facebook последняя буква кириллическая «о».
-# Группы (одна история на группу в каждом выпуске): IT 8 · EN 11 · FR+PT 11 — 3 ссылки на выпуск.
+# + 19 страниц, добавленных с профиля Shiraz Kirakosyan 27.11 (у Shiraz полный доступ к ним).
+#   Ещё 7 его страниц Meta разрешит добавить после 03.12 ~15:00; 11 страниц из списка — полный доступ только у Lilit Minasyan.
+# Группы с 28.11.2026 (одна история на группу в каждом выпуске): IT 14 · EN 11 · FR 15 · DE+PT+ES 9 — 4 ссылки на выпуск.
 
 languages:
   FR:
     name: French
-    pages:   # 9
+    pages:   # 15
       - {page_id: "1173998629131613", name: "Néo Rêve", profile_id: "61591691094952"}
       - {page_id: "1218326538024602", name: "Monde Virtuel", profile_id: "61591052596903"}
       - {page_id: "1299659449898366", name: "Les Vies Cachées", profile_id: "61593694155739"}
@@ -20,9 +22,15 @@ languages:
       - {page_id: "1235065833020810", name: "Histoires à Travers la Vie", profile_id: "61591871163932"}
       - {page_id: "1005151039357476", name: "La vie, en vrai", profile_id: "61569006782423"}
       - {page_id: "1123353334205600", name: "La Vie qui Passe", profile_id: "61591590075015"}
+      - {page_id: "1349968994863034", name: "Vies en Écho", profile_id: "61592824696565"}
+      - {page_id: "1250958421438233", name: "Vies à Découvrir", profile_id: "61592897674581"}
+      - {page_id: "1330594363471272", name: "Le Côté Caché de la Vie", profile_id: "61594518616873"}
+      - {page_id: "1306882635848098", name: "Émotions Sans Fin", profile_id: "61594900980955"}
+      - {page_id: "1345721248628713", name: "Vies Pleines de Secrets", profile_id: "61595249486657"}
+      - {page_id: "1300785143126297", name: "Histoires qui Touchent l’Âme", profile_id: "61595375241202"}
   IT:
     name: Italian
-    pages:   # 8
+    pages:   # 14
       - {page_id: "1278654352005636", name: "Nel Cuore dei Segreti", profile_id: "61594728091417"}
       - {page_id: "1096862213506417", name: "Storie che Toccanо", profile_id: "61563680941653"}
       - {page_id: "1183130064891004", name: "Emozioni in Vista", profile_id: "61592948811008"}
@@ -31,6 +39,12 @@ languages:
       - {page_id: "1082025904991944", name: "Dove parla il cuore", profile_id: "61568857410961"}
       - {page_id: "1217618344768420", name: "Momenti da Ricordare", profile_id: "61591681452260"}
       - {page_id: "1325095617363023", name: "Verità Mai Confessate", profile_id: "61595290214515"}
+      - {page_id: "1361001437097700", name: "Storie Dietro gli Occhi", profile_id: "61595086137317"}
+      - {page_id: "1429453570242845", name: "Il Lato Nascosto della Vita", profile_id: "61594917269256"}
+      - {page_id: "1085252044675686", name: "Lacrime e Verità", profile_id: "61589150408819"}
+      - {page_id: "1177245925475914", name: "Voci dal Passato", profile_id: "61591261041505"}
+      - {page_id: "1296226203580428", name: "Emozioni Senza Fine", profile_id: "61594567364915"}
+      - {page_id: "1414792101710154", name: "Segreti di Ogni Cuore", profile_id: "61595012926160"}
   EN:
     name: English
     pages:   # 11
@@ -45,10 +59,23 @@ languages:
       - {page_id: "1126049690596224", name: "Little Legends", profile_id: "61590440282677"}
       - {page_id: "1062496713623518", name: "Viral Cuties", profile_id: "61590170474326"}
       - {page_id: "1136304276242298", name: "The Life Edit", profile_id: "61591498847380"}
+  DE:
+    name: German
+    pages:   # 4 — группа DE+PT+ES (ключ PT)
+      - {page_id: "1177473045460010", name: "Der Moment zählt", profile_id: "61592520879680", group: PT}
+      - {page_id: "1152263657979221", name: "Spuren des Lebens", profile_id: "61592661542656", group: PT}
+      - {page_id: "1171031499435218", name: "Das Leben Erzählt", profile_id: "61592817867120", group: PT}
+      - {page_id: "1174850269054562", name: "Nah am Leben", profile_id: "61592888859356", group: PT}
   PT:
     name: Portuguese
-    pages:   # 2
-      - {page_id: "1419259861265391", name: "Segredos que a Vida Guarda", profile_id: "61595420035345", group: FR}
-      - {page_id: "1493487907172332", name: "Além das Aparências", profile_id: "61595603060359", group: FR}
+    pages:   # 4 (Бразилия/Португалия) — группа DE+PT+ES (ключ PT)
+      - {page_id: "1419259861265391", name: "Segredos que a Vida Guarda", profile_id: "61595420035345", group: PT}
+      - {page_id: "1493487907172332", name: "Além das Aparências", profile_id: "61595603060359", group: PT}
+      - {page_id: "1415822921604354", name: "Vidas Cheias de Segredos", profile_id: "61595051018157", group: PT}
+      - {page_id: "1302761819594789", name: "Histórias que Tocam a Alma", profile_id: "61595072497427", group: PT}
+  ES:
+    name: Spanish
+    pages:   # 1 — группа DE+PT+ES (ключ PT)
+      - {page_id: "1087024577829555", name: "La vida que conmueve", profile_id: "61589197059172", group: PT}
 
 fallback_source_page_id: ""
