@@ -4682,12 +4682,14 @@
       },
       "1493487907172332": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122116746219520102_1695317485549872",
        "error": null,
        "last_attempt": "2026-11-27T01:43:56+04:00",
        "mode": "schedule",
        "photo_id": "122116746195520102",
        "post_id": "1493487907172332_122116746219520102",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "Assinei sem ler e levei dez milhões de dólares com meus dois filhos, mas o verdadeiro motivo daquele dinheiro mudou tudo",
@@ -4726,7 +4728,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261127-2100-fr.jpg"
    },
    "source_key": "post:100067526447776_1461397209454480",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
