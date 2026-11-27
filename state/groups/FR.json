@@ -5530,7 +5530,10 @@
      "generated": true,
      "pages": {},
      "title": "Après la coupe de cheveux de mon fils de 9 ans, le coiffeur m'a chuchoté de regarder derrière son oreille gauche. Vingt minutes plus tard, la police était devant chez moi",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38661,
+     "wp_status": "future"
     },
     "IT": {
      "pages": {},
@@ -5565,6 +5568,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-28T21:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/921712634_122217835322841094_5081085918050127717_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=110&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=ABPsQILZ16sQ7kNvwGlVPGO&_nc_oc=Adqx8tBENMwbkhO5Tf7NMuVBX69fVvBg3rB08G1Hk_6nZEqDVx_ShimcbxGV94hx78M&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=JtwOoopdCFQ5DTWcyqt-Vw&_nc_tpa=Q5bMBQKIaQ9UG-85LbBzejkSc16zPKfnmknUm22uhRKl7ulGA-DnE0FAXsPwpR8lg9ID_lm-EUkm3Z-_VQ&oh=00_AQXH3nN0vrMygOdE_1VAr2agjWCgNzZ2FSJnQdLuOtF7cw&oe=6B100026",
@@ -5576,7 +5580,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261128-2100-fr.jpg"
    },
    "source_key": "post:61575232821594_122217835394841094",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -5858,7 +5862,7 @@
    "origin": "manual",
    "page_id": "61575232821594",
    "slot": "2026-11-28 21:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61575232821594_122217848174841094": {
    "fingerprint": "6697d644f4ca70d083bc",
