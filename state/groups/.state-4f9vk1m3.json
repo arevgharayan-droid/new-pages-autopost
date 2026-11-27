@@ -1,0 +1,1099 @@
+{
+ "enabled_since": "2026-11-28T03:15:49+04:00",
+ "output_fps": {
+  "0dc120d4d87c6dc8b9cb": "2026-11-27T23:28:31+00:00",
+  "26789b0876de0cadd7e8": "2026-11-27T23:24:39+00:00",
+  "32ea9113363b3c5ea976": "2026-11-27T23:32:28+00:00",
+  "352df70a7ba28c966986": "2026-11-27T23:21:01+00:00",
+  "3a0cc8856f7f718145cf": "2026-11-27T23:32:28+00:00",
+  "6f214643e4deccd9a935": "2026-11-27T23:28:31+00:00",
+  "8ecb02ce83789dc04ef5": "2026-11-27T23:24:39+00:00",
+  "9018b60858693c349a16": "2026-11-27T23:32:28+00:00",
+  "9371e3bca9bd4b653cf4": "2026-11-27T23:16:46+00:00",
+  "9d83d0b74fed20418bf1": "2026-11-27T23:16:46+00:00",
+  "c0d3f47f54ca5d007b9a": "2026-11-27T23:24:39+00:00",
+  "c8cbd786f1eea66df6af": "2026-11-27T23:21:01+00:00",
+  "cf68a9ed0b3983db2c86": "2026-11-27T23:28:31+00:00",
+  "e885b7c09f3b7069b2fe": "2026-11-27T23:16:46+00:00",
+  "ec2dbc81831b6d8e8880": "2026-11-27T23:21:01+00:00"
+ },
+ "outputs": {
+  "1087024577829555_122127878181306568": "2026-11-27T23:20:13+00:00",
+  "1087024577829555_122127878559306568": "2026-11-27T23:23:53+00:00",
+  "1087024577829555_122127878895306568": "2026-11-27T23:27:43+00:00",
+  "1087024577829555_122127879261306568": "2026-11-27T23:31:42+00:00",
+  "1087024577829555_122127879519306568": "2026-11-27T23:34:07+00:00",
+  "1152263657979221_122125880367422051": "2026-11-27T23:17:35+00:00",
+  "1152263657979221_122125880679422051": "2026-11-27T23:21:40+00:00",
+  "1152263657979221_122125881003422051": "2026-11-27T23:25:24+00:00",
+  "1152263657979221_122125881285422051": "2026-11-27T23:29:13+00:00",
+  "1152263657979221_122125881687422051": "2026-11-27T23:33:02+00:00",
+  "1171031499435218_122134973031427262": "2026-11-27T23:17:57+00:00",
+  "1171031499435218_122134973565427262": "2026-11-27T23:21:58+00:00",
+  "1171031499435218_122134974039427262": "2026-11-27T23:25:42+00:00",
+  "1171031499435218_122134974657427262": "2026-11-27T23:29:30+00:00",
+  "1171031499435218_122134975071427262": "2026-11-27T23:33:20+00:00",
+  "1174850269054562_122131440879429628": "2026-11-27T23:18:19+00:00",
+  "1174850269054562_122131441371429628": "2026-11-27T23:22:09+00:00",
+  "1174850269054562_122131441785429628": "2026-11-27T23:26:06+00:00",
+  "1174850269054562_122131442109429628": "2026-11-27T23:29:48+00:00",
+  "1174850269054562_122131442673429628": "2026-11-27T23:33:36+00:00",
+  "1177473045460010_122129918979417362": "2026-11-27T23:17:13+00:00",
+  "1177473045460010_122129919513417362": "2026-11-27T23:21:18+00:00",
+  "1177473045460010_122129919981417362": "2026-11-27T23:25:07+00:00",
+  "1177473045460010_122129920413417362": "2026-11-27T23:28:50+00:00",
+  "1177473045460010_122129921133417362": "2026-11-27T23:32:46+00:00",
+  "122117033451520102": "2026-11-27T23:19:07+00:00",
+  "122117034015520102": "2026-11-27T23:22:44+00:00",
+  "122117034489520102": "2026-11-27T23:26:52+00:00",
+  "122117034999520102": "2026-11-27T23:30:34+00:00",
+  "122117035455520102": "2026-11-27T23:33:49+00:00",
+  "122118234213514001": "2026-11-27T23:18:42+00:00",
+  "122118235119514001": "2026-11-27T23:22:28+00:00",
+  "122118235677514001": "2026-11-27T23:26:29+00:00",
+  "122118236349514001": "2026-11-27T23:30:10+00:00",
+  "122118236925514001": "2026-11-27T23:33:42+00:00",
+  "122124611481501700": "2026-11-27T23:19:30+00:00",
+  "122124612219501700": "2026-11-27T23:23:07+00:00",
+  "122124612777501700": "2026-11-27T23:27:10+00:00",
+  "122124613527501700": "2026-11-27T23:30:56+00:00",
+  "122124614001501700": "2026-11-27T23:33:56+00:00",
+  "122125880331422051": "2026-11-27T23:17:35+00:00",
+  "122125880649422051": "2026-11-27T23:21:40+00:00",
+  "122125880973422051": "2026-11-27T23:25:24+00:00",
+  "122125881255422051": "2026-11-27T23:29:13+00:00",
+  "122125881657422051": "2026-11-27T23:33:02+00:00",
+  "122127028563502416": "2026-11-27T23:19:52+00:00",
+  "122127029283502416": "2026-11-27T23:23:30+00:00",
+  "122127029631502416": "2026-11-27T23:27:25+00:00",
+  "122127030411502416": "2026-11-27T23:31:20+00:00",
+  "122127030999502416": "2026-11-27T23:34:01+00:00",
+  "122127878151306568": "2026-11-27T23:20:13+00:00",
+  "122127878529306568": "2026-11-27T23:23:53+00:00",
+  "122127878865306568": "2026-11-27T23:27:43+00:00",
+  "122127879231306568": "2026-11-27T23:31:42+00:00",
+  "122127879489306568": "2026-11-27T23:34:07+00:00",
+  "122129918949417362": "2026-11-27T23:17:13+00:00",
+  "122129919483417362": "2026-11-27T23:21:18+00:00",
+  "122129919951417362": "2026-11-27T23:25:07+00:00",
+  "122129920383417362": "2026-11-27T23:28:50+00:00",
+  "122129921103417362": "2026-11-27T23:32:46+00:00",
+  "122131440849429628": "2026-11-27T23:18:19+00:00",
+  "122131441341429628": "2026-11-27T23:22:09+00:00",
+  "122131441755429628": "2026-11-27T23:26:06+00:00",
+  "122131442073429628": "2026-11-27T23:29:48+00:00",
+  "122131442643429628": "2026-11-27T23:33:36+00:00",
+  "122134973001427262": "2026-11-27T23:17:57+00:00",
+  "122134973535427262": "2026-11-27T23:21:58+00:00",
+  "122134973997427262": "2026-11-27T23:25:42+00:00",
+  "122134974627427262": "2026-11-27T23:29:30+00:00",
+  "122134975041427262": "2026-11-27T23:33:20+00:00",
+  "1302761819594789_122127028593502416": "2026-11-27T23:19:52+00:00",
+  "1302761819594789_122127029313502416": "2026-11-27T23:23:30+00:00",
+  "1302761819594789_122127029667502416": "2026-11-27T23:27:25+00:00",
+  "1302761819594789_122127030441502416": "2026-11-27T23:31:20+00:00",
+  "1302761819594789_122127031029502416": "2026-11-27T23:34:01+00:00",
+  "1415822921604354_122124611511501700": "2026-11-27T23:19:30+00:00",
+  "1415822921604354_122124612249501700": "2026-11-27T23:23:07+00:00",
+  "1415822921604354_122124612819501700": "2026-11-27T23:27:10+00:00",
+  "1415822921604354_122124613563501700": "2026-11-27T23:30:56+00:00",
+  "1415822921604354_122124614031501700": "2026-11-27T23:33:56+00:00",
+  "1419259861265391_122118234243514001": "2026-11-27T23:18:42+00:00",
+  "1419259861265391_122118235149514001": "2026-11-27T23:22:28+00:00",
+  "1419259861265391_122118235719514001": "2026-11-27T23:26:29+00:00",
+  "1419259861265391_122118236379514001": "2026-11-27T23:30:10+00:00",
+  "1419259861265391_122118236955514001": "2026-11-27T23:33:42+00:00",
+  "1493487907172332_122117033487520102": "2026-11-27T23:19:07+00:00",
+  "1493487907172332_122117034045520102": "2026-11-27T23:22:44+00:00",
+  "1493487907172332_122117034519520102": "2026-11-27T23:26:52+00:00",
+  "1493487907172332_122117035029520102": "2026-11-27T23:30:34+00:00",
+  "1493487907172332_122117035485520102": "2026-11-27T23:33:49+00:00"
+ },
+ "slots": {
+  "2026-11-28 12:00": {
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1152263657979221": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:17:33+04:00",
+       "mode": "schedule",
+       "photo_id": "122125880331422051",
+       "post_id": "1152263657979221_122125880367422051",
+       "status": "scheduled"
+      },
+      "1171031499435218": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:17:54+04:00",
+       "mode": "schedule",
+       "photo_id": "122134973001427262",
+       "post_id": "1171031499435218_122134973031427262",
+       "status": "scheduled"
+      },
+      "1174850269054562": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:18:16+04:00",
+       "mode": "schedule",
+       "photo_id": "122131440849429628",
+       "post_id": "1174850269054562_122131440879429628",
+       "status": "scheduled"
+      },
+      "1177473045460010": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:17:10+04:00",
+       "mode": "schedule",
+       "photo_id": "122129918949417362",
+       "post_id": "1177473045460010_122129918979417362",
+       "status": "scheduled"
+      }
+     },
+     "title": "Morgen um neun ist meine Frau tot“: Als Tessa ihren Mann auf der Party belauschte, erfuhr sie, dass er auch den Tod ihrer Eltern geplant haben könnte",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38634,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1087024577829555": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:20:11+04:00",
+       "mode": "schedule",
+       "photo_id": "122127878151306568",
+       "post_id": "1087024577829555_122127878181306568",
+       "status": "scheduled"
+      }
+     },
+     "title": "Escuché a mi marido brindar por mi muerte la noche antes de mi operación de corazón, y lo que dijo sobre el accidente de mis padres lo cambió todo",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38637,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1302761819594789": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:19:49+04:00",
+       "mode": "schedule",
+       "photo_id": "122127028563502416",
+       "post_id": "1302761819594789_122127028593502416",
+       "status": "scheduled"
+      },
+      "1415822921604354": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:19:27+04:00",
+       "mode": "schedule",
+       "photo_id": "122124611481501700",
+       "post_id": "1415822921604354_122124611511501700",
+       "status": "scheduled"
+      },
+      "1419259861265391": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:18:39+04:00",
+       "mode": "schedule",
+       "photo_id": "122118234213514001",
+       "post_id": "1419259861265391_122118234243514001",
+       "status": "scheduled"
+      },
+      "1493487907172332": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:19:05+04:00",
+       "mode": "schedule",
+       "photo_id": "122117033451520102",
+       "post_id": "1493487907172332_122117033487520102",
+       "status": "scheduled"
+      }
+     },
+     "title": "Ouvi o meu marido brindar à minha morte na véspera da cirurgia ao coração, mas o que o sogro revelou sobre o acidente dos meus pais mudou tudo",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38635,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
+   "slot_iso": "2026-11-28T12:00:00+04:00",
+   "source": {
+    "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/925814347_122187359804727462_1811883881964743777_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=9P20zbmRHP0Q7kNvwFVp3D5&_nc_oc=AdrXwkLF_jYUt2EtSe9L3phpVePS5U620beJyq43sxXdA5hz8o6X3E8G6PCzZRm7TUE&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=rwancJhDw7FOlGhwyFr8fw&_nc_tpa=Q5bMBQKruwcfZ0JLrheEydlBSKRoNBs0ZQUMgo4cHx3a29oRpet8gyAqWXX9iqAl9DTExtEKHH8dOvzY8w&oh=00_AQWbNtyng3zC2_xClUvHi2gbwL4j76Sq44NhMrG40s1J4Q&oe=6B0FC743",
+    "link": "https://www.facebook.com/share/p/1KuzhenbEh/",
+    "origin": "manual",
+    "page_id": "61571823878133",
+    "text": "«Domani mattina, entro le nove, mia moglie sarà m0rta. E il suo patrimonio di 350 milioni di dollari sarà finalmente nostro!»\n\nMio marito sollevò il calice di champagne.\n\nTrenta invitati scoppiarono immediatamente in un fragoroso applauso.\n\nRimasi immobile davanti alle porte a vetri della nostra villa, stringendo in una mano il medaglione d’oro di mia madre e nell’altra il telefono.\n\nMi chiamo Tessa Bellamy, ho trentasei anni e, da lì a meno di otto ore, avrei dovuto sottopormi a un intervento chirurgico al cuore.\n\nL’uomo che stava festeggiando la mia imminente m0rte era mio marito da sette anni, il dottor Owen Carver, uno stimato cardiochirurgo.\n\nPer mesi mi aveva ripetuto che ogni sua decisione era stata presa per il bene della mia salute.\n\nEppure, in quel momento, ero lì fuori ad ascoltarlo mentre spiegava come intendeva uccidermi.\n\n«Sei sicuro che non ci saranno complicazioni?» domandò suo padre, Walter.\n\nOwen scoppiò a ridere.\n\n«Papà, ho dedicato quindici anni della mia vita allo studio del cuore umano. Nessuno sospetterà nulla di fronte a una complicazione imprevista durante un intervento chirurgico.»\n\nWalter sollevò il calice.\n\n«Al miglior investimento che questa famiglia abbia mai fatto!»\n\nLa sala si riempì nuovamente di risate.\n\nAccanto all’enorme torta, mia suocera Brenda sfoggiava un sorriso trionfante.\n\n«Finalmente! Sette lunghi anni passati a fingere di voler bene a quella miserabile donna!»\n\nMia cognata Kayla scoppiò a ridere.\n\n«Vi ricordate quando Tessa ha pagato i debiti dell’azienda di papà? Credeva davvero che la considerassimo parte della famiglia!»\n\n«Trentadue milioni di dollari!» dichiarò Walter con orgoglio. «E non ci ha mai chiesto di restituirle nemmeno un centesimo.»\n\nSentii lo stomaco contrarsi dolorosamente.\n\nQuel denaro proveniva dall’eredità che avevo ricevuto dopo la m0rte dei miei genitori. Owen mi aveva convinta che aiutare la sua famiglia fosse uno dei miei doveri di moglie.\n\nPoi Kayla pronunciò un nome che non avevo mai sentito prima.\n\n«E Rachel? Verrà domani?»\n\nOwen sorrise.\n\n«È quasi al sesto mese di gravidanza. Non voglio correre rischi facendola avvicinare all’ospedale.»\n\nBrenda batté le mani, entusiasta.\n\n«Non vedo l’ora di conoscere il mio primo vero nipotino!»\n\nSentii le gambe cedere.\n\nPer quattro anni Owen mi era stato accanto durante i trattamenti per la fertilità, le delusioni e le interminabili sofferenze.\n\nMi aveva stretta tra le braccia mentre piangevo, promettendomi che un giorno avremmo avuto dei figli nostri.\n\nE adesso scoprivo che aspettava un bambino da un’altra donna.\n\n«Una volta che Tessa sarà fuori dai giochi», continuò Owen, «Rachel e io potremo finalmente smettere di nasconderci. Nostro figlio erediterà l’intero patrimonio.»\n\nSenza fare alcun rumore, attivai la videocamera del telefono e iniziai a registrare.\n\nFu allora che Walter pronunciò una frase che mi gelò il sangue.\n\n«Sai davvero scegliere il momento giusto, figliolo. Prima l’incidente aereo dei suoi genitori, adesso l’operazione al cuore.»\n\nL’espressione di Owen cambiò all’istante.\n\n«Non parlare dell’aereo.»\n\nWalter ridacchiò.\n\n«Rilassati. Sono passati tre anni.»\n\n«Ti ho detto di non parlarne!»\n\nUn silenzio improvviso calò nella sala.\n\nTre anni prima, i miei genitori, Russell e Meredith Bellamy, erano m0rti in un incidente aereo mentre viaggiavano per lavoro a bordo del loro jet privato.\n\nGli investigatori avevano attribuito la tragedia a un problema di manutenzione.\n\nLa loro scomparsa mi aveva lasciato un patrimonio di circa 350 milioni di dollari, tra beni familiari e investimenti.\n\nDurante il lutto, Owen mi era sempre stato accanto.\n\nAveva organizzato il funerale, mi aveva consolata durante innumerevoli notti insonni e aveva fatto in modo che non mi sentissi mai sola.\n\nPossibile che ogni gesto di quella presunta devozione fosse soltanto una messinscena accuratamente studiata?\n\nIn quel momento Brenda esclamò:\n\n«Basta con questi discorsi lugubri! Siamo qui per festeggiare!»\n\nOwen guardò l’orologio.\n\n«Assicuratevi soltanto che nessuno cerchi di contattare Tessa questa sera. Le ho dato qualcosa per dormire. Non dovrebbe svegliarsi prima di domattina.»\n\nLe mie mani cominciarono a tremare incontrollabilmente.\n\nQuella stessa sera, in ospedale, Owen mi aveva portato due compresse.\n\n«Prendile, tesoro. Ti aiuteranno a rilassarti.»\n\nFortunatamente, un’infermiera ci aveva interrotti prima che potessi ingerirle.\n\nNon avevo preso nessuna delle due.\n\nPiù tardi, una sensazione di inquietudine così forte da non riuscire a ignorarla mi aveva spinta a lasciare l’ospedale e a tornare a casa.\n\nOra capivo perché mio marito fosse così sicuro che fossi profondamente addormentata.\n\nAll’improvviso, una luce di sicurezza si accese, illuminando il patio.\n\nOwen si voltò verso le finestre.\n\n«Avete visto qualcosa muoversi là fuori?»\n\nMi nascosi rapidamente dietro una grande fioriera di pietra.\n\nWalter si avvicinò alle porte.\n\n«Sarà soltanto un animale.»\n\nMa Owen continuò a fissare l’esterno.\n\nPoi il mio telefono cominciò a vibrare.\n\nOWEN MI STAVA CHIAMANDO.\n\nLo silenziai immediatamente.\n\nAttraverso il vetro, lo vidi abbassare il telefono.\n\n«Non risponde.»\n\nBrenda sembrò contrariata.\n\n«Non avevi detto che dormiva?»\n\nL’espressione di Owen diventò improvvisamente più fredda.\n\n«Chiederò a qualcuno di controllare la sua stanza in ospedale.»\n\nNon avevo bisogno di sentire altro.\n\nCorsi lungo il vialetto, salii sull’auto che mi stava aspettando e ordinai all’autista di riportarmi immediatamente in ospedale.\n\nDurante il tragitto chiamai Simon Kendrick, l’avvocato di mio padre.\n\n«Tessa?» rispose.\n\n«Simon, ho bisogno che tu protegga la mia eredità e contatti la polizia.»\n\n«Che cosa è successo?»\n\nFissai il video salvato sul telefono.\n\n«Owen ha intenzione di uccidermi durante l’intervento di domani. Ho una registrazione in cui confessa tutto.»\n\nSimon rimase in silenzio.\n\nUn istante dopo, la sua voce divenne seria e decisa.\n\n«Vai direttamente dagli addetti alla sicurezza dell’ospedale. Qualunque cosa accada, non tornare nella tua stanza. Ti raggiungerò insieme al direttore sanitario.»\n\nPrima di riagganciare, gli feci un’ultima domanda.\n\n«Simon, i miei genitori avevano qualche motivo per pensare che Owen fosse pericoloso?»\n\nRimase in silenzio per diversi secondi.\n\nFinalmente rispose.\n\n«Tessa, tuo padre aveva assunto un investigatore privato sei mesi prima di morire.»\n\n«Per quale motivo?»\n\n«Perché aveva scoperto che tuo marito versava segretamente del denaro a una persona coinvolta nella manutenzione dell’aereo dei tuoi genitori.»\n\nMi sembrò di non riuscire più a respirare.\n\nMio marito non stava semplicemente tramando per impossessarsi del mio patrimonio.\n\nPoteva conoscere la terribile verità sull’incidente che mi aveva portato via le due persone più importanti della mia vita.\n\nE in quel preciso istante capii che non stavo lottando soltanto per sopravvivere all’intervento del giorno seguente.\n\nStavo lottando per scoprire che cosa fosse realmente accaduto ai miei genitori.\n\nLa seconda parte è già nel primo commento. 😉\n\nScrivi «BEST» e lascia un MI PIACE se vuoi leggere questa storia fino alla fine! 👇",
+    "wp_media_id": 38629,
+    "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261128-1200-pt.jpg"
+   },
+   "source_key": "post:61571823878133_122187359828727462",
+   "status": "in_progress",
+   "wp_site": {
+    "comment_link_format": "https://1tari.ru/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://1tari.ru",
+    "wp_auth": "make_connector"
+   }
+  },
+  "2026-11-28 15:00": {
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1152263657979221": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:21:38+04:00",
+       "mode": "schedule",
+       "photo_id": "122125880649422051",
+       "post_id": "1152263657979221_122125880679422051",
+       "status": "scheduled"
+      },
+      "1171031499435218": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:21:55+04:00",
+       "mode": "schedule",
+       "photo_id": "122134973535427262",
+       "post_id": "1171031499435218_122134973565427262",
+       "status": "scheduled"
+      },
+      "1174850269054562": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:22:07+04:00",
+       "mode": "schedule",
+       "photo_id": "122131441341429628",
+       "post_id": "1174850269054562_122131441371429628",
+       "status": "scheduled"
+      },
+      "1177473045460010": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:21:15+04:00",
+       "mode": "schedule",
+       "photo_id": "122129919483417362",
+       "post_id": "1177473045460010_122129919513417362",
+       "status": "scheduled"
+      }
+     },
+     "title": "Mein Sohn ließ sich die Haare für seine krebskranke Freundin wachsen – am Tag nach der Übergabe stand ihr Vater in der Schule und fragte mich: „Wissen Sie überhaupt, was Ihr Sohn getan hat?",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38640,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1087024577829555": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:23:51+04:00",
+       "mode": "schedule",
+       "photo_id": "122127878529306568",
+       "post_id": "1087024577829555_122127878559306568",
+       "status": "scheduled"
+      }
+     },
+     "title": "Mi hijo de 14 años se dejó crecer el pelo para regalarle una peluca a su amiga con cáncer, pero al día siguiente me citaron en el colegio",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38642,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1302761819594789": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:23:27+04:00",
+       "mode": "schedule",
+       "photo_id": "122127029283502416",
+       "post_id": "1302761819594789_122127029313502416",
+       "status": "scheduled"
+      },
+      "1415822921604354": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:23:04+04:00",
+       "mode": "schedule",
+       "photo_id": "122124612219501700",
+       "post_id": "1415822921604354_122124612249501700",
+       "status": "scheduled"
+      },
+      "1419259861265391": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:22:26+04:00",
+       "mode": "schedule",
+       "photo_id": "122118235119514001",
+       "post_id": "1419259861265391_122118235149514001",
+       "status": "scheduled"
+      },
+      "1493487907172332": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:22:42+04:00",
+       "mode": "schedule",
+       "photo_id": "122117034015520102",
+       "post_id": "1493487907172332_122117034045520102",
+       "status": "scheduled"
+      }
+     },
+     "title": "Meu filho de 14 anos deixou o cabelo crescer para fazer uma peruca para a amiga com câncer, mas no dia seguinte o pai dela me esperava na escola",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38641,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
+   "slot_iso": "2026-11-28T15:00:00+04:00",
+   "source": {
+    "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/928202927_122187204584727462_4630674718840694764_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=KHdSraeW-hYQ7kNvwE7Hn4q&_nc_oc=AdooQZ35wVDj24nNTAxpf47QXQhB3AWq2KxUL5OosnfZ7LQO8RV7L6OaacRF7-SsGhY&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=y7rIkGPAryUaQti8L0meNg&_nc_tpa=Q5bMBQInvwPo2R3UQE1f0Napp0mlRYbAhB9MaCSOalhQJVKyro8eq4LaCDvC4y6m1cG0_mi3-hvTSsmooA&oh=00_AQXM--18zFIX3l2i_aXgDxNy01ixLiIAidRm4LOCGwu4eg&oe=6B0FC888",
+    "link": "https://www.facebook.com/share/p/1KbpJsfouA/",
+    "origin": "manual",
+    "page_id": "61571823878133",
+    "text": "Mio figlio di 14 anni si è lasciato crescere i capelli per far realizzare una parrucca per la sua compagna di classe, che aveva perso i suoi a causa del cancro. Ma il giorno seguente sono stata convocata a scuola, dove suo padre mi stava aspettando. Appena mi ha vista, mi ha detto: «Lei non ha la minima idea di quello che ha fatto suo figlio, vero?»\n\nMio figlio Ethan e Lily erano migliori amici fin dalle scuole elementari. Anche durante l’adolescenza erano rimasti inseparabili.\n\nPurtroppo, l’anno scorso, a Lily è stato diagnosticato un cancro.\n\nVedevo quanto Ethan fosse preoccupato per lei.\n\nPoi, un giorno, Ethan si è rifiutato di tagliarsi i capelli.\n\nContinuava a ripetermi:\n\n«Mamma, mi lascerò crescere i capelli affinché Lily possa finalmente sentirsi di nuovo se stessa.»\n\nNon riesco nemmeno a descrivere quanto fossi orgogliosa di mio figlio.\n\nLily aveva perso tutti i capelli a causa della chemioterapia e, nonostante le prese in giro che Ethan subiva a scuola, era riuscito a far crescere i suoi abbastanza da poterli donare.\n\nHo quindi contattato un’associazione specializzata nella realizzazione di parrucche e, una mattina, ho accompagnato Ethan a farsi tagliare i capelli.\n\nQuando Ethan ha regalato la parrucca a Lily, lei è scoppiata in lacrime appena l’ha vista.\n\nPensavo che la storia finisse lì.\n\nMa la mattina seguente ho ricevuto una telefonata dalla scuola di Ethan.\n\nEra il preside, il signor Harrison.\n\nSi è schiarito la voce prima di dirmi:\n\n«Signora, mi dispiace, ma deve venire immediatamente a scuola. Il padre di Lily è qui e insiste per parlarle subito.»\n\nHo sentito le gambe cominciare a tremare.\n\nNon avevo la minima idea di cosa stesse succedendo, ma dieci minuti dopo ero già a scuola.\n\nIl fatto è che parlavo molto poco con i genitori di Lily. Non saprei nemmeno spiegare esattamente il motivo. Erano semplicemente persone molto riservate e distaccate.\n\nInoltre, anche se non potevo esserne certa, avevo sempre avuto l’impressione che Ethan non fosse particolarmente simpatico a loro.\n\nQuando sono entrata nell’ufficio del preside, Ethan era seduto lì.\n\nEra pallido come un lenzuolo.\n\nIl padre di Lily era seduto accanto a lui.\n\nHo accennato un sorriso imbarazzato.\n\n«Allora… cosa sta succedendo? Riguarda la parrucca o qualcosa del genere?»\n\nL’uomo mi ha fissata per qualche istante, poi si è rivolto a Ethan.\n\n«Davvero non le hai detto niente?»\n\nIl mio sorriso è scomparso all’istante.\n\n«Non mi ha detto niente riguardo a cosa?»\n\nIl padre di Lily mi ha guardata dritta negli occhi e ha dichiarato:\n\n«Lei non ha la minima idea di quello che ha fatto suo figlio, vero?»\n\nPoi si è rivolto a Ethan:\n\n«Per favore, racconta immediatamente la verità a tua madre. Altrimenti sarò costretto a farlo io.»\n\nHo guardato Ethan.\n\nNon aveva nemmeno il coraggio di incrociare il mio sguardo.\n\nLa storia è troppo lunga per essere raccontata interamente in questo post, quindi scrivete semplicemente «Sì».\n\nLa storia completa si trova nel primo commento qui sotto. 👇",
+    "wp_media_id": 38638,
+    "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261128-1500-pt.jpg"
+   },
+   "source_key": "post:61571823878133_122187204614727462",
+   "status": "in_progress",
+   "wp_site": {
+    "comment_link_format": "https://1tari.ru/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://1tari.ru",
+    "wp_auth": "make_connector"
+   }
+  },
+  "2026-11-28 18:00": {
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1152263657979221": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:25:21+04:00",
+       "mode": "schedule",
+       "photo_id": "122125880973422051",
+       "post_id": "1152263657979221_122125881003422051",
+       "status": "scheduled"
+      },
+      "1171031499435218": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:25:39+04:00",
+       "mode": "schedule",
+       "photo_id": "122134973997427262",
+       "post_id": "1171031499435218_122134974039427262",
+       "status": "scheduled"
+      },
+      "1174850269054562": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:26:03+04:00",
+       "mode": "schedule",
+       "photo_id": "122131441755429628",
+       "post_id": "1174850269054562_122131441785429628",
+       "status": "scheduled"
+      },
+      "1177473045460010": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:25:04+04:00",
+       "mode": "schedule",
+       "photo_id": "122129919951417362",
+       "post_id": "1177473045460010_122129919981417362",
+       "status": "scheduled"
+      }
+     },
+     "title": "Drei Tage nach der Hochzeit trat mein Mann den Esstisch um und brüllte, eine Frau müsse geschlagen werden – doch er ahnte nicht, wen er da vor sich hatte",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38649,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1087024577829555": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:27:41+04:00",
+       "mode": "schedule",
+       "photo_id": "122127878865306568",
+       "post_id": "1087024577829555_122127878895306568",
+       "status": "scheduled"
+      }
+     },
+     "title": "Tres días después de la boda, mi marido volcó la mesa de una patada y levantó la mano contra mí, sin saber el secreto que yo guardaba",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38651,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1302761819594789": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:27:23+04:00",
+       "mode": "schedule",
+       "photo_id": "122127029631502416",
+       "post_id": "1302761819594789_122127029667502416",
+       "status": "scheduled"
+      },
+      "1415822921604354": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:27:06+04:00",
+       "mode": "schedule",
+       "photo_id": "122124612777501700",
+       "post_id": "1415822921604354_122124612819501700",
+       "status": "scheduled"
+      },
+      "1419259861265391": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:26:27+04:00",
+       "mode": "schedule",
+       "photo_id": "122118235677514001",
+       "post_id": "1419259861265391_122118235719514001",
+       "status": "scheduled"
+      },
+      "1493487907172332": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:26:50+04:00",
+       "mode": "schedule",
+       "photo_id": "122117034489520102",
+       "post_id": "1493487907172332_122117034519520102",
+       "status": "scheduled"
+      }
+     },
+     "title": "Três dias após o casamento, ele virou a mesa a pontapés e gritou que mulher precisa apanhar para aprender o seu lugar. Eu sorri e respondi: \"Então as luvas estão fora!",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38650,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
+   "slot_iso": "2026-11-28T18:00:00+04:00",
+   "source": {
+    "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/929286055_122157102195170576_3404844191316627679_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=rY25T-hdwKgQ7kNvwFsXhHd&_nc_oc=Adq-YRDPFUjCHVJpa4mwGhY_vL5yc5xNwyoQRF1lfU9XXTWXQmntP2ofIyz9mFSD7Vc&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=SjzNGh8MGXko4EuwKToWhA&_nc_tpa=Q5bMBQKE13-pRFlL_KMDgBUmin67g-X58ZQuBDfNIU6rpEM6gm9j3HasGHkUPeIA-sqU_iF40ZnaJY6v8w&oh=00_AQVwKcMTz6Vxu0su8L93B7nJ2AVHT9Br2BBAa7fW8Yse0g&oe=6B0FC82F",
+    "link": "https://www.facebook.com/share/1SdTDbmDAF/",
+    "origin": "manual",
+    "page_id": "61585117295331",
+    "text": "Barely three days after our wedding, just because i served lunch a little late, my husband flipped the dining table with a kick and yelled, ‘A woman needs to be hit to learn her place!’ i chuckled and fired back, ‘Well then, the gloves are off!’\n\nPART 1\n\nBarely three days after our wedding, just because I served lunch a little late, my husband flipped the dining table with a kick and yelled, \"A woman needs to be hit to learn her place!\" I chuckled and fired back, \"Well then, the gloves are off!\"\n\nExactly seventy-two hours after we signed our marriage certificate, my husband's perfect gentleman mask slipped.\n\nThat Tuesday evening, I arrived home nearly an hour late due to torrential rain and gridlock traffic. I walked into the sunlit condo I had relentlessly ground myself to the bone to purchase years before meeting him, and immediately rushed into the kitchen.\n\nWesley possessed a draconian obsession with strict meal times. Yet when I carried the steaming platters of slow-cooked pot roast to the dining table, the atmosphere felt like the suffocating pressure of a deep-sea trench.\n\nWesley was sprawled on the sofa, endlessly scrolling on his phone, radiating glacial hostility.\n\n\"Dinner's ready, honey,\" I called out softly.\n\nInstead of a word of thanks, Wesley shot up. A terrifying, unfamiliar spark of unhinged rage danced in his eyes. He marched toward the dining area and, without a single warning syllable, drove the sole of his dress shoe directly into the heavy oak table.\n\nCrash!\n\nThe table violently tipped upward. My porcelain dinnerware shattered into a hundred jagged pieces. The meal I had practically broken my neck to prepare splattered into a grotesque, greasy heap across the pristine floor.\n\nI stood paralyzed. Wesley closed the distance between us, jabbing a rigid finger inches from my nose.\n\n\"You are a woman who clearly has no concept of her place!\" he roared. \"Three days into this marriage and you're already displaying your sheer laziness.\n\nStarting tomorrow, you will hand over every single debit card and online banking password. You will wake up at 5 AM to cook, and when you return from your little corporate job, you will wait on me hand and foot. Is that clear?\"\n\nHe took a step closer, delivering a sentence that dropped the room's temperature to freezing. \"A stubborn wife needs to be strictly 'disciplined' so she learns how to bow her head.\"\n\nHe expected tears. He expected me to drop to my knees and beg. Instead, a bizarre, absolute tranquility, a reflex forged by thousands of grueling hours in my past, washed over me.\n\nI slowly bent down and picked up a razor-sharp shard of a broken plate. Twirling the porcelain casually between my fingers, I locked my gaze dead into his furious eyes. A slow, glacial smile crept across my face.\n\n\"You just said a wife needs to be disciplined,\" I whispered, my voice echoing with an unnatural calm. \"Tell me, Wesley… exactly how do you plan to do that?\"\n\nDeeply unsettled but blinded by ego, Wesley grunted an ugly curse. He planted his feet, raised his large right hand high into the air, and swung it down with all his might to assert his dominance.\n\nBut Wesley was about to learn a devastating lesson. He had absolutely no clue that the fragile, soft-spoken finance analyst he thought he had trapped was harboring a magnificent, dangerous secret that was about to destroy him in exactly two seconds.\n\nAre you curious about what would happen next? If so, don’t forget to type “GOOD” and press LIKE to let us know, so we’ll update full story for you soon 😉👇",
+    "wp_media_id": 38648,
+    "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261128-1800-pt.jpg"
+   },
+   "source_key": "post:61585117295331_122157103035170576",
+   "status": "in_progress",
+   "wp_site": {
+    "comment_link_format": "https://1tari.ru/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://1tari.ru",
+    "wp_auth": "make_connector"
+   }
+  },
+  "2026-11-28 21:00": {
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1152263657979221": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:29:09+04:00",
+       "mode": "schedule",
+       "photo_id": "122125881255422051",
+       "post_id": "1152263657979221_122125881285422051",
+       "status": "scheduled"
+      },
+      "1171031499435218": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:29:27+04:00",
+       "mode": "schedule",
+       "photo_id": "122134974627427262",
+       "post_id": "1171031499435218_122134974657427262",
+       "status": "scheduled"
+      },
+      "1174850269054562": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:29:45+04:00",
+       "mode": "schedule",
+       "photo_id": "122131442073429628",
+       "post_id": "1174850269054562_122131442109429628",
+       "status": "scheduled"
+      },
+      "1177473045460010": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:28:47+04:00",
+       "mode": "schedule",
+       "photo_id": "122129920383417362",
+       "post_id": "1177473045460010_122129920413417362",
+       "status": "scheduled"
+      }
+     },
+     "title": "Meine Tochter starb mit 18 bei der Geburt ihres Sohnes – zehn Jahre später stand eine Fremde an ihrem Grab und flüsterte: „Jetzt ist es Zeit, dass du die Wahrheit erfährst",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38658,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1087024577829555": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:31:39+04:00",
+       "mode": "schedule",
+       "photo_id": "122127879231306568",
+       "post_id": "1087024577829555_122127879261306568",
+       "status": "scheduled"
+      }
+     },
+     "title": "Mi hija murió al dar a luz y nunca supe quién era el padre de su hijo, hasta que una desconocida apareció junto a su tumba con un sobre sellado",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38660,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1302761819594789": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:31:17+04:00",
+       "mode": "schedule",
+       "photo_id": "122127030411502416",
+       "post_id": "1302761819594789_122127030441502416",
+       "status": "scheduled"
+      },
+      "1415822921604354": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:30:53+04:00",
+       "mode": "schedule",
+       "photo_id": "122124613527501700",
+       "post_id": "1415822921604354_122124613563501700",
+       "status": "scheduled"
+      },
+      "1419259861265391": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:30:08+04:00",
+       "mode": "schedule",
+       "photo_id": "122118236349514001",
+       "post_id": "1419259861265391_122118236379514001",
+       "status": "scheduled"
+      },
+      "1493487907172332": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:30:32+04:00",
+       "mode": "schedule",
+       "photo_id": "122117034999520102",
+       "post_id": "1493487907172332_122117035029520102",
+       "status": "scheduled"
+      }
+     },
+     "title": "Minha filha morreu ao dar à luz aos 18 anos, e dez anos depois uma desconhecida apareceu no túmulo dela com um envelope e uma verdade que eu nunca imaginei",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38659,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
+   "slot_iso": "2026-11-28T21:00:00+04:00",
+   "source": {
+    "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/922972699_122157075027170576_7983239177737927209_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=9A8cvaoiwm8Q7kNvwEgsq0A&_nc_oc=AdpPEYq0bZ8ADpGrytV-qkXq8O6IcAzx_vmUj-k2dCNoA7Go1PMH68jd4etxuvo0aKY&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=Gxb8rTqXc--dw_ljriZZqw&_nc_tpa=Q5bMBQIo34_lTdsBP7F1UXinDhy10HsITn6MLpQa2mImpy7LuDNUT9J_Ez8YpU45d_AoN7SNgWf4ozPSHQ&oh=00_AQUq-hh_57rtHtUrsRh0DsKtQtUZD1KpDTDlAXpa2guvaw&oe=6B0FFDFF",
+    "link": "https://www.facebook.com/share/18mFxvbvuh/",
+    "origin": "manual",
+    "page_id": "61585117295331",
+    "text": "My eighteen-year-old daughter died while giving birth, leaving me to raise her newborn son without ever knowing who his father was. For ten years, I cared for that little boy and wondered what secret my daughter had taken to her grave. Then, on what would have been her twenty-eighth birthday, I found a strange woman standing beside her headstone. She pulled a sealed envelope from her purse and whispered, \"I made your daughter a promise. And now it's time you knew the truth.\"\nMy daughter, Teagan, had always kept her personal life to herself.\nShe rarely mentioned boys, and I never knew her to have a serious boyfriend.\nThat's why I was completely shocked when she told me she was pregnant.\n\"Teagan, you're only eighteen!\" I exclaimed. \"Do you understand how difficult raising a child will be?\"\nShe took both my hands and looked directly into my eyes.\n\"Mom, please try to understand. I already love this baby. I want to keep him.\"\nI could see she'd made up her mind.\nBut there was one question I desperately needed answered.\n\"Then tell me who the father is.\"\nHer expression changed immediately.\nShe looked away.\n\"I can't, Mom.\"\nI asked again, but she refused.\nOver the following months, I tried several more times.\nEvery conversation ended the same way.\nTeagan wouldn't reveal his identity.\nEventually, I stopped pushing her, hoping she'd tell me when she was ready.\nBut that day never came.\nA few months later, Teagan went into labor.\nI rushed to the hospital, nervous but excited about meeting my grandchild.\nThen something went terribly wrong.\nSerious complications developed during the delivery.\nDoctors and nurses hurried in and out while I waited helplessly.\nThe minutes felt like hours.\nFinally, a doctor approached me.\nHis expression told me something was wrong before he spoke.\n\"I'm so sorry,\" he said. \"We did everything we could.\"\nMy beautiful daughter was gone.\nShe was only eighteen.\nI couldn't believe I'd never hear her voice again.\nBut the little boy she'd brought into the world had survived.\nWe named him Lucas.\nAnd from the moment I carried him home, I became both his grandmother and the person responsible for raising him.\nThose first years weren't easy.\nI was grieving my daughter while learning how to care for a newborn.\nThere were sleepless nights, endless worries, and moments when I wondered how I'd manage.\nBut every time Lucas smiled, I saw a little piece of Teagan.\nHe gave me a reason to keep going.\nAs he grew older, he became curious about his mother.\n\"Grandma, what was Mommy like?\"\nI'd sit beside him and open our family photo albums.\nI showed him pictures of Teagan as a little girl.\nVideos of her dancing around the living room.\nRecordings of her laughing while opening Christmas presents.\nI wanted him to know how wonderful she had been.\nOne evening, Lucas picked up a photograph of Teagan and studied it carefully.\n\"She's really pretty, Grandma,\" he said. \"Just like you.\"\nThen his smile faded.\n\"I wish I could have met her.\"\nI pulled him into my arms.\n\"Your mommy is watching over you from a little cloud in heaven,\" I whispered. \"And I promise she loves you more than anything.\"\nHe hugged me tightly.\nI held him for a long time.\nYears passed, and Lucas grew into a kind, thoughtful boy.\nBut I never stopped wondering about his father.\nWho was he?\nWhy had Teagan refused to tell me his name?\nAnd did he even know he had a son?\nI had no answers.\nThen came the tenth anniversary of Teagan's death.\nIt was also the day she would have turned twenty-eight.\nLucas and I bought flowers and drove to the cemetery.\nHe'd made a special drawing for his mother and wanted to leave it beside her grave.\nAs we walked toward the headstone, he suddenly stopped.\n\"Grandma! I forgot my drawing in the car!\"\nHe turned and hurried back toward the parking lot.\nI continued along the path alone.\nBut as I approached Teagan's grave, I noticed someone standing beside it.\nA woman.\nI'd never seen her before.\nShe seemed completely absorbed in looking at the headstone.\nI hesitated, then stepped closer.\n\"Excuse me,\" I said gently. \"Did you know my daughter?\"\nThe woman turned so suddenly that I stopped walking.\nHer eyes widened when she saw me.\n\"You're Teagan's mother.\"\nI stared at her.\n\"Yes. Who are you?\"\nShe didn't answer right away.\nInstead, she opened her purse and carefully removed a sealed envelope.\nShe held it in both hands.\n\"I made a promise to your daughter ten years ago,\" she said quietly.\nMy heart began pounding.\n\"What promise?\"\nThe woman looked toward Teagan's headstone.\nThen she turned back to me.\n\"I believe it's finally time you learned the truth.\"\nI stared at the envelope.\nFor ten years, I'd believed my daughter had taken her greatest secret with her.\nThe story doesn't end here, and you won't want to miss what happens next! Find out the rest in the comments below. Comment \"YES\" and give us a Like to read the full story!",
+    "wp_media_id": 38656,
+    "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261128-2100-pt.jpg"
+   },
+   "source_key": "post:61585117295331_122157075093170576",
+   "status": "in_progress",
+   "wp_site": {
+    "comment_link_format": "https://1tari.ru/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://1tari.ru",
+    "wp_auth": "make_connector"
+   }
+  },
+  "2026-11-29 00:00": {
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1152263657979221": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:33:00+04:00",
+       "mode": "schedule",
+       "photo_id": "122125881657422051",
+       "post_id": "1152263657979221_122125881687422051",
+       "status": "scheduled"
+      },
+      "1171031499435218": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:33:17+04:00",
+       "mode": "schedule",
+       "photo_id": "122134975041427262",
+       "post_id": "1171031499435218_122134975071427262",
+       "status": "scheduled"
+      },
+      "1174850269054562": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:33:34+04:00",
+       "mode": "schedule",
+       "photo_id": "122131442643429628",
+       "post_id": "1174850269054562_122131442673429628",
+       "status": "scheduled"
+      },
+      "1177473045460010": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:32:43+04:00",
+       "mode": "schedule",
+       "photo_id": "122129921103417362",
+       "post_id": "1177473045460010_122129921133417362",
+       "status": "scheduled"
+      }
+     },
+     "title": "Sie ist eingetroffen“: Als ihr Mann sie im Weißen Haus zum Schweigen mahnte, stand plötzlich ein Admiral vor ihr",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38665,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1087024577829555": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:34:05+04:00",
+       "mode": "schedule",
+       "photo_id": "122127879489306568",
+       "post_id": "1087024577829555_122127879519306568",
+       "status": "scheduled"
+      }
+     },
+     "title": "Mi esposo me susurró que solo sonriera en la Casa Blanca, hasta que la anfitriona leyó mi sobre y dijo por radio: «Ya llegó",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38667,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {
+      "1302761819594789": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:33:58+04:00",
+       "mode": "schedule",
+       "photo_id": "122127030999502416",
+       "post_id": "1302761819594789_122127031029502416",
+       "status": "scheduled"
+      },
+      "1415822921604354": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:33:53+04:00",
+       "mode": "schedule",
+       "photo_id": "122124614001501700",
+       "post_id": "1415822921604354_122124614031501700",
+       "status": "scheduled"
+      },
+      "1419259861265391": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:33:40+04:00",
+       "mode": "schedule",
+       "photo_id": "122118236925514001",
+       "post_id": "1419259861265391_122118236955514001",
+       "status": "scheduled"
+      },
+      "1493487907172332": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:33:47+04:00",
+       "mode": "schedule",
+       "photo_id": "122117035455520102",
+       "post_id": "1493487907172332_122117035485520102",
+       "status": "scheduled"
+      }
+     },
+     "title": "Ele sussurrou \"só sorria quando for a hora\" na entrada da Casa Branca, mas um almirante de quatro estrelas apertou a mão da esposa e disse que o Presidente esperava por ela",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38666,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
+   "slot_iso": "2026-11-29T00:00:00+04:00",
+   "source": {
+    "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/921669719_122156953533170576_6690616400770466131_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BVRTqwXi2bMQ7kNvwEZZd2X&_nc_oc=AdorNEHT2TdkKwvGn6vPbSmiHv8kBx9lFWu4LWUBD-pN4Z_o9Zuy_vX2_K-dDSjM8ys&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=xN4EE2rPt_DtK4BtIbq6Qg&_nc_tpa=Q5bMBQK_V5q0J3oLA6Voce2SZVekL9eUVktcX0svIZvWy3L7PLa8TxjkvccBoGngoSu4hBDnRC1hafx-9Q&oh=00_AQXnq7kXltz14cw2jvWfc2H0NHyRLBT-cB1wV8QY42B70w&oe=6B0FE98F",
+    "link": "https://www.facebook.com/share/1EwZXar1Qn/",
+    "origin": "manual",
+    "page_id": "61585117295331",
+    "text": "\"At the White House security desk, my husband leaned close and whispered, “Tonight is important, Sloane. Just smile when you’re supposed to.” Then I handed the hostess my own envelope. She scanned it, froze, lifted her radio, and said, **“She’s arrived.”** Thirty seconds later, a four-star admiral was shaking my hand and telling me the President had personally asked to be notified the instant I walked in.\nMy name is Colonel Sloane Merrick.\nMy husband, Colonel Mitchell Ashcroft, and I had served in the Army for twenty-four years each.\nSame rank.\nSame uniform.\nVery different ideas about whose career mattered.\nFor three years of marriage, Mitchell had treated my work in Army logistics like an oversized office job.\nAt barbecues, he called me “the queen of spreadsheets.” At his mother’s house, he joked that the Army had trusted me with “very important paper clips.”\nEveryone laughed.\nI usually did too.\nNot because it was funny.\nBecause I couldn’t explain what I actually did.\nMy assignments involved moving medicine, fuel, aircraft, equipment, and personnel through places most people at those dinner tables couldn’t find on a map. I had signed enough nondisclosure documents to know that silence was part of the job.\nMitchell mistook that silence for insignificance.\nThen the White House invitations arrived.\nHis came first in a heavy cream envelope.\nHe held it up in our kitchen like a trophy.\n“Mom,” he said the second she answered his call, “we’re going to the White House.”\nExcept technically, we weren’t.\nHe was.\nMy invitation arrived two days later in an ordinary government envelope.\nDifferent instructions.\nDifferent arrival time.\nAnd one sentence from the protocol office that made me read it twice.\nI put it in my desk drawer and told Mitchell nothing.\nThe night of the ceremony, he barely looked at me until we were approaching the East Wing checkpoint.\n“There are generals here,” he warned.\n“I know.”\n“Cabinet secretaries.”\n“I know.”\nThen he leaned closer.\n“Don’t make unnecessary conversation.”\nThat was the moment something inside me went cold.\nHe genuinely believed I was there as decoration.\nAt the desk, Mitchell presented his invitation first.\nThe hostess scanned it.\n“Welcome, Colonel Ashcroft.”\nHe gave a satisfied little nod.\nThen she turned to me.\nI reached into my purse and handed over my envelope.\nMitchell frowned.\n“What’s that?”\nThe scanner beeped.\nThe hostess looked at her screen.\nThen she scanned it again.\nHer expression changed.\nShe immediately touched her radio.\n“Protocol, checkpoint one,” she said. “She’s arrived.”\nAcross the corridor, a four-star admiral stopped mid-conversation and walked directly toward us.\nMitchell shifted beside me.\n“Sloane… what’s happening?”\nThe admiral extended his hand.\n“Colonel Merrick. It’s an honor to finally meet you.”\nI shook it.\n“The honor is mine, sir.”\nHe smiled.\n“The President asked us to notify him the moment you arrived.”\nMitchell inhaled sharply.\nThen a protocol officer appeared.\n“Colonel Ashcroft, your assigned seating is this way.”\nMitchell stepped forward.\n“My wife is with me.”\nThe woman smiled politely.\n“Colonel Merrick has separate seating, sir.”\nI walked toward the East Room with the admiral.\nWhen I glanced back, Mitchell was still standing at the checkpoint.\nFor once, he had nothing to say.\nInside, senior officers rose as I passed.\nAn Air Force general smiled at me.\n“So you actually exist.”\n“Only on good days, sir.”\nHe laughed and pointed me toward the front row.\nMinutes later, the President entered.\nThe room stood.\nThen he began speaking about people whose work happened quietly—people who prepared for disasters before anyone else knew danger was coming.\nMitchell sat eight rows behind me.\nFor the first time in three years, he was listening.\nThen the President looked directly at me.\nHe paused.\nAnd began to say my name.\nThe story is too long to post in the caption, so just say you \"\"Yes\"\". The full story will be in the comments below.",
+    "wp_media_id": 38664,
+    "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261129-0000-pt.jpg"
+   },
+   "source_key": "post:61585117295331_122156953599170576",
+   "status": "in_progress",
+   "wp_site": {
+    "comment_link_format": "https://1tari.ru/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://1tari.ru",
+    "wp_auth": "make_connector"
+   }
+  }
+ },
+ "source_cutoff": "2026-11-27T23:15:49+00:00",
+ "sources": {
+  "link:088bf4b8a955cf8cfa2b": {
+   "link": "https://www.facebook.com/share/1SdTDbmDAF/",
+   "resolved": "https://www.facebook.com/61585117295331/posts/122157103035170576/?rdid=piSRc9HsqbAY481F&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1SdTDbmDAF%2F"
+  },
+  "link:27f48498fce81bf5438e": {
+   "link": "https://www.facebook.com/share/p/1KbpJsfouA/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122187204614727462&id=61571823878133"
+  },
+  "link:32eb9bb64d8f089fc023": {
+   "link": "https://www.facebook.com/share/1EwZXar1Qn/",
+   "resolved": "https://www.facebook.com/61585117295331/posts/122156953599170576/?rdid=vNz3hG88VUWxasUN&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1EwZXar1Qn%2F"
+  },
+  "link:8bbe57c23ef63e799c66": {
+   "link": "https://www.facebook.com/share/p/1KuzhenbEh/",
+   "resolved": "https://www.facebook.com/story.php?story_fbid=122187359828727462&id=61571823878133"
+  },
+  "link:b9a3cf828d5104c1a3cc": {
+   "link": "https://www.facebook.com/share/18mFxvbvuh/",
+   "resolved": "https://www.facebook.com/61585117295331/posts/122157075093170576/?rdid=eBy07uvgsPif9DTT&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F18mFxvbvuh%2F"
+  },
+  "post:61571823878133_122187204614727462": {
+   "fingerprint": "3a12f51a18151b7f59d5",
+   "link": "https://www.facebook.com/share/p/1KbpJsfouA/",
+   "origin": "manual",
+   "page_id": "61571823878133",
+   "slot": "2026-11-28 15:00",
+   "status": "used"
+  },
+  "post:61571823878133_122187359828727462": {
+   "fingerprint": "75cf8f5f9ba7fb59c495",
+   "link": "https://www.facebook.com/share/p/1KuzhenbEh/",
+   "origin": "manual",
+   "page_id": "61571823878133",
+   "slot": "2026-11-28 12:00",
+   "status": "used"
+  },
+  "post:61585117295331_122156953599170576": {
+   "fingerprint": "64539d5d035ac998eb7a",
+   "link": "https://www.facebook.com/share/1EwZXar1Qn/",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-29 00:00",
+   "status": "used"
+  },
+  "post:61585117295331_122157075093170576": {
+   "fingerprint": "cf619fe14c0448fbacef",
+   "link": "https://www.facebook.com/share/18mFxvbvuh/",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-28 21:00",
+   "status": "used"
+  },
+  "post:61585117295331_122157103035170576": {
+   "fingerprint": "84f9fc61aed9775c52d9",
+   "link": "https://www.facebook.com/share/1SdTDbmDAF/",
+   "origin": "manual",
+   "page_id": "61585117295331",
+   "slot": "2026-11-28 18:00",
+   "status": "used"
+  }
+ },
+ "tests": {},
+ "version": 1
+}
