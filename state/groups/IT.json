@@ -16,6 +16,7 @@
   "cd26b8fa1ce322592f40": "2026-11-25T17:14:49+00:00",
   "d1a81a021519eeb38263": "2026-11-26T06:43:22+00:00",
   "d8e9da0361d392fa44fa": "2026-11-23T22:26:30+00:00",
+  "d938851e6da2679af0b6": "2026-11-27T23:16:49+00:00",
   "dc1e717f202c135c30d1": "2026-11-23T22:35:54+00:00",
   "dfb4df94cb8729c0aa49": "2026-11-26T21:35:19+00:00",
   "e98c015a48b315dbeed6": "2026-11-26T06:36:00+00:00",
@@ -3830,7 +3831,72 @@
    }
   },
   "2026-11-28 12:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Tre giorni dopo il matrimonio mio marito ha rovesciato la tavola a calci urlando che una donna va picchiata. Non sapeva chi aveva sposato",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38636,
+     "wp_status": "future"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-28T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/929286055_122157102195170576_3404844191316627679_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=102&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=rY25T-hdwKgQ7kNvwFsXhHd&_nc_oc=Adq-YRDPFUjCHVJpa4mwGhY_vL5yc5xNwyoQRF1lfU9XXTWXQmntP2ofIyz9mFSD7Vc&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=f-_VO141Xo93ntuXOsgf3w&_nc_tpa=Q5bMBQINhI_fTWpvAoe_7xu8e-4BrRmPvZ7KSs2o86E2EjfOGH3L8P8bOhGOvQ4NXQhzbnrOqMeMTpAu2g&oh=00_AQWWSCQ7zT2E2wHgtoTi64UPTYEFWAkLDXwcOTWLjNMVQw&oe=6B0FC82F",
@@ -3842,7 +3908,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261128-1200-it.jpg"
    },
    "source_key": "post:61585117295331_122157103035170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -4136,7 +4202,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-28 12:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61586097333334_122144996601203244": {
    "fingerprint": "3d2a260a217f52692622",
