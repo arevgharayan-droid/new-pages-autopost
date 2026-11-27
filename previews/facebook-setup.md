@@ -1,6 +1,6 @@
 ## Подключение Facebook
 
-✅ Получены токены страниц: **30 из 30**
+✅ Получены токены страниц: **49 из 49**
 Срок действия токенов страниц: бессрочно
 Разрешения: pages_show_list, business_management, pages_read_engagement, pages_read_user_content, pages_manage_posts, pages_manage_engagement, public_profile
 
