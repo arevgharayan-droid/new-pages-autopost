@@ -4075,12 +4075,14 @@
       },
       "1332465683280302": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127313449419554_2281689096093171",
        "error": null,
        "last_attempt": "2026-11-27T01:37:46+04:00",
        "mode": "schedule",
        "photo_id": "122127313419419554",
        "post_id": "1332465683280302_122127313449419554",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "My Best Friend of 37 Years Asked for One Last Photo on Our Beach Trip, Then Whispered a Secret About My Late Husband",
@@ -4145,7 +4147,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261127-1800-en.jpg"
    },
    "source_key": "post:61587026316282_122144797473234210",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
