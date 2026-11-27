@@ -3655,12 +3655,14 @@
       },
       "1332465683280302": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127312621419554_1621798506297108",
        "error": null,
        "last_attempt": "2026-11-27T01:31:44+04:00",
        "mode": "schedule",
        "photo_id": "122127312591419554",
        "post_id": "1332465683280302_122127312621419554",
-       "status": "published"
+       "status": "done"
       }
      },
      "title": "He Was About to Board His Jet When the Cameras Showed His Fiancée Forcing the Woman Who Raised Him to Her Knees",
@@ -3723,7 +3725,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261127-1200-en.jpg"
    },
    "source_key": "post:61587026316282_122145200019234210",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
