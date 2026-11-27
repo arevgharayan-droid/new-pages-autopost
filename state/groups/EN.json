@@ -10,6 +10,7 @@
   "4f0e670b2d786178e52d": "2026-11-24T19:17:49+00:00",
   "61b02a3de9fbb66eb826": "2026-11-26T21:37:37+00:00",
   "66bef46121babdedb4ac": "2026-11-26T06:36:00+00:00",
+  "6ef40a8b8f7ef5850210": "2026-11-27T23:21:11+00:00",
   "736aa1cfbb9b2e814796": "2026-11-26T21:40:18+00:00",
   "7a0505ae27605e9f4fe2": "2026-11-23T22:28:28+00:00",
   "7cf19d3d9437666b2e88": "2026-11-25T18:49:05+00:00",
@@ -4796,7 +4797,72 @@
    }
   },
   "2026-11-28 15:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "EN": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "My Husband Took the House, the Money and Everything Else While I Sat in Court Eight Months Pregnant, Until a Billionaire Burst Through the Doors and Called Me His Daughter",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38643,
+     "wp_status": "future"
+    },
+    "ES": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-28T15:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/933079466_1463284019265799_1701045818953218758_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=tgDKjIATHB0Q7kNvwGJlKKf&_nc_oc=AdoZsoFEKN96-gWljCEy2kl2ewhjs1vKw9H942g4xjQzgmbDIg2LvPTvyW32DImFHpM&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=Q-YOjFpz1NBtVfDzDvBmIQ&_nc_tpa=Q5bMBQLuIarAj60MSHqsda4Jkr8haBN0Wy8i1hfjsdzwo3wIMxLCR5-5KeMqX_DlUos6SYvjyUSNcuaVFA&oh=00_AQUj9RIC_-kWgA8b6LsIXL5cDDtCdJOaQDYr2giznFmdXA&oe=6B0FFB50",
@@ -4808,7 +4874,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261128-1500-en.jpg"
    },
    "source_key": "post:100067526447776_1464605402466994",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -4977,7 +5043,7 @@
    "origin": "manual",
    "page_id": "100067526447776",
    "slot": "2026-11-28 15:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:100067526447776_1464904685770399": {
    "fingerprint": "dbe94860f55d4c1cd7d4",
