@@ -3,9 +3,12 @@
  "output_fps": {
   "0dc120d4d87c6dc8b9cb": "2026-11-27T23:28:31+00:00",
   "26789b0876de0cadd7e8": "2026-11-27T23:24:39+00:00",
+  "32ea9113363b3c5ea976": "2026-11-27T23:32:28+00:00",
   "352df70a7ba28c966986": "2026-11-27T23:21:01+00:00",
+  "3a0cc8856f7f718145cf": "2026-11-27T23:32:28+00:00",
   "6f214643e4deccd9a935": "2026-11-27T23:28:31+00:00",
   "8ecb02ce83789dc04ef5": "2026-11-27T23:24:39+00:00",
+  "9018b60858693c349a16": "2026-11-27T23:32:28+00:00",
   "9371e3bca9bd4b653cf4": "2026-11-27T23:16:46+00:00",
   "9d83d0b74fed20418bf1": "2026-11-27T23:16:46+00:00",
   "c0d3f47f54ca5d007b9a": "2026-11-27T23:24:39+00:00",
@@ -826,7 +829,86 @@
    }
   },
   "2026-11-29 00:00": {
-   "langs": {},
+   "langs": {
+    "AR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "CS": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "DE": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Sie ist eingetroffen“: Als ihr Mann sie im Weißen Haus zum Schweigen mahnte, stand plötzlich ein Admiral vor ihr",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38665,
+     "wp_status": "future"
+    },
+    "EN": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "ES": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Mi esposo me susurró que solo sonriera en la Casa Blanca, hasta que la anfitriona leyó mi sobre y dijo por radio: «Ya llegó",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38667,
+     "wp_status": "future"
+    },
+    "FR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "IT": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "NL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PL": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "PT": {
+     "backend": "subscription",
+     "gen_error": null,
+     "generated": true,
+     "pages": {},
+     "title": "Ele sussurrou \"só sorria quando for a hora\" na entrada da Casa Branca, mas um almirante de quatro estrelas apertou a mão da esposa e disse que o Presidente esperava por ela",
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38666,
+     "wp_status": "future"
+    },
+    "RO": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "RU": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "TR": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    },
+    "UK": {
+     "pages": {},
+     "skipped": "нет подключённых страниц"
+    }
+   },
+   "prepared": true,
    "slot_iso": "2026-11-29T00:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/921669719_122156953533170576_6690616400770466131_n.jpg?stp=dst-jpg_p720x720_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=127cfc&_nc_ohc=BVRTqwXi2bMQ7kNvwEZZd2X&_nc_oc=AdorNEHT2TdkKwvGn6vPbSmiHv8kBx9lFWu4LWUBD-pN4Z_o9Zuy_vX2_K-dDSjM8ys&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=xN4EE2rPt_DtK4BtIbq6Qg&_nc_tpa=Q5bMBQK_V5q0J3oLA6Voce2SZVekL9eUVktcX0svIZvWy3L7PLa8TxjkvccBoGngoSu4hBDnRC1hafx-9Q&oh=00_AQXnq7kXltz14cw2jvWfc2H0NHyRLBT-cB1wV8QY42B70w&oe=6B0FE98F",
@@ -838,7 +920,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261129-0000-pt.jpg"
    },
    "source_key": "post:61585117295331_122156953599170576",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -891,7 +973,7 @@
    "origin": "manual",
    "page_id": "61585117295331",
    "slot": "2026-11-29 00:00",
-   "status": "reserved"
+   "status": "used"
   },
   "post:61585117295331_122157075093170576": {
    "fingerprint": "cf619fe14c0448fbacef",
