@@ -437,7 +437,7 @@
   "1332465683280302_122127312621419554": "2026-11-27T08:11:49+00:00",
   "1332465683280302_122127313185419554": "2026-11-27T11:11:29+00:00",
   "1332465683280302_122127313449419554": "2026-11-27T14:11:59+00:00",
-  "1332465683280302_122127314013419554": "2026-11-26T21:40:32+00:00",
+  "1332465683280302_122127314013419554": "2026-11-27T17:11:28+00:00",
   "1332465683280302_122127314481419554": "2026-11-26T21:42:56+00:00"
  },
  "slots": {
@@ -4275,21 +4275,25 @@
       },
       "1230681516788381": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122137350777372596_1642329230174203",
        "error": null,
        "last_attempt": "2026-11-27T01:41:00+04:00",
        "mode": "schedule",
        "photo_id": "122137350747372596",
        "post_id": "1230681516788381_122137350777372596",
-       "status": "published"
+       "status": "done"
       },
       "1332465683280302": {
        "attempts": 1,
+       "comment_attempts": 1,
+       "comment_id": "122127314013419554_1160343533053508",
        "error": null,
        "last_attempt": "2026-11-27T01:40:29+04:00",
        "mode": "schedule",
        "photo_id": "122127313977419554",
        "post_id": "1332465683280302_122127314013419554",
-       "status": "scheduled"
+       "status": "done"
       }
      },
      "title": "He Abandoned His Twin Sons 13 Years Ago, Then Saw Them Win Gold Medals On Stage",
@@ -4354,7 +4358,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261127-2100-en.jpg"
    },
    "source_key": "post:61587026316282_122144478039234210",
-   "status": "in_progress",
+   "status": "done",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
