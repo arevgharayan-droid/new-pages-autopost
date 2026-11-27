@@ -1390,3 +1390,4 @@
 {"slot": "2026-11-28 12:00", "lang": "IT", "action": "generated", "backend": "subscription", "warnings": [], "t": "2026-11-27T23:16:49+00:00", "group": "IT"}
 {"slot": "2026-11-28 12:00", "lang": "PT", "action": "wp_post", "id": 38635, "status": "future", "t": "2026-11-27T23:16:49+00:00", "group": "PT"}
 {"slot": "2026-11-28 12:00", "lang": "IT", "action": "wp_post", "id": 38636, "status": "future", "t": "2026-11-27T23:16:50+00:00", "group": "IT"}
+{"slot": "2026-11-28 12:00", "lang": "ES", "action": "wp_post", "id": 38637, "status": "future", "t": "2026-11-27T23:16:50+00:00", "group": "PT"}

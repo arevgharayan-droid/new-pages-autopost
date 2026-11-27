@@ -38,7 +38,10 @@
      "generated": true,
      "pages": {},
      "title": "Escuché a mi marido brindar por mi muerte la noche antes de mi operación de corazón, y lo que dijo sobre el accidente de mis padres lo cambió todo",
-     "warnings": []
+     "warnings": [],
+     "wp_error": null,
+     "wp_id": 38637,
+     "wp_status": "future"
     },
     "FR": {
      "pages": {},
@@ -84,6 +87,7 @@
      "skipped": "нет подключённых страниц"
     }
    },
+   "prepared": true,
    "slot_iso": "2026-11-28T12:00:00+04:00",
    "source": {
     "image_url": "https://scontent-ord5-1.xx.fbcdn.net/v/t39.30808-6/925814347_122187359804727462_1811883881964743777_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=100&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=9P20zbmRHP0Q7kNvwFVp3D5&_nc_oc=AdrXwkLF_jYUt2EtSe9L3phpVePS5U620beJyq43sxXdA5hz8o6X3E8G6PCzZRm7TUE&_nc_zt=23&_nc_ht=scontent-ord5-1.xx&edm=ADqbNqUEAAAA&_nc_gid=rwancJhDw7FOlGhwyFr8fw&_nc_tpa=Q5bMBQKruwcfZ0JLrheEydlBSKRoNBs0ZQUMgo4cHx3a29oRpet8gyAqWXX9iqAl9DTExtEKHH8dOvzY8w&oh=00_AQWbNtyng3zC2_xClUvHi2gbwL4j76Sq44NhMrG40s1J4Q&oe=6B0FC743",
@@ -95,7 +99,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261128-1200-pt.jpg"
    },
    "source_key": "post:61571823878133_122187359828727462",
-   "status": "preparing",
+   "status": "prepared",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
@@ -132,7 +136,7 @@
    "origin": "manual",
    "page_id": "61571823878133",
    "slot": "2026-11-28 12:00",
-   "status": "reserved"
+   "status": "used"
   }
  },
  "tests": {},
