@@ -5,7 +5,26 @@
   "9d83d0b74fed20418bf1": "2026-11-27T23:16:46+00:00",
   "e885b7c09f3b7069b2fe": "2026-11-27T23:16:46+00:00"
  },
- "outputs": {},
+ "outputs": {
+  "1087024577829555_122127878181306568": "2026-11-27T23:20:13+00:00",
+  "1152263657979221_122125880367422051": "2026-11-27T23:17:35+00:00",
+  "1171031499435218_122134973031427262": "2026-11-27T23:17:57+00:00",
+  "1174850269054562_122131440879429628": "2026-11-27T23:18:19+00:00",
+  "1177473045460010_122129918979417362": "2026-11-27T23:17:13+00:00",
+  "122117033451520102": "2026-11-27T23:19:07+00:00",
+  "122118234213514001": "2026-11-27T23:18:42+00:00",
+  "122124611481501700": "2026-11-27T23:19:30+00:00",
+  "122125880331422051": "2026-11-27T23:17:35+00:00",
+  "122127028563502416": "2026-11-27T23:19:52+00:00",
+  "122127878151306568": "2026-11-27T23:20:13+00:00",
+  "122129918949417362": "2026-11-27T23:17:13+00:00",
+  "122131440849429628": "2026-11-27T23:18:19+00:00",
+  "122134973001427262": "2026-11-27T23:17:57+00:00",
+  "1302761819594789_122127028593502416": "2026-11-27T23:19:52+00:00",
+  "1415822921604354_122124611511501700": "2026-11-27T23:19:30+00:00",
+  "1419259861265391_122118234243514001": "2026-11-27T23:18:42+00:00",
+  "1493487907172332_122117033487520102": "2026-11-27T23:19:07+00:00"
+ },
  "slots": {
   "2026-11-28 12:00": {
    "langs": {
@@ -21,7 +40,44 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1152263657979221": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:17:33+04:00",
+       "mode": "schedule",
+       "photo_id": "122125880331422051",
+       "post_id": "1152263657979221_122125880367422051",
+       "status": "scheduled"
+      },
+      "1171031499435218": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:17:54+04:00",
+       "mode": "schedule",
+       "photo_id": "122134973001427262",
+       "post_id": "1171031499435218_122134973031427262",
+       "status": "scheduled"
+      },
+      "1174850269054562": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:18:16+04:00",
+       "mode": "schedule",
+       "photo_id": "122131440849429628",
+       "post_id": "1174850269054562_122131440879429628",
+       "status": "scheduled"
+      },
+      "1177473045460010": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:17:10+04:00",
+       "mode": "schedule",
+       "photo_id": "122129918949417362",
+       "post_id": "1177473045460010_122129918979417362",
+       "status": "scheduled"
+      }
+     },
      "title": "Morgen um neun ist meine Frau tot“: Als Tessa ihren Mann auf der Party belauschte, erfuhr sie, dass er auch den Tod ihrer Eltern geplant haben könnte",
      "warnings": [],
      "wp_error": null,
@@ -36,7 +92,17 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1087024577829555": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:20:11+04:00",
+       "mode": "schedule",
+       "photo_id": "122127878151306568",
+       "post_id": "1087024577829555_122127878181306568",
+       "status": "scheduled"
+      }
+     },
      "title": "Escuché a mi marido brindar por mi muerte la noche antes de mi operación de corazón, y lo que dijo sobre el accidente de mis padres lo cambió todo",
      "warnings": [],
      "wp_error": null,
@@ -63,7 +129,44 @@
      "backend": "subscription",
      "gen_error": null,
      "generated": true,
-     "pages": {},
+     "pages": {
+      "1302761819594789": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:19:49+04:00",
+       "mode": "schedule",
+       "photo_id": "122127028563502416",
+       "post_id": "1302761819594789_122127028593502416",
+       "status": "scheduled"
+      },
+      "1415822921604354": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:19:27+04:00",
+       "mode": "schedule",
+       "photo_id": "122124611481501700",
+       "post_id": "1415822921604354_122124611511501700",
+       "status": "scheduled"
+      },
+      "1419259861265391": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:18:39+04:00",
+       "mode": "schedule",
+       "photo_id": "122118234213514001",
+       "post_id": "1419259861265391_122118234243514001",
+       "status": "scheduled"
+      },
+      "1493487907172332": {
+       "attempts": 1,
+       "error": null,
+       "last_attempt": "2026-11-28T03:19:05+04:00",
+       "mode": "schedule",
+       "photo_id": "122117033451520102",
+       "post_id": "1493487907172332_122117033487520102",
+       "status": "scheduled"
+      }
+     },
      "title": "Ouvi o meu marido brindar à minha morte na véspera da cirurgia ao coração, mas o que o sogro revelou sobre o acidente dos meus pais mudou tudo",
      "warnings": [],
      "wp_error": null,
@@ -99,7 +202,7 @@
     "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261128-1200-pt.jpg"
    },
    "source_key": "post:61571823878133_122187359828727462",
-   "status": "prepared",
+   "status": "in_progress",
    "wp_site": {
     "comment_link_format": "https://1tari.ru/?p={wp_id}",
     "key_secret": "WP_API_KEY",
