@@ -209,6 +209,27 @@
     "url": "https://1tari.ru",
     "wp_auth": "make_connector"
    }
+  },
+  "2026-11-28 15:00": {
+   "langs": {},
+   "slot_iso": "2026-11-28T15:00:00+04:00",
+   "source": {
+    "image_url": "https://scontent-ord5-2.xx.fbcdn.net/v/t39.30808-6/928202927_122187204584727462_4630674718840694764_n.jpg?stp=dst-jpg_s960x960_tt6&_nc_cat=107&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=833d8c&_nc_ohc=KHdSraeW-hYQ7kNvwE7Hn4q&_nc_oc=AdooQZ35wVDj24nNTAxpf47QXQhB3AWq2KxUL5OosnfZ7LQO8RV7L6OaacRF7-SsGhY&_nc_zt=23&_nc_ht=scontent-ord5-2.xx&edm=ADqbNqUEAAAA&_nc_gid=y7rIkGPAryUaQti8L0meNg&_nc_tpa=Q5bMBQInvwPo2R3UQE1f0Napp0mlRYbAhB9MaCSOalhQJVKyro8eq4LaCDvC4y6m1cG0_mi3-hvTSsmooA&oh=00_AQXM--18zFIX3l2i_aXgDxNy01ixLiIAidRm4LOCGwu4eg&oe=6B0FC888",
+    "link": "https://www.facebook.com/share/p/1KbpJsfouA/",
+    "origin": "manual",
+    "page_id": "61571823878133",
+    "text": "Mio figlio di 14 anni si è lasciato crescere i capelli per far realizzare una parrucca per la sua compagna di classe, che aveva perso i suoi a causa del cancro. Ma il giorno seguente sono stata convocata a scuola, dove suo padre mi stava aspettando. Appena mi ha vista, mi ha detto: «Lei non ha la minima idea di quello che ha fatto suo figlio, vero?»\n\nMio figlio Ethan e Lily erano migliori amici fin dalle scuole elementari. Anche durante l’adolescenza erano rimasti inseparabili.\n\nPurtroppo, l’anno scorso, a Lily è stato diagnosticato un cancro.\n\nVedevo quanto Ethan fosse preoccupato per lei.\n\nPoi, un giorno, Ethan si è rifiutato di tagliarsi i capelli.\n\nContinuava a ripetermi:\n\n«Mamma, mi lascerò crescere i capelli affinché Lily possa finalmente sentirsi di nuovo se stessa.»\n\nNon riesco nemmeno a descrivere quanto fossi orgogliosa di mio figlio.\n\nLily aveva perso tutti i capelli a causa della chemioterapia e, nonostante le prese in giro che Ethan subiva a scuola, era riuscito a far crescere i suoi abbastanza da poterli donare.\n\nHo quindi contattato un’associazione specializzata nella realizzazione di parrucche e, una mattina, ho accompagnato Ethan a farsi tagliare i capelli.\n\nQuando Ethan ha regalato la parrucca a Lily, lei è scoppiata in lacrime appena l’ha vista.\n\nPensavo che la storia finisse lì.\n\nMa la mattina seguente ho ricevuto una telefonata dalla scuola di Ethan.\n\nEra il preside, il signor Harrison.\n\nSi è schiarito la voce prima di dirmi:\n\n«Signora, mi dispiace, ma deve venire immediatamente a scuola. Il padre di Lily è qui e insiste per parlarle subito.»\n\nHo sentito le gambe cominciare a tremare.\n\nNon avevo la minima idea di cosa stesse succedendo, ma dieci minuti dopo ero già a scuola.\n\nIl fatto è che parlavo molto poco con i genitori di Lily. Non saprei nemmeno spiegare esattamente il motivo. Erano semplicemente persone molto riservate e distaccate.\n\nInoltre, anche se non potevo esserne certa, avevo sempre avuto l’impressione che Ethan non fosse particolarmente simpatico a loro.\n\nQuando sono entrata nell’ufficio del preside, Ethan era seduto lì.\n\nEra pallido come un lenzuolo.\n\nIl padre di Lily era seduto accanto a lui.\n\nHo accennato un sorriso imbarazzato.\n\n«Allora… cosa sta succedendo? Riguarda la parrucca o qualcosa del genere?»\n\nL’uomo mi ha fissata per qualche istante, poi si è rivolto a Ethan.\n\n«Davvero non le hai detto niente?»\n\nIl mio sorriso è scomparso all’istante.\n\n«Non mi ha detto niente riguardo a cosa?»\n\nIl padre di Lily mi ha guardata dritta negli occhi e ha dichiarato:\n\n«Lei non ha la minima idea di quello che ha fatto suo figlio, vero?»\n\nPoi si è rivolto a Ethan:\n\n«Per favore, racconta immediatamente la verità a tua madre. Altrimenti sarò costretto a farlo io.»\n\nHo guardato Ethan.\n\nNon aveva nemmeno il coraggio di incrociare il mio sguardo.\n\nLa storia è troppo lunga per essere raccontata interamente in questo post, quindi scrivete semplicemente «Sì».\n\nLa storia completa si trova nel primo commento qui sotto. 👇",
+    "wp_media_id": 38638,
+    "wp_media_url": "https://1tari.ru/wp-content/uploads/2026/11/interes-20261128-1500-pt.jpg"
+   },
+   "source_key": "post:61571823878133_122187204614727462",
+   "status": "preparing",
+   "wp_site": {
+    "comment_link_format": "https://1tari.ru/?p={wp_id}",
+    "key_secret": "WP_API_KEY",
+    "url": "https://1tari.ru",
+    "wp_auth": "make_connector"
+   }
   }
  },
  "source_cutoff": "2026-11-27T23:15:49+00:00",
@@ -232,6 +253,14 @@
   "link:b9a3cf828d5104c1a3cc": {
    "link": "https://www.facebook.com/share/18mFxvbvuh/",
    "resolved": "https://www.facebook.com/61585117295331/posts/122157075093170576/?rdid=eBy07uvgsPif9DTT&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F18mFxvbvuh%2F"
+  },
+  "post:61571823878133_122187204614727462": {
+   "fingerprint": "3a12f51a18151b7f59d5",
+   "link": "https://www.facebook.com/share/p/1KbpJsfouA/",
+   "origin": "manual",
+   "page_id": "61571823878133",
+   "slot": "2026-11-28 15:00",
+   "status": "reserved"
   },
   "post:61571823878133_122187359828727462": {
    "fingerprint": "75cf8f5f9ba7fb59c495",
